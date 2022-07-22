@@ -15,15 +15,15 @@ from selenium import webdriver
 
 
 #%% Functions
-def jb_build(driver, cwd_path):
+def jb_build(driver,book):
     print("Start:", time.ctime())
-    os.system(f"jb build {cwd_path}")
+    os.system(f"jb build {book}")
     driver.refresh()
 
 
-def git_status(cwd_path):
+def git_status():
     cmd_git = subprocess.Popen(['git status -s'], shell = True, \
-        stdin = subprocess.PIPE, stdout = subprocess.PIPE, cwd = cwd_path)  
+        stdin = subprocess.PIPE, stdout = subprocess.PIPE, cwd = "./")  
     cmd_out_raw = cmd_git.stdout.read()
     cmd_git.wait()
     cmd_git.stdout.close()
@@ -41,13 +41,13 @@ def main():
     driver= webdriver.Chrome()
     driver.get(url)
     os.system("git switch dev")
-    jb_build(driver, cwd_path)
+    jb_build(driver, book)
     while True:
         time.sleep(sleep_time)
-        out = git_status(cwd_path) 
+        out = git_status() 
         if len(out) != 1:
             print("Change number = ", len(out))
-            jb_build(driver, cwd_path)
+            jb_build(driver, book)
             git_commit()
         else:
             print("No change and continue...")
@@ -57,7 +57,7 @@ def main():
 
 #%% Main
 url = "file:///Users/yinfu/code/1-Notebook/Notebook/book/_build/html/intro.html"
-cwd_path = "./books"
+book = "./book"
 sleep_time = 0.1 # unit/s
 
 if __name__ == '__main__':
