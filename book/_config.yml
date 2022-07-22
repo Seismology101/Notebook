@@ -4,6 +4,7 @@
 title: Seismology Notebook
 author: Fu Yin
 logo: logo.jpg
+copyright : "2020–2022"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
