@@ -9,8 +9,7 @@ from selenium import webdriver
 #%% Functions
 def jb_build(url, cwd_path):
     print("Start:", time.ctime())
-    driver= webdriver.Chrome()
-    driver.get(url)
+    
     os.system(f"jb build {cwd_path}")
     driver.refresh()
 
@@ -32,6 +31,8 @@ def git_commit():
 
 
 def main():
+    driver= webdriver.Chrome()
+    driver.get(url)
     os.system("git switch dev")
     jb_build(url, cwd_path)
     while True:
