@@ -14,9 +14,18 @@ parts:
       sections:
       - file: conda
       - file: package
+    - file: C++
+      sections:
+      - file: GNU
+      - file: package
+  - caption: Python Script
+    chapters:
+    - file: File-IO
+    - file: Subprocess
   - caption: PyGMT Script
     chapters:
-    - file: markdown-notebooks
+    - file: Map
+    - file: Velocity Model
   - caption: Data Processing
     chapters:
     - file: markdown-notebooks
