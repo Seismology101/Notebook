@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Use jupyter-book generate html automatically.
-
+    1. Download Chrome-driver plug in from https://chromedriver.chromium.org/
 @Author: Fu Yin || Fri Jul 22 21:59:08 2022
 """
 
@@ -42,8 +42,7 @@ def main():
     jb_build(driver, cwd_path)
     while True:
         time.sleep(sleep_time)
-        out = git_status(cwd_path)
-        
+        out = git_status(cwd_path) 
         if len(out) != 1:
             print("Change number = ", len(out))
             jb_build(driver, cwd_path)
