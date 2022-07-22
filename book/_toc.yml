@@ -22,5 +22,6 @@ parts:
     - file: Noise source analysis
   - caption: Surface Wave
     chapters:
-    - file: Cross-correlation
-    - file: Noise source analysis
+    - file: Forward Model
+    - file: Sensitivity Kernal
+    - file: Inversion
