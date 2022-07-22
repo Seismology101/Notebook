@@ -10,6 +10,6 @@ parts:
       sections:
       - file: notebooks
       - file: notebooks-1
-  - caption: 计算机基础
+  - caption: PyGMT Script
     chapters:
     - file: markdown-notebooks
