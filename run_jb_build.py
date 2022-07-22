@@ -37,11 +37,13 @@ def main():
     while True:
         time.sleep(sleep_time)
         out = git_status(cwd_path)
-        print("length of out = ", len(out))
+        
         if len(out) != 1:
+            print("Change number = ", len(out))
             jb_build(driver, cwd_path)
             git_commit()
         else:
+            print("No change and continue")
             continue
 
 
