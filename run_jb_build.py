@@ -30,7 +30,7 @@ while True:
 
     print("out=",len(out))
 
-    if len(out) >= 2:
+    if len(out) != 1:
         print("Start : %s",time.ctime())
         time.sleep(0.01)
         os.system("jb build book")
