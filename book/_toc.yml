@@ -10,6 +10,6 @@ parts:
       sections:
       - file: notebooks
   #     - file: 
-  # - caption: 计算机基础
-  #   chapters:
-  #   - file: markdown-notebooks
+  - caption: 计算机基础
+    chapters:
+    - file: markdown-notebooks
