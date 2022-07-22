@@ -6,7 +6,8 @@ root: intro
 parts:
   - caption: Programming Environment
     chapters:
-    - file: markdown
+    - file: Mac Software
+    - file: Iterm2
       sections:
       - file: notebooks
       - file: notebooks-1
