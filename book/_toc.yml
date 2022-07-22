@@ -3,7 +3,20 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: 计算机基础
+    chapters:
+    - file: markdown
+    - file: notebooks
+    - file: markdown-notebooks
+      sections:
+      - file: markdown
+      - file: notebooks
+      - file: markdown-notebooks
+  - caption: 计算机基础
+    chapters:
+    - file: markdown
+    - file: notebooks
+      sections:
+      - file: markdown
+      - file: notebooks
