@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Use jupyter-book generate html automatically.
-    1. Download Chrome-driver plug in from https://chromedriver.chromium.org/
-    2.
-    
+    1. Download Chrome-driver Plug-in for selenium package from https://chromedriver.chromium.org/
+    2. Run this script 
+
 @Author: Fu Yin || Fri Jul 22 21:59:08 2022
 """
 
