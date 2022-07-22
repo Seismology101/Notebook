@@ -1,7 +1,7 @@
 #!/Users/yinfu/opt/miniconda3/bin python3
 # -*- coding: utf-8 -*-
 """
-Use jupyter-book generate html automatically
+Use jupyter-book generate html automatically.
 
 """
 
