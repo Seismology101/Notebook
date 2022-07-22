@@ -9,7 +9,7 @@ driver= webdriver.Chrome() #  需要 下载 对应浏览器 驱动到 python 安
 driver.get("file:///Users/yinfu/code/1-Notebook/Notebook/book/_build/html/intro.html") # 刷新网址
 
 
-
+os.system("git switch feature_x")
 
 print("Start : %s",time.ctime())
 time.sleep(0.01)
@@ -19,8 +19,6 @@ driver.refresh()
 
 
 while True:
-    
-
     cc = subprocess.Popen(['git status -s'], shell=True,stdin=subprocess.PIPE,stdout=subprocess.PIPE, cwd="./book")  
     oo = cc.stdout.read()
     out=oo.decode()
