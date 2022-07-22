@@ -11,15 +11,15 @@ driver.get("file:///Users/yinfu/code/1-Notebook/Notebook/book/_build/html/intro.
 
 
 
-
+print("Start : %s",time.ctime())
+time.sleep(0.01)
+os.system("jb build book")
+driver.refresh()
 
 
 
 while True:
-    print("Start : %s",time.ctime())
-    time.sleep(0.01)
-    os.system("jb build book")
-    driver.refresh()
+    
 
     cc = subprocess.Popen(['git status -s'], shell=True,stdin=subprocess.PIPE,stdout=subprocess.PIPE, cwd="./book")  
     oo = cc.stdout.read()
@@ -38,4 +38,4 @@ while True:
         os.system("git add .")
         os.system(' git commit -m "auto" ')
     else:
-        break
+        continue
