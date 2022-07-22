@@ -43,7 +43,7 @@ def main():
             jb_build(driver, cwd_path)
             git_commit()
         else:
-            print("No change and continue...")
+            print("No change and continue....")
             continue
 
 
