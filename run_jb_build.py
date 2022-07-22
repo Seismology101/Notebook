@@ -3,10 +3,12 @@
 """
 Use jupyter-book generate html automatically.
     1. Download Chrome-driver Plug-in for selenium package from https://chromedriver.chromium.org/
-    2. Run this script in the root directory of book-project
+    2. Make sure the project have 'dev' branch
+    3. Run this script in the root directory of book-project
 
 @Author: Fu Yin || Fri Jul 22 21:59:08 2022
 """
+
 
 import os
 import time
