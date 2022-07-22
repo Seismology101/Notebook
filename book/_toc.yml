@@ -9,7 +9,7 @@ parts:
     - file: markdown
       sections:
       - file: notebooks
-  #     - file: 
+      - file: notebooks
   - caption: 计算机基础
     chapters:
     - file: markdown-notebooks
