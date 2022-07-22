@@ -57,8 +57,8 @@ def main():
 
 #%% Main
 url = "file:///Users/yinfu/code/1-Notebook/Notebook/book/_build/html/intro.html"
-book = "./book" # jupyter-book build ./book
-sleep_time = 0.1 # unit/s
+book = "./book"         # jupyter-book build ./book
+sleep_time = 0.1        # unit/s
 
 if __name__ == '__main__':
     main()
