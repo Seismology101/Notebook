@@ -37,7 +37,7 @@ def main():
     while True:
         time.sleep(sleep_time)
         out = git_status(cwd_path)
-        # print("length of out = ", len(out))
+        print("length of out = ", len(out))
         if len(out) != 1:
             jb_build(url, cwd_path)
             git_commit()
