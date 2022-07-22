@@ -25,3 +25,6 @@ parts:
     - file: Forward Model
     - file: Sensitivity Kernal
     - file: Inversion
+  - caption: Source
+    chapters:
+    - file: Moment Tensor Theory
