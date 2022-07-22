@@ -7,7 +7,7 @@ from selenium import webdriver
 
 
 #%% Functions
-def jb_build(cwd_path):
+def jb_build(driver, cwd_path):
     print("Start:", time.ctime())
     os.system(f"jb build {cwd_path}")
     driver.refresh()
@@ -33,13 +33,13 @@ def main():
     driver= webdriver.Chrome()
     driver.get(url)
     os.system("git switch dev")
-    jb_build(cwd_path)
+    jb_build(driver, cwd_path)
     while True:
         time.sleep(sleep_time)
         out = git_status(cwd_path)
         print("length of out = ", len(out))
         if len(out) != 1:
-            jb_build(cwd_path)
+            jb_build(driver, cwd_path)
             git_commit()
         else:
             continue
