@@ -36,5 +36,6 @@ while True:
         os.system("jb build book")
         driver.refresh()
         os.system("git add .")
+        os.system(' git commit -m "auto" ')
     else:
         break
