@@ -13,4 +13,4 @@ parts:
   - caption: PyGMT Script
     chapters:
     - file: markdown-notebooks
-  - caption: PyGMT Script
+  - caption: Data Processing
