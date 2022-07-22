@@ -7,16 +7,9 @@ parts:
   - caption: 计算机基础dd
     chapters:
     - file: markdown
-    - file: notebooks
-    - file: markdown-notebooks
       sections:
-      - file: markdown
       - file: notebooks
-      - file: markdown-notebooks
+      - file: 
   - caption: 计算机基础
     chapters:
-    - file: markdown
-    - file: notebooks
-      sections:
-      - file: markdown
-      - file: notebooks
+    - file: markdown-notebooks
