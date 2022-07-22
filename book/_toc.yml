@@ -9,6 +9,7 @@ parts:
     - file: Mac Software
     - file: Iterm2
     - file: Latex
+    - file: VScode-Server
       sections:
       - file: notebooks
       - file: notebooks-1
