@@ -34,13 +34,13 @@ def git_commit():
 def main():
     os.system("git switch dev")
     jb_build(url, cwd_path)
-    while True: 
+    while True:
+        time.sleep(sleep_time)
         out = git_status(cwd_path)
         # print("length of out = ", len(out))
         if len(out) != 1:
             jb_build(url, cwd_path)
             git_commit()
-            time.sleep(sleep_time)
         else:
             continue
 
