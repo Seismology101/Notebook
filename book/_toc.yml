@@ -19,4 +19,8 @@ parts:
   - caption: Ambient Noise
     chapters:
     - file: Cross-correlation
+    - file: Noise source analysis
+  - caption: Surface Wave
+    chapters:
     - file: Cross-correlation
+    - file: Noise source analysis
