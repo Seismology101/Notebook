@@ -14,3 +14,9 @@ parts:
     chapters:
     - file: markdown-notebooks
   - caption: Data Processing
+    chapters:
+    - file: markdown-notebooks
+  - caption: Ambient Noise
+    chapters:
+    - file: Cross-correlation
+    - file: Cross-correlation
