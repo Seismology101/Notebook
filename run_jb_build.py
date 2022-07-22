@@ -3,7 +3,8 @@
 """
 Use jupyter-book generate html automatically.
 
-@author: Fu Yin
+
+@author: Fu Yin || Fri Jul 22 21:59:08 2022
 """
 
 import os
