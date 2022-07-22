@@ -47,13 +47,11 @@ def main():
             continue
 
 
+
 #%% Main
 url = "file:///Users/yinfu/code/1-Notebook/Notebook/book/_build/html/intro.html"
 cwd_path = "./book"
 sleep_time = 0.1 # unit/s
-
-
-
 
 if __name__ == '__main__':
     main()
