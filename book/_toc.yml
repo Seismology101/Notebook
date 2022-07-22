@@ -10,9 +10,10 @@ parts:
     - file: Iterm2
     - file: Latex
     - file: VScode-Server
+    - file: Python
       sections:
-      - file: notebooks
-      - file: notebooks-1
+      - file: conda
+      - file: package
   - caption: PyGMT Script
     chapters:
     - file: markdown-notebooks
