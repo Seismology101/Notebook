@@ -33,7 +33,6 @@ parts:
       - file: Numpy
       - file: Matplotlib
       - file: Obspy
-      - file: Mpi4py
     - file: C++
       sections:
       - file: File-IO
