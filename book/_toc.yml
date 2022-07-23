@@ -41,7 +41,7 @@ parts:
       - file: Matrix
     - file: Mixed_Py2C++
     - file: Git Manual
-    - file: Markdown
+    - file: Markdown Manual
     - file: PyGMT
       sections:
       - file: Map
