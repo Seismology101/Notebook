@@ -77,9 +77,9 @@ parts:
 
   - caption: Coda Wave
     chapters:
-    - file: Theory
-    - file: Sensitivity_Kernal
-    - file: Velocity_Change
+    - file: coda_wave/Theory
+    - file: coda_wave/Sensitivity_Kernal
+    - file: coda_wave/Velocity_Change
 
   # - caption: Links
   #   chapters:
