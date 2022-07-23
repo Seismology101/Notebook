@@ -10,7 +10,7 @@ parts:
     - file: Iterm2-Zsh
     - file: Latex
     - file: Server
-    - file: VScode-Server
+    - file: VScode
     - file: Python
       sections:
       - file: conda
