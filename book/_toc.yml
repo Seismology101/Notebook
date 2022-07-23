@@ -58,6 +58,7 @@ parts:
     - file: parallel computing_and_hybrid_programming/Hybrid_Python_C++
 
   - caption: Seismic Data Processing
+    numbered: True 
     chapters:
     - file: seismic_data_processing/obspy
     - file: seismic_data_processing/seed2sac
