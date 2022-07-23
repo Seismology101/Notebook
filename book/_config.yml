@@ -10,12 +10,14 @@ copyright                   : "2021–2022"   # Copyright year to be placed in t
 exclude_patterns            : [_build, Thumbs.db, .DS_Store]  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 only_build_toc_files        : false   # Auto-exclude files not in the toc
 
+
 #######################################################################################
 # Execution settings
 execute:
   execute_notebooks         : auto  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
   timeout                   : 30    # The maximum time (in seconds) each notebook cell is allowed to run.
   allow_errors              : false # If `False`, when a code cell raises an error the execution is stopped, otherwise all cells are always run.
+
 
 #######################################################################################
 # LaTeX-specific settings
