@@ -8,6 +8,7 @@
 
 ```{contents}
 :local:
+:depth: 1
 ```
 ## 2
 
