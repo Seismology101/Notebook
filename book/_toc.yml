@@ -54,10 +54,10 @@ parts:
 
   - caption: Seismic Data Processing
     chapters:
-    - file: obspy
-    - file: seed2sac
-    - file: sac2mseed
-    - file: cutevent
+    - file: seismic_data_processing/obspy
+    - file: seismic_data_processing/seed2sac
+    - file: seismic_data_processing/sac2mseed
+    - file: seismic_data_processing/cutevent
 
   # - caption: Earthquake Source
   #   chapters:
