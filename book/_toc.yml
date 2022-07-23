@@ -46,7 +46,12 @@ parts:
     - file: sac2mseed
     - file: cutevent
 
-  - caption: Parallel computing
+  - caption: Parallel computing (CPU&GPU)
+   chapters:
+   - file: Python
+    sections:
+    - file: Mpi4py
+
 
   - caption: Data Processing
     chapters:
