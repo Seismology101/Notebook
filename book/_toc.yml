@@ -16,9 +16,9 @@ parts:
     - file: programming_environment/Fortran
     - file: programming_environment/Git
     - file: programming_environment/Seismic_Software
-      sections:
-      - file: programming_environment/Seismic_Software_file/SAC
-      - file: programming_environment/Seismic_Software_file/PyGMT
+      # sections:
+      # - file: programming_environment/Seismic_Software_file/SAC
+      # - file: programming_environment/Seismic_Software_file/PyGMT
 
   # - caption: Programming Manual and Scripts
   #   chapters:
