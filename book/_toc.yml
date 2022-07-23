@@ -52,12 +52,12 @@ parts:
       - file: parallel computing_and_hybrid_programming/C++_file/Cuda
     - file: parallel computing_and_hybrid_programming/Hybrid_Python_C++
 
-  # - caption: Seismic Data Processing
-  #   chapters:
-  #   - file: obspy
-  #   - file: seed2sac
-  #   - file: sac2mseed
-  #   - file: cutevent
+  - caption: Seismic Data Processing
+    chapters:
+    - file: obspy
+    - file: seed2sac
+    - file: sac2mseed
+    - file: cutevent
 
   # - caption: Earthquake Source
   #   chapters:
