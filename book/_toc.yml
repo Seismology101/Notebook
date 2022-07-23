@@ -21,7 +21,7 @@ parts:
       - file: Python_Package
       - file: C/C++_Fortran_Package
 
-  - caption: Useful Scripts
+  - caption: Software Manual and Scripts
     chapters:
     - file: Bash Manual
     - file: Git Manual
