@@ -7,14 +7,16 @@ parts:
   - caption: Programming Environment
     chapters:
     - file: programming_environment/Mac_Software
-    - file: programming_environment/Iterm2-Zsh
-    - file: programming_environment/Latex
-    - file: programming_environment/SSH
-    - file: programming_environment/VScode
-    - file: programming_environment/Python
-    - file: programming_environment/C++
-    - file: programming_environment/Fortran
-    - file: programming_environment/Git
+    - file: programming_environment/Coding_Tools
+      sections:
+      - file: programming_environment/Coding_Tools_file/Iterm2-Zsh
+      - file: programming_environment/Coding_Tools_file/SSH
+      - file: programming_environment/Coding_Tools_file/Git
+      - file: programming_environment/Coding_Tools_file/VScode
+      - file: programming_environment/Coding_Tools_file/Python
+      - file: programming_environment/Coding_Tools_file/C++
+      - file: programming_environment/Coding_Tools_file/Fortran
+      - file: programming_environment/Coding_Tools_file/Latex
     - file: programming_environment/Seismic_Software
       sections:
       - file: programming_environment/Seismic_Software_file/SAC
