@@ -47,6 +47,7 @@ html:
   use_issues_button         : true
   use_repository_button     : true
   use_multitoc_numbering    : true # Continuous numbering across parts/chapters
+  baseurl                   : "https://seismology101.github.io/Notebook/"
   comments:
     hypothesis              : false
     utterances              : true
