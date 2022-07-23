@@ -56,8 +56,8 @@ parts:
 
   - caption: Data Processing
     chapters:
-    - file: Obspy
-    - file: mseed2sac
+    - file: obspy
+    - file: seed2sac
     - file: sac2mseed
     - file: cutevent
 
