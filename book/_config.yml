@@ -25,10 +25,6 @@ latex:
   latex_documents: 
     targetname              : book.tex # Define the name of the latex output file for PDF builds
 
-#######################################################################################
-# Bib settings
-bibtex_bibfiles:
-  - references.bib
 
 #######################################################################################
 # Launch button settings
@@ -50,8 +46,14 @@ html:
   use_multitoc_numbering: true    # restart chapter numbering between parts
   # announcement: "My announcement!"
 
+#######################################################################################
 # Advanced sphinx settings
 sphinx:
   config:
     bibtex_reference_style: author_year
+
+#######################################################################################
+# Bib settings
+bibtex_bibfiles:
+  - references.bib
 
