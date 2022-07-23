@@ -66,8 +66,8 @@ parts:
 
   - caption: Ambient Noise
     chapters:
-    - file: Cross_Correlation
-    - file: Noise_Source_Analysis
+    - file: ambient_noise/Cross_Correlation
+    - file: ambient_noise/Noise_Source_Analysis
 
   # - caption: Surface Wave
   #   chapters:
