@@ -10,6 +10,7 @@ Check out the content pages bundled with this sample book to see more.
 ```{tableofcontents}
 ```
 
+Here is my nifty citation {cite}`perez2011python`.
 
 ```{bibliography}
 ```
