@@ -41,8 +41,8 @@ parts:
       - file: Velocity_Model
     - file: C++_Script
       sections:
-      - file: Map
-      - file: Velocity_Model
+      - file: File-IO
+      - file: Matrix
 
 
 
