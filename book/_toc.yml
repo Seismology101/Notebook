@@ -30,11 +30,12 @@ parts:
     - file: Python_Script
       sections:
       - file: File-IO
+      - file: Subprocess
       - file: Numpy
       - file: Matplotlib
       - file: Obspy
       - file: Mpi4py
-      - file: Subprocess
+      
     - file: PyGMT_Script
       sections:
       - file: Map
