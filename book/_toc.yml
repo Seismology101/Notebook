@@ -46,7 +46,7 @@ parts:
     - file: sac2mseed
     - file: cutevent
 
-  - caption: Parallel Computing (CPU&GPU) and Hybrid programming
+  - caption: Parallel Computing and Hybrid programming
     chapters:
     - file: Python
       sections:
