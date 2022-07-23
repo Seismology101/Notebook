@@ -9,7 +9,7 @@ parts:
     - file: Mac Software
     - file: Iterm2-Zsh
     - file: Latex
-    - file: Server
+    - file: SSH
     - file: VScode
     - file: Python
       sections:
@@ -19,6 +19,9 @@ parts:
       sections:
       - file: GNU
       - file: package
+    - file: Git
+      sections:
+      - file: 
     - file: Seismic Software
       - file: SAC
       - file: PyGMT
