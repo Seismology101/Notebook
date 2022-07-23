@@ -37,3 +37,5 @@ html:
 sphinx:
   config:
     bibtex_reference_style: author_year
+
+only_build_toc_files: true
