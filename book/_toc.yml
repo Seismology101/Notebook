@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Programming Environment
     chapters:
-    - file: Mac Software
+    - file: Mac_Software
     - file: Iterm2-Zsh
     - file: Latex
     - file: SSH
@@ -15,9 +15,10 @@ parts:
     - file: C++
     - file: Git
       sections:
-      - file: IP Host
+      - file: IP_Host
       - file: Manual
-    - file: Seismic Software
+    - file: Seismic_Software
+      sections:
       - file: SAC
       - file: PyGMT
       - file: Specfem 2/3D
