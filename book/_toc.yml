@@ -35,15 +35,14 @@ parts:
       - file: Matplotlib
       - file: Obspy
       - file: Mpi4py
-    - file: PyGMT_Script
-      sections:
-      - file: Map
-      - file: Velocity_Model
     - file: C++_Script
       sections:
       - file: File-IO
       - file: Matrix
-
+    - file: PyGMT_Script
+      sections:
+      - file: Map
+      - file: Velocity_Model
 
 
   - caption: Data Processing
