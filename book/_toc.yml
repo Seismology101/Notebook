@@ -61,13 +61,13 @@ parts:
 
   - caption: Earthquake Source
     chapters:
-    - file: Moment Tensor Theory
-    - file: Moment Tensor Decompose
+    - file: Moment_Tensor_Theory
+    - file: Moment_Tensor_Decompose
 
   - caption: Ambient Noise
     chapters:
-    - file: Cross-correlation
-    - file: Noise source analysis
+    - file: Cross_Correlation
+    - file: Noise_Source_Analysis
 
   - caption: Surface Wave
     chapters:
