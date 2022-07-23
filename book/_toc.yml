@@ -43,11 +43,6 @@ parts:
       sections:
       - file: Map
       - file: Velocity_Model
-    - file: Others
-
-  - caption: Useful Software Manual
-    chapters:
-
     - file: mseed2sac
     - file: sac2mseed
     - file: cutevent
