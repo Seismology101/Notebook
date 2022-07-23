@@ -30,11 +30,16 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
-# Information about where the book exists on the web
+#######################################################################################
+# Launch button settings
+launch_buttons:
+  notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
+  binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
+
 repository:
-  url: https://github.com/Seismology101/Notebook  # Online location of your book
-  path_to_book: book  # Optional path to your book, relative to the repository root
-  branch: main  # Which branch of the repository should be used when creating links (optional)
+  url                       : https://github.com/Seismology101/Notebook  # Online location of your book
+  path_to_book              : book  # Optional path to your book, relative to the repository root
+  branch                    : main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
