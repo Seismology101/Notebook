@@ -23,7 +23,7 @@ parts:
 
   - caption: Useful Scripts
     chapters:
-    - file: Bash
+    - file: Bash Manual
     - file: Git Manual
     - file: Markdown Manual
     - file: Python
