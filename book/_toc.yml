@@ -54,7 +54,7 @@ parts:
     - file: Hybrid_Python_C++
 
 
-  - caption: Data Processing
+  - caption: Seismic Data Processing
     chapters:
     - file: obspy
     - file: seed2sac
