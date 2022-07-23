@@ -83,8 +83,8 @@ parts:
 
   - caption: Links
     chapters:
-    - file: Seismic_Software
-    - file: Institutes_of_Geosciences
-    - file: Societies_of _Geosciences
-    - file: Data_and_Geo-software_Center
+    - file: links/Seismic_Software
+    - file: links/Institutes_of_Geosciences
+    - file: links/Societies_of _Geosciences
+    - file: links/Data_and_Geo-software_Center
 
