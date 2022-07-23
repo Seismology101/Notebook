@@ -49,9 +49,9 @@ html:
   use_multitoc_numbering    : true # Continuous numbering across parts/chapters
   # extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
   # baseurl                   : "https://seismology101.github.io/Notebook/" # # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  # comments:
-  #   hypothesis              : false
-  #   utterances              : true
+  comments:
+    hypothesis              : false
+    utterances              : true
   announcement              : "My announcement!"
 
 
