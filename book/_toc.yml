@@ -21,7 +21,6 @@ parts:
       sections:
       - file: SAC
       - file: PyGMT
-      - file: Specfem 2/3D
       - file: Python Package
       - file: C/C++ Fortran Package
 
