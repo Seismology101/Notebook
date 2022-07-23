@@ -20,6 +20,11 @@ parts:
       sections:
       - file: GNU
       - file: package
+    - file: Seismic Software
+      - file: SAC
+      - file: PyGMT
+      - file: 
+
 
   - caption: Python Script
     chapters:
