@@ -13,6 +13,7 @@ parts:
     - file: VScode
     - file: Python
     - file: C++
+    - file: Fortran
     - file: Git
     - file: Seismic_Software
       sections:
