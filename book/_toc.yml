@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 parts:
   - caption: Programming Environment
-    numbered: 1
+    numbered: 3
     chapters:
     - file: programming_environment/Mac_Software
     - file: programming_environment/Coding_Tools
