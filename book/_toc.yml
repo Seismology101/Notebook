@@ -9,6 +9,7 @@ parts:
     - file: Mac Software
     - file: Iterm2-Zsh
     - file: Latex
+    - file: Server
     - file: VScode-Server
     - file: Python
       sections:
