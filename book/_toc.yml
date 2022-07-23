@@ -27,11 +27,15 @@ parts:
 
   - caption: Useful Scripts
     chapters:
-    - file: Python_Script
+    - file: Bash
       sections:
       - file: File-IO
       - file: Subprocess
-    - file: PyGMT_Script
+    - file: Python
+      sections:
+      - file: File-IO
+      - file: Subprocess
+    - file: PyGMT
       sections:
       - file: Map
       - file: Velocity_Model
