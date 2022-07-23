@@ -22,20 +22,20 @@ parts:
 
   - caption: Programming Manual and Scripts
     chapters:
-    - file: Bash Manual
-    - file: Git Manual
-    - file: Markdown Manual
-    - file: Python Scripts
+    - file: Bash_Manual
+    - file: Git_Manual
+    - file: Markdown_Manual
+    - file: Python_Scripts
       sections:
       - file: File-IO
       - file: Subprocess
       - file: Numpy
       - file: Matplotlib
-    - file: C++ Scripts
+    - file: C++_Scripts
       sections:
       - file: File-IO
       - file: Matrix
-    - file: PyGMT Scripts
+    - file: PyGMT_Scripts
       sections:
       - file: Map
       - file: Velocity_Model
