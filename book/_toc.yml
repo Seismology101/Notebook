@@ -71,7 +71,7 @@ parts:
 
   - caption: Surface Wave
     chapters:
-    - file: Forward Model
+    - file: Rayleigh_Wave
     - file: Sensitivity Kernal
-    - file: Inversion
+
   
