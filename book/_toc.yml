@@ -86,5 +86,7 @@ parts:
   - caption: Links
     chapters:
     - file: links/link.md
+    - url: https://seismo-learn.org/contributing/
+      title: 贡献指南
 
 
