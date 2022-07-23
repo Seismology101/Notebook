@@ -6,9 +6,9 @@
 title                       : Seismology Notebook  # The title of the book. Will be placed in the left navbar.
 author                      : Fu Yin  # The author of the book
 logo                        : logo.png
-copyright                   : "2021–2022" # Copyright year to be placed in the footer
-exclude_patterns            : [_build, Thumbs.db, .DS_Store] # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
-only_build_toc_files        : false # Auto-exclude files not in the toc
+copyright                   : "2021–2022"   # Copyright year to be placed in the footer
+exclude_patterns            : [_build, Thumbs.db, .DS_Store]  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+only_build_toc_files        : false   # Auto-exclude files not in the toc
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
