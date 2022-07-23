@@ -5,6 +5,7 @@ format: jb-book
 root: intro
 parts:
   - caption: Programming Environment
+    numbered: True 
     chapters:
     - file: programming_environment/Mac_Software
     - file: programming_environment/Coding_Tools
@@ -23,6 +24,7 @@ parts:
       - file: programming_environment/Seismic_Software_file/PyGMT
 
   - caption: Programming Manual and Scripts
+    numbered: True 
     chapters:
     - file: programming_manual_and_scripts/Bash_Manual
     - file: programming_manual_and_scripts/Git_Manual
