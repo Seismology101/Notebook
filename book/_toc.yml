@@ -55,7 +55,7 @@ parts:
       sections:
       - file: MPI
       - file: Cuda
-    - file: Hybrid_Py_C++
+    - file: Hybrid_Python_C++
 
 
   - caption: Data Processing
