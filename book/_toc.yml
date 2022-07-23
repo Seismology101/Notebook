@@ -71,6 +71,7 @@ parts:
 
   - caption: Earthquake Source
     numbered: True 
+    maxdepth: 2
     chapters:
     - file: earthquake_source/Source_Theory
     - file: earthquake_source/Moment_Tensor_Decompose
