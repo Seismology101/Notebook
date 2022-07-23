@@ -53,7 +53,7 @@ parts:
       - file: Cupy
     - file: C++
       sections:
-      - file: MPI
+      - file: OpenMPI
       - file: Cuda
     - file: Hybrid_Python_C++
 
