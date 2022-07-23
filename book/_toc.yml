@@ -81,6 +81,6 @@ parts:
     - file: Sensitivity_Kernal
     - file: Velocity_Change
 
-  - caption: Coda Wave
+  - caption: Links
     chapters:
-    - file: Links
+    - file: Institutes of Geosciences
