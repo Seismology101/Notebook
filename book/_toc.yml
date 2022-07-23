@@ -51,7 +51,8 @@ parts:
    - file: Python
     sections:
     - file: Mpi4py
-    - file: cupy
+    - file: Cupy
+
 
 
   - caption: Data Processing
