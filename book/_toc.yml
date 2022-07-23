@@ -52,7 +52,6 @@ parts:
       - file: Cuda
     - file: Hybrid_Python_C++
 
-
   - caption: Seismic Data Processing
     chapters:
     - file: obspy
