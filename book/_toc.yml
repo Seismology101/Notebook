@@ -73,6 +73,6 @@ parts:
     chapters:
     - file: Rayleigh_Wave
     - file: Love_Wave
-    - file: Sensitivity Kernal
+    - file: Sensitivity_Kernal
 
   
