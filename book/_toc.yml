@@ -86,7 +86,7 @@ parts:
   - caption: Links
     chapters:
     - file: links/link.md
-    - url: https://seismo-learn.org/contributing/
+    - url: https://yinfu.info/
       title: About Me
 
 
