@@ -1,2 +1,2 @@
-# Pygmt
+# PyGMT
 1
