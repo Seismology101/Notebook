@@ -12,13 +12,7 @@ parts:
     - file: SSH
     - file: VScode
     - file: Python
-      sections:
-      - file: conda
-      - file: package
     - file: C++
-      sections:
-      - file: GNU
-      - file: package
     - file: Git
       sections:
       - file: IP Host
