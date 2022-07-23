@@ -1,8 +1,6 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
-
 #######################################################################################
 # Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
 title: Seismology Notebook  # The title of the book. Will be placed in the left navbar.
 author: Fu Yin  # The author of the book
 logo: logo.png
