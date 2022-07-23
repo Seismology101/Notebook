@@ -72,6 +72,7 @@ parts:
     - file: earthquake_source/Moment_Tensor_Decompose
 
   - caption: Ambient Noise
+    numbered: True 
     chapters:
     - file: ambient_noise/Cross_Correlation
     - file: ambient_noise/Noise_Source_Analysis
