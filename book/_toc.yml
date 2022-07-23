@@ -71,9 +71,9 @@ parts:
 
   - caption: Surface Wave
     chapters:
-    - file: Rayleigh_Wave
-    - file: Love_Wave
-    - file: Sensitivity_Kernal
+    - file: surface_wave/Rayleigh_Wave
+    - file: surface_wave/Love_Wave
+    - file: surface_wave/Sensitivity_Kernal
 
   # - caption: Coda Wave
   #   chapters:
