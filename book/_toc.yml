@@ -40,51 +40,51 @@ parts:
       - file: Map
       - file: Velocity_Model
 
-  - caption: Parallel Computing and Hybrid Programming
-    chapters:
-    - file: Python
-      sections:
-      - file: Mpi4py
-      - file: Cupy
-    - file: C++
-      sections:
-      - file: OpenMPI
-      - file: Cuda
-    - file: Hybrid_Python_C++
+  # - caption: Parallel Computing and Hybrid Programming
+  #   chapters:
+  #   - file: Python
+  #     sections:
+  #     - file: Mpi4py
+  #     - file: Cupy
+  #   - file: C++
+  #     sections:
+  #     - file: OpenMPI
+  #     - file: Cuda
+  #   - file: Hybrid_Python_C++
 
-  - caption: Seismic Data Processing
-    chapters:
-    - file: obspy
-    - file: seed2sac
-    - file: sac2mseed
-    - file: cutevent
+  # - caption: Seismic Data Processing
+  #   chapters:
+  #   - file: obspy
+  #   - file: seed2sac
+  #   - file: sac2mseed
+  #   - file: cutevent
 
-  - caption: Earthquake Source
-    chapters:
-    - file: Source_Theory
-    - file: Moment_Tensor_Decompose
+  # - caption: Earthquake Source
+  #   chapters:
+  #   - file: Source_Theory
+  #   - file: Moment_Tensor_Decompose
 
-  - caption: Ambient Noise
-    chapters:
-    - file: Cross_Correlation
-    - file: Noise_Source_Analysis
+  # - caption: Ambient Noise
+  #   chapters:
+  #   - file: Cross_Correlation
+  #   - file: Noise_Source_Analysis
 
-  - caption: Surface Wave
-    chapters:
-    - file: Rayleigh_Wave
-    - file: Love_Wave
-    - file: Sensitivity_Kernal
+  # - caption: Surface Wave
+  #   chapters:
+  #   - file: Rayleigh_Wave
+  #   - file: Love_Wave
+  #   - file: Sensitivity_Kernal
 
-  - caption: Coda Wave
-    chapters:
-    - file: Theory
-    - file: Sensitivity_Kernal
-    - file: Velocity_Change
+  # - caption: Coda Wave
+  #   chapters:
+  #   - file: Theory
+  #   - file: Sensitivity_Kernal
+  #   - file: Velocity_Change
 
-  - caption: Links
-    chapters:
-    - file: Seismic_Software
-    - file: Institutes_of_Geosciences
-    - file: Societies_of _Geosciences
-    - file: Data_and_Geo-software_Center
+  # - caption: Links
+  #   chapters:
+  #   - file: Seismic_Software
+  #   - file: Institutes_of_Geosciences
+  #   - file: Societies_of _Geosciences
+  #   - file: Data_and_Geo-software_Center
 
