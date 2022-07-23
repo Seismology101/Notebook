@@ -21,7 +21,7 @@ execute:
 # LaTeX-specific settings
 
 latex:
-  latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
+  latex_engine              : xelatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
   use_jupyterbook_latex     : true # use sphinx-jupyterbook-latex for pdf builds as default
   latex_documents: 
     targetname              : book.tex # Define the name of the latex output file for PDF builds
