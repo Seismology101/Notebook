@@ -81,7 +81,7 @@ html:
 sphinx:
   config:
     bibtex_reference_style  : author_year
-
+# citation
 bibtex_bibfiles:
   - references.bib
 
