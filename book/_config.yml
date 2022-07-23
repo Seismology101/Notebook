@@ -19,10 +19,10 @@ execute:
 
 #######################################################################################
 # LaTeX-specific settings
-# Define the name of the latex output file for PDF builds
+
 latex:
-  latex_documents:
-    targetname: book.tex
+  latex_documents: 
+    targetname: book.tex # Define the name of the latex output file for PDF builds
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
