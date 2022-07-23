@@ -6,6 +6,8 @@ author: Fu Yin
 logo: logo.png
 copyright : "2021–2022"
 
+only_build_toc_files: false
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
@@ -40,4 +42,3 @@ sphinx:
   config:
     bibtex_reference_style: author_year
 
-only_build_toc_files: true
