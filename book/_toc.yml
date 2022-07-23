@@ -27,8 +27,10 @@ parts:
 
   - caption: Useful Scripts
     chapters:
-    - file: File-IO
-    - file: Subprocess
+    - file: Python Script
+      chapters:
+      - file: File-IO
+      - file: Subprocess
 
 
   - caption: Python Script
