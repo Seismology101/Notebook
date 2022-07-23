@@ -11,6 +11,7 @@ parts:
     - file: Latex
     - file: Server
     - file: VScode
+    - file: Latex
     - file: Python
       sections:
       - file: conda
