@@ -47,6 +47,9 @@ html:
   use_issues_button         : true
   use_repository_button     : true
   use_multitoc_numbering    : true # Continuous numbering across parts/chapters
+  comments:
+    hypothesis              : false
+    utterances              : true
   announcement              : "My announcement!"
 
 
