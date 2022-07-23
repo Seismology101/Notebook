@@ -21,8 +21,14 @@ parts:
       sections:
       - file: SAC
       - file: PyGMT
-      - file: Python Package
-      - file: C/C++ Fortran Package
+      - file: Python_Package
+      - file: C/C++_Fortran_Package
+
+
+  - caption: Useful Script
+    chapters:
+    - file: File-IO
+    - file: Subprocess
 
 
   - caption: Python Script
