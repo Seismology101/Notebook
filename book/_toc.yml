@@ -59,6 +59,10 @@ parts:
     - file: sac2mseed
     - file: cutevent
 
+  - caption: Source
+    chapters:
+    - file: Moment Tensor Theory
+    
   - caption: Ambient Noise
     chapters:
     - file: Cross-correlation
@@ -68,6 +72,4 @@ parts:
     - file: Forward Model
     - file: Sensitivity Kernal
     - file: Inversion
-  - caption: Source
-    chapters:
-    - file: Moment Tensor Theory
+  
