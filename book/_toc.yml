@@ -46,6 +46,12 @@ parts:
       - file: Velocity_Model
     - file: Others
 
+  - caption: Useful Software Manual
+    chapters:
+    - file: mseed2sac
+    - file: sac2mseed
+    - file: cutevent
+
 
   - caption: Data Processing
     chapters:
