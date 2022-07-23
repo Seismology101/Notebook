@@ -47,11 +47,15 @@ parts:
     - file: cutevent
 
   - caption: Parallel Computing (CPU&GPU)
-   chapters:
-   - file: Python
-    sections:
-    - file: Mpi4py
-    - file: Cupy
+    chapters:
+    - file: Python
+      sections:
+      - file: Mpi4py
+      - file: Cupy
+    - file: C++
+      sections:
+      - file: MPI
+      - file: Cuda
 
 
 
