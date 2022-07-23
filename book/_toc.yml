@@ -61,7 +61,7 @@ parts:
 
   - caption: Earthquake Source
     chapters:
-    - file: Moment_Tensor_Theory
+    - file: Source_Theory
     - file: Moment_Tensor_Decompose
 
   - caption: Ambient Noise
