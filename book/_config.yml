@@ -15,7 +15,7 @@ only_build_toc_files        : false   # Auto-exclude files not in the toc
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: auto
+  execute_notebooks: auto # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
 
 # Define the name of the latex output file for PDF builds
 latex:
