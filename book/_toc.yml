@@ -59,10 +59,10 @@ parts:
     - file: seismic_data_processing/sac2mseed
     - file: seismic_data_processing/cutevent
 
-  # - caption: Earthquake Source
-  #   chapters:
-  #   - file: Source_Theory
-  #   - file: Moment_Tensor_Decompose
+  - caption: Earthquake Source
+    chapters:
+    - file: Source_Theory
+    - file: Moment_Tensor_Decompose
 
   # - caption: Ambient Noise
   #   chapters:
