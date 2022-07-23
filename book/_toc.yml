@@ -78,6 +78,7 @@ parts:
     - file: ambient_noise/Noise_Source_Analysis
 
   - caption: Surface Wave
+    numbered: True 
     chapters:
     - file: surface_wave/Rayleigh_Wave
     - file: surface_wave/Love_Wave
