@@ -66,6 +66,7 @@ parts:
     - file: seismic_data_processing/cutevent
 
   - caption: Earthquake Source
+    numbered: True 
     chapters:
     - file: earthquake_source/Source_Theory
     - file: earthquake_source/Moment_Tensor_Decompose
