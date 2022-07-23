@@ -17,7 +17,7 @@ parts:
       sections:
       - file: IP_Host
       - file: Manual
-    - file: Markdown
+    
     - file: Seismic_Software
       sections:
       - file: SAC
@@ -41,6 +41,7 @@ parts:
       - file: File-IO
       - file: Matrix
     - file: Mixed_Py2C++
+    - file: Markdown
     - file: PyGMT
       sections:
       - file: Map
