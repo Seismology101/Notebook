@@ -1,2 +1,2 @@
-# 1
+# Seismic Software
 1
