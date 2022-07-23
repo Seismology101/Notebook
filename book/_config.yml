@@ -80,7 +80,9 @@ html:
 # Advanced sphinx settings
 sphinx:
   config:                     # key-value pairs to directly over-ride the Sphinx configuration
+    bibtex_default_style    : plain
     bibtex_reference_style  : author_year
+
 # citation
 bibtex_bibfiles:
   - references.bib
