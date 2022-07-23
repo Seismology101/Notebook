@@ -21,6 +21,7 @@ parts:
       - file: SAC
       - file: PyGMT
       - file: Specfem 2/3D
+      - file: Python Package
 
 
   - caption: Python Script
