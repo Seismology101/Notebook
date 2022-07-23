@@ -39,9 +39,7 @@ parts:
       sections:
       - file: Map
       - file: Velocity_Model
-    - file: mseed2sac
-    - file: sac2mseed
-    - file: cutevent
+
 
   - caption: Parallel Computing and Hybrid Programming
     chapters:
@@ -59,6 +57,9 @@ parts:
   - caption: Data Processing
     chapters:
     - file: markdown-notebooks
+    - file: mseed2sac
+    - file: sac2mseed
+    - file: cutevent
   - caption: Ambient Noise
     chapters:
     - file: Cross-correlation
