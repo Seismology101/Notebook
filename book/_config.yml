@@ -17,6 +17,8 @@ execute:
   timeout                   : 30    # The maximum time (in seconds) each notebook cell is allowed to run.
   allow_errors              : false # If `False`, when a code cell raises an error the execution is stopped, otherwise all cells are always run.
 
+#######################################################################################
+# LaTeX-specific settings
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
