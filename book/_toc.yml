@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Programming Environment
     chapters:
-    - file: Mac_Software
+    - file: programming_environment/Mac_Software
     - file: Iterm2-Zsh
     - file: Latex
     - file: SSH
