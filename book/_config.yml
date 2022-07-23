@@ -25,7 +25,8 @@ latex:
   latex_documents: 
     targetname              : book.tex # Define the name of the latex output file for PDF builds
 
-# Add a bibtex file so that we can create citations
+#######################################################################################
+# Bib settings
 bibtex_bibfiles:
   - references.bib
 
