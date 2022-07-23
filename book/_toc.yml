@@ -20,12 +20,12 @@ parts:
       # - file: programming_environment/Seismic_Software_file/SAC
       # - file: programming_environment/Seismic_Software_file/PyGMT
 
-  # - caption: Programming Manual and Scripts
-  #   chapters:
-  #   - file: programming_manual_and_scripts/Bash_Manual
-  #   - file: programming_manual_and_scripts/Git_Manual
-  #   - file: programming_manual_and_scripts/Markdown_Manual
-  #   - file: programming_manual_and_scripts/Python_Scripts
+  - caption: Programming Manual and Scripts
+    chapters:
+    - file: programming_manual_and_scripts/Bash_Manual
+    - file: programming_manual_and_scripts/Git_Manual
+    - file: programming_manual_and_scripts/Markdown_Manual
+    - file: programming_manual_and_scripts/Python_Scripts
   #     sections:
   #     - file: programming_manual_and_scripts/Python_Scripts_file/File-IO
   #     - file: programming_manual_and_scripts/Python_Scripts_file/Subprocess
