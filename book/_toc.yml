@@ -40,7 +40,6 @@ parts:
       - file: Map
       - file: Velocity_Model
 
-
   - caption: Parallel Computing and Hybrid Programming
     chapters:
     - file: Python
