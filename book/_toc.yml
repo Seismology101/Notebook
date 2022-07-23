@@ -48,8 +48,8 @@ parts:
       - file: parallel computing_and_hybrid_programming/Python_file/Cupy
     - file: parallel computing_and_hybrid_programming/C++
       sections:
-      - file: OpenMPI
-      - file: Cuda
+      - file: parallel computing_and_hybrid_programming/C++_file/OpenMPI
+      - file: parallel computing_and_hybrid_programming/C++_file/Cuda
     - file: parallel computing_and_hybrid_programming/Hybrid_Python_C++
 
   # - caption: Seismic Data Processing
