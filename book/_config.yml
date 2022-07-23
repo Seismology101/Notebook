@@ -57,7 +57,9 @@ parse:
     - tasklist
   myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
-
+  myst_substitutions:
+    Fu Yin: "[Fu Yin](https://yinfu.info/)"
+    姚家园: "[姚家园](https://github.com/core-man)"
 
 #######################################################################################
 # HTML-specific settings
