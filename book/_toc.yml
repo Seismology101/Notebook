@@ -20,7 +20,7 @@ parts:
       - file: SAC
       - file: PyGMT
 
-  - caption: Software Manual and Scripts
+  - caption: Programming Manual and Scripts
     chapters:
     - file: Bash Manual
     - file: Git Manual
