@@ -59,10 +59,10 @@ parts:
     - file: sac2mseed
     - file: cutevent
 
-  - caption: Source
+  - caption: Earthquake Source
     chapters:
     - file: Moment Tensor Theory
-    
+
   - caption: Ambient Noise
     chapters:
     - file: Cross-correlation
