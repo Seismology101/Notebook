@@ -62,6 +62,7 @@ parts:
 
   - caption: Seismic Data Processing
     numbered: True 
+    maxdepth: 2
     chapters:
     - file: seismic_data_processing/obspy
     - file: seismic_data_processing/seed2sac
