@@ -31,7 +31,6 @@ parts:
       - file: Subprocess
       - file: Numpy
       - file: Matplotlib
-      - file: Obspy
     - file: C++ Scripts
       sections:
       - file: File-IO
