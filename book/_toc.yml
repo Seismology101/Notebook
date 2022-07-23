@@ -81,10 +81,10 @@ parts:
     - file: coda_wave/Sensitivity_Kernal
     - file: coda_wave/Velocity_Change
 
-  # - caption: Links
-  #   chapters:
-  #   - file: Seismic_Software
-  #   - file: Institutes_of_Geosciences
-  #   - file: Societies_of _Geosciences
-  #   - file: Data_and_Geo-software_Center
+  - caption: Links
+    chapters:
+    - file: Seismic_Software
+    - file: Institutes_of_Geosciences
+    - file: Societies_of _Geosciences
+    - file: Data_and_Geo-software_Center
 
