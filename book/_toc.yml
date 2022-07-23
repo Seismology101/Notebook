@@ -64,10 +64,10 @@ parts:
     - file: earthquake_source/Source_Theory
     - file: earthquake_source/Moment_Tensor_Decompose
 
-  # - caption: Ambient Noise
-  #   chapters:
-  #   - file: Cross_Correlation
-  #   - file: Noise_Source_Analysis
+  - caption: Ambient Noise
+    chapters:
+    - file: Cross_Correlation
+    - file: Noise_Source_Analysis
 
   # - caption: Surface Wave
   #   chapters:
