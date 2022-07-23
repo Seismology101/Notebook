@@ -28,19 +28,14 @@ parts:
   - caption: Useful Scripts
     chapters:
     - file: Python Script
-      chapters:
+      sections:
       - file: File-IO
       - file: Subprocess
+    - file: PyGMT Script
+      chapters:
+      - file: Map
+      - file: Velocity Model
 
-
-  - caption: Python Script
-    chapters:
-    - file: File-IO
-    - file: Subprocess
-  - caption: PyGMT Script
-    chapters:
-    - file: Map
-    - file: Velocity Model
   - caption: Data Processing
     chapters:
     - file: markdown-notebooks
