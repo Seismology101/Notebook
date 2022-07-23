@@ -31,6 +31,8 @@ parts:
     - file: Python_Script
       sections:
       - file: File-IO
+      - file: Numpy
+      - file: Matplotlib
       - file: Subprocess
     - file: PyGMT_Script
       sections:
