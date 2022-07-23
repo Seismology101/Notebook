@@ -1,4 +1,4 @@
-name: seismology101
+name: Notebook
 channels:
   - conda-forge
   - nodefaults
