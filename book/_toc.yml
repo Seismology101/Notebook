@@ -84,7 +84,5 @@ parts:
   - caption: Links
     chapters:
     - file: links/link.md
-    - file: links/Institutes_of_Geosciences
-    - file: links/Societies_of_Geosciences
-    - file: links/Data_and_Geo-software_Center
+
 
