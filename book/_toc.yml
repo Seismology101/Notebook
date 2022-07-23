@@ -14,9 +14,6 @@ parts:
     - file: Python
     - file: C++
     - file: Git
-      # sections:
-      # - file: IP_Host
-      # - file: Manual
     - file: Seismic_Software
       sections:
       - file: SAC
