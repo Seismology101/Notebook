@@ -25,18 +25,18 @@ parts:
     - file: Bash Manual
     - file: Git Manual
     - file: Markdown Manual
-    - file: Python
+    - file: Python Scripts
       sections:
       - file: File-IO
       - file: Subprocess
       - file: Numpy
       - file: Matplotlib
       - file: Obspy
-    - file: C++
+    - file: C++ Scripts
       sections:
       - file: File-IO
       - file: Matrix
-    - file: PyGMT
+    - file: PyGMT Scripts
       sections:
       - file: Map
       - file: Velocity_Model
