@@ -56,10 +56,11 @@ parts:
 
   - caption: Data Processing
     chapters:
-    - file: markdown-notebooks
+    - file: Obspy
     - file: mseed2sac
     - file: sac2mseed
     - file: cutevent
+
   - caption: Ambient Noise
     chapters:
     - file: Cross-correlation
