@@ -72,6 +72,7 @@ parts:
   - caption: Surface Wave
     chapters:
     - file: Rayleigh_Wave
+    - file: Love_Wave
     - file: Sensitivity Kernal
 
   
