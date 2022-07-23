@@ -25,7 +25,7 @@ parts:
       - file: C/C++_Fortran_Package
 
 
-  - caption: Useful Script
+  - caption: Useful Scripts
     chapters:
     - file: File-IO
     - file: Subprocess
