@@ -5,6 +5,10 @@
 
 ```{contents}
 ```
+
+```{contents}
+:local:
+```
 ## 2
 
 # 123
