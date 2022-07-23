@@ -24,7 +24,6 @@ parts:
       - file: Python_Package
       - file: C/C++_Fortran_Package
 
-
   - caption: Useful Scripts
     chapters:
     - file: Bash_Script
@@ -34,6 +33,7 @@ parts:
       - file: Numpy
       - file: Matplotlib
       - file: Obspy
+      - file: Mpi4py
       - file: Subprocess
     - file: PyGMT_Script
       sections:
