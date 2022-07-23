@@ -1,2 +1,4 @@
 # Coding Tools
-1
+
+```{tableofcontents}
+```
