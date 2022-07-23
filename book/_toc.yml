@@ -40,17 +40,17 @@ parts:
       - file: programming_manual_and_scripts/PyGMT_Scripts_file/Map
       - file: programming_manual_and_scripts/PyGMT_Scripts_file/Velocity_Model
 
-  # - caption: Parallel Computing and Hybrid Programming
-  #   chapters:
-  #   - file: Python
-  #     sections:
-  #     - file: Mpi4py
-  #     - file: Cupy
-  #   - file: C++
-  #     sections:
-  #     - file: OpenMPI
-  #     - file: Cuda
-  #   - file: Hybrid_Python_C++
+  - caption: Parallel Computing and Hybrid Programming
+    chapters:
+    - file: Python
+      sections:
+      - file: Mpi4py
+      - file: Cupy
+    - file: C++
+      sections:
+      - file: OpenMPI
+      - file: Cuda
+    - file: Hybrid_Python_C++
 
   # - caption: Seismic Data Processing
   #   chapters:
