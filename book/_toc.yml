@@ -26,6 +26,7 @@ parts:
 
   - caption: Programming Manual and Scripts
     numbered: True 
+    maxdepth: 1
     chapters:
     - file: programming_manual_and_scripts/Bash_Manual
     - file: programming_manual_and_scripts/Git_Manual
