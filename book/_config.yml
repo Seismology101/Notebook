@@ -44,9 +44,9 @@ repository:
 # HTML-specific settings
 html:
   favicon                   : logo.png # A path to a favicon image
-  use_issues_button: true
+  use_issues_button         : true
   use_repository_button: true
-  use_multitoc_numbering: true    # restart chapter numbering between parts
+  use_multitoc_numbering    : true # Continuous numbering across parts/chapters
   # announcement: "My announcement!"
 
 
