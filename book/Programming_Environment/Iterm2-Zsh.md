@@ -1,2 +1,2 @@
-# Iterm2 Zsh
+# Iterm2 & Zsh
 1
