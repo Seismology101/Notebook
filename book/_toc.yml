@@ -42,15 +42,15 @@ parts:
 
   - caption: Parallel Computing and Hybrid Programming
     chapters:
-    - file: Python
+    - file: parallel computing_and_hybrid_programming/Python
       sections:
-      - file: Mpi4py
-      - file: Cupy
-    - file: C++
+      - file: parallel computing_and_hybrid_programming/Python_file/Mpi4py
+      - file: parallel computing_and_hybrid_programming/Python_file/Cupy
+    - file: parallel computing_and_hybrid_programming/C++
       sections:
       - file: OpenMPI
       - file: Cuda
-    - file: Hybrid_Python_C++
+    - file: parallel computing_and_hybrid_programming/Hybrid_Python_C++
 
   # - caption: Seismic Data Processing
   #   chapters:
