@@ -21,7 +21,8 @@ parts:
       - file: package
     - file: Git
       sections:
-      - file: 
+      - file: IP Host
+      - file: Manual
     - file: Seismic Software
       - file: SAC
       - file: PyGMT
