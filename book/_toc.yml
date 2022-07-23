@@ -75,11 +75,11 @@ parts:
     - file: surface_wave/Love_Wave
     - file: surface_wave/Sensitivity_Kernal
 
-  # - caption: Coda Wave
-  #   chapters:
-  #   - file: Theory
-  #   - file: Sensitivity_Kernal
-  #   - file: Velocity_Change
+  - caption: Coda Wave
+    chapters:
+    - file: Theory
+    - file: Sensitivity_Kernal
+    - file: Velocity_Change
 
   # - caption: Links
   #   chapters:
