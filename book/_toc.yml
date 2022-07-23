@@ -33,6 +33,7 @@ parts:
       - file: File-IO
       - file: Numpy
       - file: Matplotlib
+      - file: Obspy
       - file: Subprocess
     - file: PyGMT_Script
       sections:
