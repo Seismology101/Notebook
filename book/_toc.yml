@@ -45,6 +45,7 @@ parts:
       - file: programming_manual_and_scripts/PyGMT_Scripts_file/Velocity_Model
 
   - caption: Parallel Computing and Hybrid Programming
+    numbered: True 
     chapters:
     - file: parallel computing_and_hybrid_programming/Python
       sections:
