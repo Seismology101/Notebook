@@ -48,6 +48,7 @@ parts:
 
   - caption: Parallel Computing and Hybrid Programming
     numbered: True 
+    maxdepth: 2
     chapters:
     - file: parallel computing_and_hybrid_programming/Python
       sections:
