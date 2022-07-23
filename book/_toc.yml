@@ -84,3 +84,6 @@ parts:
   - caption: Links
     chapters:
     - file: Institutes of Geosciences
+    - file: Societies of Geosciences
+    - file: Data and Geo-software Center
+
