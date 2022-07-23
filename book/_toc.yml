@@ -26,11 +26,11 @@ parts:
     - file: programming_manual_and_scripts/Git_Manual
     - file: programming_manual_and_scripts/Markdown_Manual
     - file: programming_manual_and_scripts/Python_Scripts
-  #     sections:
-  #     - file: programming_manual_and_scripts/Python_Scripts_file/File-IO
-  #     - file: programming_manual_and_scripts/Python_Scripts_file/Subprocess
-  #     - file: programming_manual_and_scripts/Python_Scripts_file/Numpy
-  #     - file: programming_manual_and_scripts/Python_Scripts_file/Matplotlib
+      sections:
+      - file: programming_manual_and_scripts/Python_Scripts_file/File-IO
+      - file: programming_manual_and_scripts/Python_Scripts_file/Subprocess
+      - file: programming_manual_and_scripts/Python_Scripts_file/Numpy
+      - file: programming_manual_and_scripts/Python_Scripts_file/Matplotlib
   #   - file: programming_manual_and_scripts/C++_Scripts
   #     sections:
   #     - file: programming_manual_and_scripts/C++_Scripts_file/File-IO
