@@ -37,7 +37,6 @@ parts:
       sections:
       - file: File-IO
       - file: Matrix
-
     - file: PyGMT
       sections:
       - file: Map
