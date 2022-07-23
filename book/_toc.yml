@@ -46,6 +46,7 @@ parts:
     - file: sac2mseed
     - file: cutevent
 
+  - caption: Parallel computing
 
   - caption: Data Processing
     chapters:
