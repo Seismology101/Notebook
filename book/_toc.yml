@@ -69,11 +69,11 @@ parts:
     - file: ambient_noise/Cross_Correlation
     - file: ambient_noise/Noise_Source_Analysis
 
-  # - caption: Surface Wave
-  #   chapters:
-  #   - file: Rayleigh_Wave
-  #   - file: Love_Wave
-  #   - file: Sensitivity_Kernal
+  - caption: Surface Wave
+    chapters:
+    - file: Rayleigh_Wave
+    - file: Love_Wave
+    - file: Sensitivity_Kernal
 
   # - caption: Coda Wave
   #   chapters:
