@@ -7,38 +7,38 @@ parts:
   - caption: Programming Environment
     chapters:
     - file: programming_environment/Mac_Software
-    - file: Iterm2-Zsh
-    - file: Latex
-    - file: SSH
-    - file: VScode
-    - file: Python
-    - file: C++
-    - file: Fortran
-    - file: Git
-    - file: Seismic_Software
+    - file: programming_environment/Iterm2-Zsh
+    - file: programming_environment/Latex
+    - file: programming_environment/SSH
+    - file: programming_environment/VScode
+    - file: programming_environment/Python
+    - file: programming_environment/C++
+    - file: programming_environment/Fortran
+    - file: programming_environment/Git
+    - file: programming_environment/Seismic_Software
       sections:
-      - file: SAC
-      - file: PyGMT
+      - file: programming_environment/Seismic_Software_file/SAC
+      - file: programming_environment/Seismic_Software_file/PyGMT
 
   - caption: Programming Manual and Scripts
     chapters:
-    - file: Bash_Manual
-    - file: Git_Manual
-    - file: Markdown_Manual
-    - file: Python_Scripts
+    - file: programming_manual_and_scripts/Bash_Manual
+    - file: programming_manual_and_scripts/Git_Manual
+    - file: programming_manual_and_scripts/Markdown_Manual
+    - file: programming_manual_and_scripts/Python_Scripts
       sections:
-      - file: File-IO
-      - file: Subprocess
-      - file: Numpy
-      - file: Matplotlib
-    - file: C++_Scripts
+      - file: programming_manual_and_scripts/Python_Scripts_file/File-IO
+      - file: programming_manual_and_scripts/Python_Scripts_file/Subprocess
+      - file: programming_manual_and_scripts/Python_Scripts_file/Numpy
+      - file: programming_manual_and_scripts/Python_Scripts_file/Matplotlib
+    - file: programming_manual_and_scripts/C++_Scripts
       sections:
-      - file: File-IO
-      - file: Matrix
-    - file: PyGMT_Scripts
+      - file: programming_manual_and_scripts/C++_Scripts_file/File-IO
+      - file: programming_manual_and_scripts/C++_Scripts_file/Matrix
+    - file: programming_manual_and_scripts/PyGMT_Scripts
       sections:
-      - file: Map
-      - file: Velocity_Model
+      - file: programming_manual_and_scripts/PyGMT_Scripts_file/Map
+      - file: programming_manual_and_scripts/PyGMT_Scripts_file/Velocity_Model
 
   # - caption: Parallel Computing and Hybrid Programming
   #   chapters:
