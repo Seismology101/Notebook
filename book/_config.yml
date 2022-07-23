@@ -33,6 +33,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   use_multitoc_numbering: true    # restart chapter numbering between parts
+  announcement: "My announcement!"
 
 # Advanced sphinx settings
 sphinx:
