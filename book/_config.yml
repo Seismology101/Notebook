@@ -52,7 +52,7 @@ html:
   comments:
     hypothesis              : false
     utterances              : false
-  announcement              : "My announcement!"
+  announcement              : "My announcement!" # A banner announcement at the top of the site.
 
 
 #######################################################################################
