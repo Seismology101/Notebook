@@ -33,6 +33,18 @@ Reinstall Monterey system as follows:
 - Select reinstall macOS Monterey.
 
 ::::
+
+
+::::{tab-item} M1
+
+Reinstall Monterey system as follows:
+
+- Restart the computer, and hold {kbd}`Command` + {kbd}`R` key until Apple logo appears.
+- Enter {kbd}`Disk Utility` and {kbd}`Erase` the hard disk.
+- Select reinstall macOS Monterey.
+
+::::
+
 :::::
 
 
