@@ -48,7 +48,7 @@ Working...
 
 ```
 $ tree Mac finder
-yinfu-MAC/
+FuYin-MAC/
 ├── Applications    # built-in
 ├── Desktop         # built-in
 ├── Documents       # built-in
