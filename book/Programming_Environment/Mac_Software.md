@@ -74,6 +74,7 @@ FuYin-MAC/
 
 ### Documents
 
+- Some software uses this folder to store files, such as Matlab /Adobe, but I don't usually use it to store my files.
 
 ### Download
 
