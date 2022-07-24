@@ -33,7 +33,6 @@ The main content of the notebook as follows:
 9. **DAS**: working...
 
 ---
-
 **About author:**
 
 
