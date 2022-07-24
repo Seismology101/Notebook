@@ -73,7 +73,7 @@ table th:nth-of-type(4) {
 |        Name        |       Purpose       |        Url        |         Date        |
 |    ------------    |    -------------    |  :-------------:  |   :-------------:   |
 |    `0-Mac`         |   MacOS shortcuts   |        me         |    July 24, 2022    |
-|    `0-SERVER`      |                     |                   |                     |
+|    `0-SERVER`      |   Server manual     |        me         |                     |
 |    `1-CV`          |                     |                   |                     |
 | `1-Email-template` |                     |                   |                     |
 |    `1-Iterm2`      |                     |                   |                     |
