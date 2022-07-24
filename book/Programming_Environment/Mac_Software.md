@@ -93,6 +93,9 @@ Store my life documents, which have nothing to do with scientific research
 - **Rice-file**: ...
 - **USTC-file**: ...
 ```
+<!-- about how to use {toggle} refer to https://jupyterbook.org/en/stable/interactive/hiding.html#hiding-remove-content -->
+
+
 
 
 ```{dropdown} Here's my dropdown
