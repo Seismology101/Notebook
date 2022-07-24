@@ -83,7 +83,7 @@ table th:nth-of-type(4) {
 |    `1-Notebook`    | Seismology notebook |   this website    |    July 24, 2022    |
 |    `1-Website`     | My personal website | [link](https://github.com/OUCyf/OUCyf.github.io) |  July 24, 2022  |
 |    `SeisFlow`      | A framework for processing massive seismic data | [link](https://github.com/OUCyf/SeisFlow) | July 24, 2022 |
-| `Fu_invert_FM_matlab` | Focal mechanism inversion |                   |                     |
+| `Fu_invert_FM_matlab` | Focal mechanism inversion matlab code using the neighbourhood algorithm | Prof. Yuyang Tan | July 24, 2022 |
 |    `MCMTpy`        |                     |                   |                     |
 |    `NoiseCC.jl`    |                     |                   |                     |
 |    ``             |                     |                   |                     |
