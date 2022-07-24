@@ -93,7 +93,7 @@ parts:
 
   - caption: Coda Wave
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: coda_wave/Theory
     - file: coda_wave/Sensitivity_Kernal
