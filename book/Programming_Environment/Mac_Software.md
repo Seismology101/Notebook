@@ -97,6 +97,8 @@ Here's the first card.
 :::
 
 :::{grid-item-card} Two!
+:outline:
+:columns: 6
 Here's the second card.
 :::
 
