@@ -13,15 +13,8 @@ export PATH=/Users/yf/1.Software/0.yinfu_code/bin:${PATH}
 
 ### List
 
-```{list-table}
-:header-rows: 1
-
-* - Training
-  - Validation
-  
-* - 0
-  - 5
-* - 13720
-  - 2744
-```
+|    Training   |   Validation   |
+| :------------ | -------------: |
+|        0      |        5       |
+|     13720     |      2744      |
 
