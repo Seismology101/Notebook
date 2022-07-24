@@ -11,5 +11,9 @@ This tutorial supports **Monterey (12.4)**, and may also be valid for Big Sur (1
 :::
 
 :::{note}
+{kbd}`Command`
+
+:::
+
 
 ## 
