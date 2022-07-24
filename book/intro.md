@@ -4,7 +4,7 @@ Hi guys 👋, and welcome to **Seismology Notebook**. This notebook is mainly ab
  
 The main content of the notebook as follows:
 
-1. **Programming Environment**: configure the programming environment in MacOS
+1. **Programming Environment**: configure the programming environment in **MacOS**.
 
 
 
