@@ -14,6 +14,13 @@ The main content of the notebook as follows:
 
 5. **Earthquake Source**:
 
+6. **Ambient Noise**:
+
+7. **Surface Wave**:
+
+8. **Coda Wave**:
+
+9. **DAS**:
 
 The notebook is  about seismology theory and programming in MacOS. 
 
