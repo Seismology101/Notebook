@@ -84,6 +84,7 @@ FuYin-MAC/
 
 Store my life documents, which have nothing to do with scientific research
 
+```{dropdown} Here's my dropdown
 - **Health**: my body health.
 - **Cook**: cooking study.
 - **Information**: certificate.
@@ -91,6 +92,7 @@ Store my life documents, which have nothing to do with scientific research
 - **Photo**: ...
 - **Rice-file**: ...
 - **USTC-file**: ...
+```
 
 ### bin
 
