@@ -51,7 +51,3 @@ Here is my nifty citation {cite}`holdgraf_evidence_2014`.
 
 
 
-|    Training   |   Validation   |
-| :------------: | :-------------: |
-|        0      |        5       |
-|     13720     |      2744      |
