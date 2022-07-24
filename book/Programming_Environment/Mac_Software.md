@@ -102,17 +102,17 @@ Cooking study.
 
 :::{grid-item-card} Information
 :columns: 4
-Here's the third card.
+Certificate.
 :::
 
 :::{grid-item-card} PhD_application
 :columns: 4
-Here's the third card.
+...
 :::
 
 :::{grid-item-card} Photo
 :columns: 4
-Here's the third card.
+...
 :::
 ::::
 
