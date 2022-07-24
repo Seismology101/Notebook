@@ -55,7 +55,7 @@ table th:nth-of-type(4) {
 |        Name       |       Purpose       |        Url        |         Date        |
 |    ------------   |    -------------    |  :-------------:  |   :-------------:   |
 |    `SAC v102.0`   | Seismic Analysis Code | [link](http://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/) | July 24, 2022 |
-|     `CC-FJg`      |                     |                   |                     |
+|     `CC-FJg`      | Ambient noise cross-correlation and dispersion analysis | Zhengbo Li |                     |
 |     ``            |                     |                   |                     |
 |     ``            |                     |                   |                     |
 |     ``            |                     |                   |                     |
