@@ -71,14 +71,14 @@ parts:
 
   - caption: Earthquake Source
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: earthquake_source/Source_Theory
     - file: earthquake_source/Moment_Tensor_Decompose
 
   - caption: Ambient Noise
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: ambient_noise/Cross_Correlation
     - file: ambient_noise/Noise_Source_Analysis
