@@ -68,8 +68,6 @@ FuYin-MAC/
 ```
 ````
 
-
-
 ### Applications
 
 - Store apps downloaded from App Store and the Internet, such as Chrome/Wechat...
