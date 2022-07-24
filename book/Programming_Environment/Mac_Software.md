@@ -49,15 +49,19 @@ Working...
 ```
 $ tree Mac finder
 yinfu-MAC/
-├── _config.yml
-├── _toc.yml
-├── intro.md
-├── logo.png
-├── markdown-notebooks.md
-├── markdown.md
-├── notebooks.ipynb
-├── references.bib
-└── requirements.txt
+├── Applications
+├── Desktop
+├── Documents
+├── Downloads
+├── me
+├── bin
+├── src
+├── code
+├── data
+├── learn
+├── project
+├── workspace
+└── yinfu
 ```
 
 
