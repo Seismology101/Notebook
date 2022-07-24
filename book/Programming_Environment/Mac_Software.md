@@ -117,7 +117,7 @@ Certificate.
 ...
 :::
 
-:::{grid-item-card} Rice-file
+:::{grid-item-card} USTC-file
 :columns: 4
 ...
 :::
