@@ -140,7 +140,7 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 
 ### src
 
-- {file}`~/src` stores source code from other institutions’ research software, such as SAC, OpenMPI, Specfem-2D...
+- {file}`~/src` stores source code from other institutions’ software, such as SAC, OpenMPI, Specfem-2D...
 
 - More information please check [Seis-Software.md](../me/Seis-Software.md) list.
 
