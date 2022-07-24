@@ -13,7 +13,7 @@ export PATH=/Users/yf/1.Software/0.yinfu_code/bin:${PATH}
 
 ### List
 
-|    Training   |   Validation   |
+|    Name   |   Purpose  |  Url | Date  |
 | :------------: | :-------------: |
 |        0      |        5       |
 |     13720     |      2744      |
