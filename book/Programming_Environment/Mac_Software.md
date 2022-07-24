@@ -135,18 +135,6 @@ Certificate.
 
 
 
-
-
-```{dropdown} Here's my dropdown
-- **Health**: my body health.
-- **Cook**: cooking study.
-- **Information**: certificate.
-- **PhD_application**: ...
-- **Photo**: ...
-- **Rice-file**: ...
-- **USTC-file**: ...
-```
-
 ### bin
 
 ### src
