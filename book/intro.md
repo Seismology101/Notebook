@@ -1,9 +1,10 @@
 # Introduction ✨
 
-Hi guys 👋, welcome to seismology notebook. The notebook is mainly about seismology theory and programming in MacOS.
+Hi guys 👋, welcome to seismology notebook. This notebook is mainly about my experience and gain in learning seismology, which can be regarded as my scientific notes, and I am glad if it can help you too. Enjoy!
+ 
  
 
-
+The notebook is  about seismology theory and programming in MacOS. 
 
 
 
