@@ -7,7 +7,7 @@ Note that there is no guarantees of correctness and if you spot an error or a do
 :::
 
 The main content of the notebook as follows:
-s
+
 ---
 **Programming:**
 
