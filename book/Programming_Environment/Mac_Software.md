@@ -46,9 +46,19 @@ Working...
 
 ## File managment
 
-
-
-
+```
+$ tree mybookname
+mybookname/
+├── _config.yml
+├── _toc.yml
+├── intro.md
+├── logo.png
+├── markdown-notebooks.md
+├── markdown.md
+├── notebooks.ipynb
+├── references.bib
+└── requirements.txt
+```
 
 
 
