@@ -7,7 +7,7 @@
 ---
 
 :::{warning}
-This tutorial supports **Monterey (12.4)**， and may also be valid for Big Sur (11) and macOS Catalina (10.15). 
+This tutorial supports **Monterey (12.4)**, and may also be valid for Big Sur (11) and macOS Catalina (10.15). 
 :::
 
 
