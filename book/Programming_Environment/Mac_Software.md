@@ -90,33 +90,33 @@ Store my life documents, which have nothing to do with scientific research
 ::::{grid}
 :gutter: 2
 
-:::{grid-item-card} One!
+:::{grid-item-card} Health
 :columns: 4
-Here's the first card.
+Body health.
 :::
 
-:::{grid-item-card} Two!
+:::{grid-item-card} Cook
 :columns: 4
-Here's the second card.
+Cooking study.
 :::
 
-:::{grid-item-card} Three!
-:columns: 4
-Here's the third card.
-:::
-
-:::{grid-item-card} Three!
+:::{grid-item-card} Information
 :columns: 4
 Here's the third card.
 :::
 
-:::{grid-item-card} Three!
+:::{grid-item-card} PhD_application
+:columns: 4
+Here's the third card.
+:::
+
+:::{grid-item-card} Photo
 :columns: 4
 Here's the third card.
 :::
 ::::
 
-- **Health**: my body health.
+- **Health**: body health.
 - **Cook**: cooking study.
 - **Information**: certificate.
 - **PhD_application**: ...
