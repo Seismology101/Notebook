@@ -49,10 +49,10 @@ Working...
 ```
 $ tree Mac finder
 yinfu-MAC/
-├── Applications
-├── Desktop
-├── Documents
-├── Downloads
+├── Applications    # built-in
+├── Desktop         # built-in
+├── Documents       # built-in
+├── Downloads       # built-in
 ├── me
 ├── bin
 ├── src
@@ -61,9 +61,10 @@ yinfu-MAC/
 ├── learn
 ├── project
 ├── workspace
-└── yinfu
+└── yinfu           # built-in
 ```
 
+###
 
 
 
