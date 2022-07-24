@@ -125,16 +125,8 @@ Certificate.
 ...
 :::
 
-
 ::::
 
-- **Health**: body health.
-- **Cook**: cooking study.
-- **Information**: certificate.
-- **PhD_application**: ...
-- **Photo**: ...
-- **Rice-file**: ...
-- **USTC-file**: ...
 ```
 <!-- about how to use {toggle} refer to https://jupyterbook.org/en/stable/interactive/hiding.html#hiding-remove-content -->
 
