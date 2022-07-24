@@ -23,6 +23,9 @@ table th:nth-of-type(2) {
 table th:nth-of-type(3) {
     width: 8em;
 }
+table th:nth-of-type(3) {
+    width: 8em;
+}
 </style>
 
 |    Name   |   Purpose  |  Url | Date  |
