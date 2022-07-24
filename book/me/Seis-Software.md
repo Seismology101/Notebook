@@ -2,7 +2,7 @@
 
 ## {file}`~./bin`
 
-Add to path
+**Add to path**
 
 ```
 $ open ~/.zshrc
