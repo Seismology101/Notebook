@@ -43,7 +43,7 @@ Tree Mac finder as follows:
 
 ::::{toggle}
 ```
-$ tree Mac finder
+$ toctree Mac finder
 FuYin-MAC/
 ├── Applications    # built-in
 ├── Desktop         # built-in
