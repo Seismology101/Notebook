@@ -2,7 +2,7 @@
 
 Welcome to **Seismology Notebook**. This notebook is mainly about my experience and gain in learning seismology, which can be regarded as my scientific notes, and I will be very glad if it can help your researches too. Enjoy 👋
 
-:::{warning}
+:::{admonition}
 Note that there is no guarantees of correctness and if you spot an error or a doubtful statement, kindly let me know by writing comments on each parts.
 :::
 
