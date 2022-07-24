@@ -82,7 +82,7 @@ table th:nth-of-type(4) {
 | `1-Email-template` |  Email cover for Rice and USTC  |  me   |    July 24, 2022    |
 |    `1-Notebook`    | Seismology notebook |   this website    |    July 24, 2022    |
 |    `1-Website`     | My personal website | [link](https://github.com/OUCyf/OUCyf.github.io) |  July 24, 2022  |
-|    `SeisFlow`      | A framework for processing massive seismic data based on Python | [link](https://github.com/OUCyf/SeisFlow)                  |                     |
+|    `SeisFlow`      | A framework for processing massive seismic data | [link](https://github.com/OUCyf/SeisFlow) | July 24, 2022 |
 | `Fu_invert_FM_matlab` |                     |                   |                     |
 |    `MCMTpy`        |                     |                   |                     |
 |    `NoiseCC.jl`    |                     |                   |                     |
