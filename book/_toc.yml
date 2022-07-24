@@ -85,7 +85,7 @@ parts:
 
   - caption: Surface Wave
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: surface_wave/Rayleigh_Wave
     - file: surface_wave/Love_Wave
