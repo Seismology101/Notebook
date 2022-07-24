@@ -1,7 +1,11 @@
 # Introduction ✨
 
 Welcome to **Seismology Notebook**. This notebook is mainly about my experience and gain in learning seismology, which can be regarded as my scientific notes, and I will be very glad if it can help your researches too. Enjoy 👋
- 
+
+:::{warning}
+本教程正在编写中，尚未完成，敬请期待最终完成版。
+:::
+
 The main content of the notebook as follows:
 
 ---
