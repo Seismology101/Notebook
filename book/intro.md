@@ -1,9 +1,9 @@
 # Introduction ✨
 
-Welcome to **Seismology Notebook**. This notebook is mainly about my ([**Fu Yin**](https://yinfu.info/)) experience and gain in learning seismology, which can be regarded as my scientific notes, and I will be very glad if it can help your researches too. Enjoy 👋
+Welcome to **Seismology Notebook**. This notebook is mainly about my () experience and gain in learning seismology, which can be regarded as my scientific notes, and I will be very glad if it can help your researches too. Enjoy 👋
 
-```{margin} My sidebar title
-My sidebar content
+```{margin} About Me
+[**Fu Yin**](https://yinfu.info/)
 ```
 
 :::{admonition} Admonition
