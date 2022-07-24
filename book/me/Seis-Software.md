@@ -1,6 +1,8 @@
-# bin
+# Seismology Software
 
-## Add to path
+## ~./bin
+
+### Add to path
 
 ```
 $ open ~/.zshrc
@@ -8,5 +10,7 @@ $ open ~/.zshrc
 export PATH=/Users/yf/1.Software/0.yinfu_code/bin:${PATH}
 # >>> yinfu_code path >>>
 ```
+
+### List
 
 
