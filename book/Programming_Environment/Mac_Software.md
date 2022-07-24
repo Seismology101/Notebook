@@ -130,7 +130,7 @@ Certificate.
 
 ### bin
 
-
+{file}`~/bin` stores simple executable files and tool-based scripts
 
 
 
