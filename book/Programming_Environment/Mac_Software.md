@@ -115,6 +115,15 @@ Certificate.
 ...
 :::
 
+:::{grid-item-card} Rice-file
+:columns: 4
+...
+:::
+
+:::{grid-item-card} Rice-file
+:columns: 4
+...
+:::
 
 
 ::::
