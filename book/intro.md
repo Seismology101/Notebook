@@ -1,6 +1,7 @@
 # Introduction ✨
 
-Hi guys 👋, welcome to seismology notebook. 
+Hi guys 👋, welcome to seismology notebook. The notebook is mainly about seismological theory and programming
+ 
 
 
 
