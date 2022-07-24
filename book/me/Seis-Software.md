@@ -30,7 +30,7 @@ table th:nth-of-type(4) {
 
 |        Name       |       Purpose       |        Url        |         Date        |
 |   :------------:  |    -------------    |  :-------------:  |   :-------------:   |
-|        chromedriver     |       Chrome plugin to fresh html when using jupyter-book to build project     |  [link](https://chromedriver.chromium.org/)   |   July 24, 2022 |
+|    chromedriver   |       Chrome plugin to fresh html when using jupyter-book to build project     |  [link](https://chromedriver.chromium.org/)   |   July 24, 2022 |
 |     rehost.py     |     Update github host IP for China region     | me  | ...  |
 |               |                   |                   |               |
 
