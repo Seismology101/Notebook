@@ -8,6 +8,8 @@ The main content of the notebook as follows:
 
 2. **Programming Manual and Scripts**: some common and useful code scripts.
 
+3. **Parallel Computing and Hybrid Programming**: common strategies for parallel computing and hybrid programming between Python and C++.
+
 The notebook is  about seismology theory and programming in MacOS. 
 
 
