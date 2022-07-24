@@ -70,6 +70,7 @@ FuYin-MAC/
 
 ### Desktop
 
+- Some temporary files
 
 ### Documents
 
