@@ -15,9 +15,9 @@ This tutorial supports **Monterey (12.4)**, and may also be valid for Big Sur (1
 ## Re-Install MacOS
 
 
-:::::{tab-set}
+::::{tab-set}
 
-::::{tab-item} Intel Monterey
+:::{tab-item} Intel Monterey
 
 Reinstall Monterey system as follows:
 
@@ -25,16 +25,16 @@ Reinstall Monterey system as follows:
 - Enter {kbd}`Disk Utility` and {kbd}`Erase` the hard disk.
 - Select reinstall macOS Monterey.
 
-::::
+:::
 
 
-::::{tab-item} M1
+:::{tab-item} M1
 
 Working...
 
-::::
+:::
 
-:::::
+::::
 
 
 ## File managment
