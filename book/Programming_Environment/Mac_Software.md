@@ -24,7 +24,7 @@ $ xcode-select --install
 
 :::::{tab-set}
 
-::::{tab-item} 国内用户
+::::{tab-item} Intel Monterey
 
 Reinstall Monterey system as follows:
 
