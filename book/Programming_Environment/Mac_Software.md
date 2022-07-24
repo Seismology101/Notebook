@@ -88,7 +88,7 @@ Store my life documents, which have nothing to do with scientific research
 :show:
 
 |    Training   |   Validation   |
-| :------------ | -------------: |
+| :------------: | :-------------: |
 |        0      |        5       |
 |     13720     |      2744      |
 
