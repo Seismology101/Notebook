@@ -78,6 +78,7 @@ FuYin-MAC/
 
 ### Download
 
+- Default directory for browser downloads
 
 ### me
 
