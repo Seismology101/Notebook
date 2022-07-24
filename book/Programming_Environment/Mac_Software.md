@@ -64,9 +64,42 @@ FuYin-MAC/
 └── yinfu           # built-in
 ```
 
-###
+### Applications
 
 
+### Desktop
+
+
+### Documents
+
+
+### Download
+
+
+### me
+
+### bin
+
+### src
+
+### code
+
+### data
+
+
+### learn
+
+### project
+
+
+### workspace
+
+
+
+### yinfu
+### 
+
+### 
 
 ## Software
 :::::{tab-set}
