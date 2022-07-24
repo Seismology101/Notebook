@@ -45,9 +45,9 @@ Working...
 
 
 ## File managment
-```{toggle}
-
 ```
+
+```{toggle}
 $ tree Mac finder
 FuYin-MAC/
 ├── Applications    # built-in
