@@ -46,7 +46,7 @@ Working...
 
 ## File managment
 
-Tree Mac finder
+Tree Mac finder as follows:
 
 ````{toggle}
 
