@@ -27,9 +27,6 @@ table th:nth-of-type(4) {
     width: 10%;
 }
 </style>
-
-
-
 |    Name   |   Purpose  |  Url | Date  |
 | :------------: | :-------------: | :-------------: | :-------------: |
 |        chromedriver     |       Chrome plugin       |  https://chromedriver.chromium.org/   |   July 24, 2022 |
