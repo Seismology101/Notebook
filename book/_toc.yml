@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 parts:
   - caption: Programming Environment
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: programming_environment/Mac_Software
@@ -25,7 +25,7 @@ parts:
       - file: programming_environment/Seismic_Software_file/PyGMT
 
   - caption: Programming Manual and Scripts
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: programming_manual_and_scripts/Bash_Manual
@@ -47,7 +47,7 @@ parts:
       - file: programming_manual_and_scripts/PyGMT_Scripts_file/Velocity_Model
 
   - caption: Parallel Computing and Hybrid Programming
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: parallel computing_and_hybrid_programming/Python
@@ -61,7 +61,7 @@ parts:
     - file: parallel computing_and_hybrid_programming/Hybrid_Python_C++
 
   - caption: Seismic Data Processing
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: seismic_data_processing/obspy
@@ -70,21 +70,21 @@ parts:
     - file: seismic_data_processing/cutevent
 
   - caption: Earthquake Source
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: earthquake_source/Source_Theory
     - file: earthquake_source/Moment_Tensor_Decompose
 
   - caption: Ambient Noise
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: ambient_noise/Cross_Correlation
     - file: ambient_noise/Noise_Source_Analysis
 
   - caption: Surface Wave
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: surface_wave/Rayleigh_Wave
@@ -92,7 +92,7 @@ parts:
     - file: surface_wave/Sensitivity_Kernal
 
   - caption: Coda Wave
-    numbered: True 
+    # numbered: True 
     maxdepth: 2
     chapters:
     - file: coda_wave/Theory
