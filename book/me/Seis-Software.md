@@ -31,7 +31,7 @@ table th:nth-of-type(4) {
 |    Name   |   Purpose  |  Url | Date  |
 | :------------: | ------------- | :-------------: | :-------------: |
 |        chromedriver     |       Chrome plugin       |  [link](https://chromedriver.chromium.org/)   |   July 24, 2022 |
-|     rehost.py     |     Update github host for China region     | me  | ...  |
+|     rehost.py     |     Update github host IP for China region     | me  | ...  |
 |               |                   |                   |               |
 
 
