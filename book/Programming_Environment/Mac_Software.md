@@ -27,9 +27,13 @@ $ xcode-select --install
 
 ::::{tab-item} 国内用户
 
+## 1
+
 :::{note}
 针对国内用户的 Homebrew 安装和配置指南来自于 <https://brew.idayer.com/>。
 :::
+
+## 2
 
 安装 Homebrew:
 
@@ -69,4 +73,3 @@ $ brew tap homebrew/cask
 :::::
 
 
-## 
