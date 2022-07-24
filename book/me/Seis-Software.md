@@ -59,7 +59,7 @@ table th:nth-of-type(4) {
 |    `mseed2sac`    |                     |                   |                     |
 |    `sac2mseed`    |                     |                   |                     |
 |    `rdseed`       |                     |                   |                     |
-|    `cutevent`     |                     |                   |                     |
+|    `cutevent`     | Seismic data transformation | Prof. Weitao Wang | July 24, 2022 |
 |     ``            |                     |                   |                     |
 |     ``            |                     |                   |                     |
 |     ``            |                     |                   |                     |
