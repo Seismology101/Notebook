@@ -14,7 +14,7 @@ export PATH=/Users/yf/1.Software/0.yinfu_code/bin:${PATH}
 ### List
 <style>
 table th:first-of-type {
-    width: 4cm;
+    width: 2cm;
 }
 table th:nth-of-type(2) {
     width: 150pt;
