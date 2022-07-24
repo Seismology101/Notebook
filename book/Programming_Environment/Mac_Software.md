@@ -88,7 +88,7 @@ Store my life documents, which have nothing to do with scientific research
 :show:
 
 ::::{grid}
-:gutter: 2
+:gutter: 1
 
 :::{grid-item-card} Health
 :columns: 4
@@ -114,6 +114,9 @@ Certificate.
 :columns: 4
 ...
 :::
+
+
+
 ::::
 
 - **Health**: body health.
