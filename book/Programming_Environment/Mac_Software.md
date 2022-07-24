@@ -21,7 +21,17 @@ $ xcode-select --install
 
 ## Re-Install MacOS
 
+
+
+
 ## File managment
+
+
+
+
+
+
+
 
 ## Software
 :::::{tab-set}
