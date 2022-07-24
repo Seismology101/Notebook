@@ -6,7 +6,7 @@ The main content of the notebook as follows:
 
 1. **Programming Environment**: configure the programming environment in MacOS.
 
-
+2. **Programming Manual and Scripts**: some common and useful code scripts.
 
 The notebook is  about seismology theory and programming in MacOS. 
 
