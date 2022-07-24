@@ -66,7 +66,7 @@ FuYin-MAC/
 
 ### Applications
 
-Stores apps downloaded from App Store and the Internet, such as Chrome/Wechat...
+- Stores apps downloaded from App Store and the Internet, such as Chrome/Wechat...
 
 ### Desktop
 
