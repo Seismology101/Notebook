@@ -48,6 +48,8 @@ Working...
 
 
 ````{toggle}
+
+```
 $ tree Mac finder
 FuYin-MAC/
 ├── Applications    # built-in
@@ -63,6 +65,9 @@ FuYin-MAC/
 ├── project
 ├── workspace
 └── yinfu           # built-in
+
+```
+
 ````
 
 
