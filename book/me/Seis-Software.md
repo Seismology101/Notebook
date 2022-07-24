@@ -74,7 +74,7 @@ table th:nth-of-type(4) {
 |    ------------    |    -------------    |  :-------------:  |   :-------------:   |
 |    `0-Mac`         |   MacOS shortcuts   |        me         |    July 24, 2022    |
 |    `0-SERVER`      |   Server manual     |        me         |    July 24, 2022    |
-|    `1-CV`          |                     |                   |                     |
+|    `1-CV`          |   My academic CV    |                   |                     |
 | `1-Email-template` |                     |                   |                     |
 |    `1-Iterm2`      |                     |                   |                     |
 | `1-Latex-template` |                     |                   |                     |
