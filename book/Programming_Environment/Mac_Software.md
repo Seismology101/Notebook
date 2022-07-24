@@ -84,9 +84,9 @@ FuYin-MAC/
 
 Store my life documents, which have nothing to do with scientific research
 
-- **Health**: my body health
+- **Health**: my body health.
 - **Cook**: cooking study.
-- **Information**: certificate
+- **Information**: certificate.
 - **PhD_application**: ...
 - **Photo**: ...
 - **Rice-file**: ...
