@@ -1,6 +1,6 @@
 # ✨ Introduction ✨
 
-Welcome to seismology notebook.👋
+Welcome to seismology notebook. 👋
 
 
 
