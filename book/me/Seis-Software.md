@@ -1,6 +1,6 @@
 # Seismology Software
 
-## File ~./bin
+## File {file}`~./bin`
 
 ### Add to path
 
