@@ -21,6 +21,9 @@ $ xcode-select --install
 
 ## Re-Install MacOS
 
+Reinstall Monterey system as follows:
+
+
 
 
 
