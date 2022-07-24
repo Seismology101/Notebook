@@ -39,7 +39,7 @@ Working...
 
 ## File managment
 
-Tree Mac finder as follows:
+Toctree Mac finder as follows:
 
 ::::{toggle}
 ```
