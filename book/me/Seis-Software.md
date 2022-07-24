@@ -85,6 +85,6 @@ table th:nth-of-type(4) {
 |    `SeisFlow`      | A framework for processing massive seismic data | [link](https://github.com/OUCyf/SeisFlow) | July 24, 2022 |
 | `Fu_invert_FM_matlab` | Focal mechanism inversion matlab code using the neighbourhood algorithm | Prof. Yuyang Tan | July 24, 2022 |
 |    `MCMTpy`        | A python package designed for seismic source study. It provides functionality for focal mechanism inversion and source parameters analysis. | [link](https://github.com/OUCyf/MCMTpy) |  July 24, 2022  |
-|    `NoiseCC.jl`    |                     | [link](https://github.com/OUCyf/NoiseCC) |                     |
+|    `NoiseCC.jl`    |                     | [link](https://github.com/OUCyf/NoiseCC) |  July 24, 2022  |
 |    ``             |                     |                   |                     |
 |    ``             |                     |                   |                     |
