@@ -23,7 +23,7 @@ $ xcode-select --install
 
 Reinstall Monterey system as follows:
 
-1. Restart the computer, and long press {kbd}`Command` and {kbd}`R`key while powering on
+1. Restart the computer, and long press {kbd}`Command` and {kbd}`R` key while powering on
 
 
 
