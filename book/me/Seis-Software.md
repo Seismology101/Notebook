@@ -79,9 +79,9 @@ table th:nth-of-type(4) {
 |    `1-Iterm2`      |  My personal configuration for terminal in MacOS, `Iterm2`+`oh-my-zsh`+`p10k`+`tmux` | [link](https://github.com/OUCyf/my-terminal-config)       |   July 24, 2022   |
 | `1-Email-template` |  Email cover for Rice and USTC  |  me   |    July 24, 2022    |
 |    `1-Notebook`    | Seismology notebook |   this website    |    July 24, 2022    |
-|    `1-Website`     |                     |                   |                     |
+|    `1-Website`     | My personal website | [link](https://github.com/OUCyf/OUCyf.github.io) |  July 24, 2022  |
 |    `SeisFlow`      |                     |                   |                     |
-| `Fu_invert_FM_matlab` |                     | [link](https://github.com/OUCyf/OUCyf.github.io)                  |                     |
+| `Fu_invert_FM_matlab` |                     |                   |                     |
 |    `MCMTpy`        |                     |                   |                     |
 |    `NoiseCC.jl`    |                     |                   |                     |
 |    ``             |                     |                   |                     |
