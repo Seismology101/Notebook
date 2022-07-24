@@ -87,10 +87,10 @@ Store my life documents, which have nothing to do with scientific research
 - **Health**: my body health
 - **Cook**: cooking study.
 - **Information**: certificate
-- **PhD_application**
-- **Photo**
-- **Rice-file**
-- **USTC-file**
+- **PhD_application**: ...
+- **Photo**: ...
+- **Rice-file**: ...
+- **USTC-file**: ...
 
 ### bin
 
