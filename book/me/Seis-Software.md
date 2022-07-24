@@ -81,7 +81,7 @@ table th:nth-of-type(4) {
 |    `1-Notebook`    | Seismology notebook |   this website    |    July 24, 2022    |
 |    `1-Website`     |                     |                   |                     |
 |    `SeisFlow`      |                     |                   |                     |
-| `Fu_invert_FM_matlab` |                     |                   |                     |
+| `Fu_invert_FM_matlab` |                     | [link](https://github.com/OUCyf/OUCyf.github.io)                  |                     |
 |    `MCMTpy`        |                     |                   |                     |
 |    `NoiseCC.jl`    |                     |                   |                     |
 |    ``             |                     |                   |                     |
