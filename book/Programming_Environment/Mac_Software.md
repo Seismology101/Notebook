@@ -143,7 +143,7 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 - {file}`~/src` stores source code of research software, such as SAC, OpenMPI, Specfem-2D...
 
 ```{note}
-Remember that after compiling, put the executable code in the {file}`~/bin` folder.
+    Remember that after compiling, put the executable code in the {file}`~/bin` folder.
 ```
 
 
