@@ -142,6 +142,10 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 
 - {file}`~/src` stores source code of research software, such as SAC, OpenMPI, Specfem-2D...
 
+```{note}
+s
+```
+
 
 ### code
 
