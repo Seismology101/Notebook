@@ -1,6 +1,6 @@
 # Mac Software
 
-- Author: {{Fu-Yin}}
+- Author: {{Fu}}
 - 最近更新日期: 2021-01-12
 - 预计阅读时间: 10 分钟
 s
