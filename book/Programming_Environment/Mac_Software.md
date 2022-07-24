@@ -79,12 +79,12 @@ FuYin-MAC/
 ### Download
 
 - Default directory for browser downloads
-```{toggle}
+
 ### me
 
 Store my life documents, which have nothing to do with scientific research
 
-
+```{toggle}
 :show:
 
 ::::{grid}
