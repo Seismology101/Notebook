@@ -82,7 +82,7 @@ FuYin-MAC/
 
 ### me
 
-Store my life documents, which have nothing to do with scientific research
+- Store my life documents, which have nothing to do with scientific research
 
 ```{toggle}
 :show:
