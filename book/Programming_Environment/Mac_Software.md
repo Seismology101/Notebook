@@ -130,7 +130,8 @@ Certificate.
 
 ### bin
 
-{file}`~/bin` stores simple executable files and tool-based scripts, such as `rdseed`
+{file}`~/bin` stores simple executable files and tool-based scripts, 
+such as `rdseed`. 
 
 
 
