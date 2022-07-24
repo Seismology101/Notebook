@@ -48,7 +48,7 @@ Working...
 
 Tree Mac finder as follows:
 
-````{toggle}
+::::{toggle}
 ```
 $ tree Mac finder
 FuYin-MAC/
@@ -66,7 +66,7 @@ FuYin-MAC/
 ├── workspace
 └── yinfu           # built-in
 ```
-````
+::::
 
 ### Applications
 
