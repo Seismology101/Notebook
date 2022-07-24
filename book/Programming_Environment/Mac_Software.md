@@ -79,7 +79,7 @@ FuYin-MAC/
 
 ### me
 
-- {file}`~/me` store my life documents, which have nothing to do with scientific research
+- {file}`~/me` stores my life documents, which have nothing to do with scientific research
 
 ```{toggle}
 :show:
