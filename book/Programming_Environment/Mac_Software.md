@@ -84,7 +84,13 @@ FuYin-MAC/
 
 Store my life documents, which have nothing to do with scientific research
 
-- Cook: about cooking study.
+- **Health**: my body health
+- **Cook**: cooking study.
+- **Information**: certificate
+- **PhD_application**
+- **Photo**
+- **Rice-file**
+- **USTC-file**
 
 ### bin
 
