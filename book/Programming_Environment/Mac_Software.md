@@ -134,7 +134,7 @@ Certificate.
 such as `rdseed`. And also put executable files of large programs here, such `specfem` and `matlab`.
 - Adds the directory's path to the environment variable `PATH`.
 
-- More information please check [bin.md](../me/Seis-Software.md)
+- More information please check [Seis-Software.md](../me/Seis-Software.md)
 
 
 
