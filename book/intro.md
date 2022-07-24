@@ -1,6 +1,6 @@
 # Introduction ✨
 
-Hi guys 👋, Welcome to seismology notebook. 
+Hi guys 👋, welcome to seismology notebook. 
 
 
 
