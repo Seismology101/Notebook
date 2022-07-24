@@ -70,20 +70,7 @@ table th:nth-of-type(4) {
 
 ## {file}`~./code`
 
-<style>
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 45%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 20%;
-}
-</style>
+
 
 |        Name        |       Purpose       |        Url        |         Date        |
 |    ------------    |    -------------    |  :-------------:  |   :-------------:   |
