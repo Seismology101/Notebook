@@ -140,7 +140,7 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 
 ### src
 
-- {file}`~/src` stores source code of research software
+- {file}`~/src` stores source code of research software, such as SAC, OpenMPI, Specfem-2D...
 
 
 ### code
