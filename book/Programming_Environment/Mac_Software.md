@@ -91,14 +91,10 @@ Store my life documents, which have nothing to do with scientific research
 :gutter: 5
 
 :::{grid-item-card} One!
-:outline:
-:columns: 6
 Here's the first card.
 :::
 
 :::{grid-item-card} Two!
-:outline:
-:columns: 6
 Here's the second card.
 :::
 
