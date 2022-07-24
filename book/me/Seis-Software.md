@@ -34,28 +34,3 @@ table th:nth-of-type(4) {
 |     rehost.py     |     Update github host IP for China region     | me  | ...  |
 |               |                   |                   |               |
 
-
-::::{grid}
-
-:::{grid-item}
-:outline:
-:columns: 3
-A
-:::
-:::{grid-item}
-:outline:
-:columns: 9
-B
-:::
-:::{grid-item}
-:outline:
-:columns: 6
-C
-:::
-:::{grid-item}
-:outline:
-:columns: 6
-D
-:::
-
-::::
