@@ -1,8 +1,9 @@
 # Mac Software
 
 - Author: {{Fu}}
-- 最近更新日期: 2021-01-12
-- 预计阅读时间: 10 分钟
-s
+- Last-Update: July 24, 2022
+- Reading: 10 min
+
 ---
-1
+
+s
