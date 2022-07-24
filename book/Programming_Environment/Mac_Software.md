@@ -47,8 +47,8 @@ Working...
 ## File managment
 
 ```
-$ tree mybookname
-mybookname/
+$ tree Mac finder
+yinfu-MAC/
 ├── _config.yml
 ├── _toc.yml
 ├── intro.md
