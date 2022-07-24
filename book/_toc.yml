@@ -48,7 +48,7 @@ parts:
 
   - caption: Parallel Computing and Hybrid Programming
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: parallel computing_and_hybrid_programming/Python
       sections:
@@ -62,7 +62,7 @@ parts:
 
   - caption: Seismic Data Processing
     # numbered: True 
-    maxdepth: 2
+    # maxdepth: 2
     chapters:
     - file: seismic_data_processing/obspy
     - file: seismic_data_processing/seed2sac
