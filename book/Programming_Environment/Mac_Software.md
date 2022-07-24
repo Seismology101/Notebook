@@ -96,18 +96,22 @@ Here's the first card.
 :::
 
 :::{grid-item-card} Two!
+:columns: 4
 Here's the second card.
 :::
 
 :::{grid-item-card} Three!
+:columns: 4
 Here's the third card.
 :::
 
 :::{grid-item-card} Three!
+:columns: 4
 Here's the third card.
 :::
 
 :::{grid-item-card} Three!
+:columns: 4
 Here's the third card.
 :::
 ::::
