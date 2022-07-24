@@ -66,7 +66,7 @@ FuYin-MAC/
 
 ### Applications
 
-- Stores apps downloaded from App Store and the Internet, such as Chrome/Wechat...
+- Store apps downloaded from App Store and the Internet, such as Chrome/Wechat...
 
 ### Desktop
 
@@ -82,7 +82,9 @@ FuYin-MAC/
 
 ### me
 
+Store my life documents, which have nothing to do with scientific research
 
+- Cook: about cooking study.
 
 ### bin
 
