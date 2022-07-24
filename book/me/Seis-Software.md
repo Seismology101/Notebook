@@ -72,7 +72,7 @@ table th:nth-of-type(4) {
 
 |        Name        |       Purpose       |        Url        |         Date        |
 |    ------------    |    -------------    |  :-------------:  |   :-------------:   |
-|    `0-Mac`         |   MacOS shortcuts   |                   |                     |
+|    `0-Mac`         |   MacOS shortcuts   |        me         |                     |
 |    `0-SERVER`      |                     |                   |                     |
 |    `1-CV`          |                     |                   |                     |
 | `1-Email-template` |                     |                   |                     |
