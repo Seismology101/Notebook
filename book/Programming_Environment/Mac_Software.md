@@ -45,7 +45,7 @@ Working...
 
 
 ## File managment
-
+```{toggle}
 ```
 $ tree Mac finder
 FuYin-MAC/
@@ -63,7 +63,7 @@ FuYin-MAC/
 ├── workspace
 └── yinfu           # built-in
 ```
-
+```
 ### Applications
 
 - Store apps downloaded from App Store and the Internet, such as Chrome/Wechat...
