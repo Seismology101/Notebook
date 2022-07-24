@@ -4,6 +4,7 @@ Hi guys 👋, and welcome to **Seismology Notebook**. This notebook is mainly ab
  
 The main content of the book is as follows:
 
+1. **计算机基础**：
 
 
 
