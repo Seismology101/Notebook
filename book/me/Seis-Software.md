@@ -78,7 +78,7 @@ table th:nth-of-type(4) {
 | `1-Latex-template` |   A Latex template including book, thesis, and assignment for Rice and USTC university.   | [link](https://github.com/OUCyf/Latex-Template-Rice-USTC) |   July 24, 2022   |
 |    `1-Iterm2`      |  My personal configuration for terminal in MacOS, `Iterm2`+`oh-my-zsh`+`p10k`+`tmux` | [link](https://github.com/OUCyf/my-terminal-config)       |   July 24, 2022   |
 | `1-Email-template` |  Email cover for Rice and USTC  |  me   |    July 24, 2022    |
-|    `1-Notebook`    | Seismology notebook |   this website    |                     |
+|    `1-Notebook`    | Seismology notebook |   this website    |    July 24, 2022   |
 |    `1-Website`     |                     |                   |                     |
 |    `SeisFlow`      |                     |                   |                     |
 | `Fu_invert_FM_matlab` |                     |                   |                     |
