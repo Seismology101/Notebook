@@ -88,7 +88,7 @@ Store my life documents, which have nothing to do with scientific research
 :show:
 
 ::::{grid}
-:gutter: 5
+:gutter: 1
 
 :::{grid-item-card} One!
 :columns: 4
