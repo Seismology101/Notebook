@@ -10,7 +10,7 @@ The main content of the notebook as follows:
 
 3. **Parallel Computing and Hybrid Programming**: common strategies for parallel computing and hybrid programming between Python and C++.
 
-4. **Seismic Data Processing**: seismic data processing process included read/write/filter/trim... and so on.
+4. **Seismic Data Processing**: seismic data processing process included *read/write/filter/trim...* and so on.
 
 
 
