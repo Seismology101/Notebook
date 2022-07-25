@@ -41,7 +41,7 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  |   
 |  `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS |  `xcode-select --install` |   
 |     `VSCode`    | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
-|     ``            |                     |                   |            
+|     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS. |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
