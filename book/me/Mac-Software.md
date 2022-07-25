@@ -188,7 +188,7 @@ table th:nth-of-type(3) {
 |     `Mathpix Snipping Tool`            |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.                   | [link](https://mathpix.com/)                  | 
 |     `IRightMouse`            |  Powerful right-click menu tool                   |   AppStore                | 
 |     `Caffeinated`            |  Prevent Mac from going to sleep                   |   AppStore                 | 
-|     `DisplayLink Manager`            |                     |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | Program expansion dock driver software for multi - screen display
+|     `DisplayLink Manager`            |                     |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | Program expansion dock driver software for multi-screen display
 
 
 ## Browsers
