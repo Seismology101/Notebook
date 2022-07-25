@@ -117,11 +117,7 @@ plugins=(
 
 1. [extract](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/extract): use the `x abc.zip` syntax to decompress almost all compressed files, such as `.tar.gz`, `.tar.bz2`, `.zip`, `.7z`, `.rar`.
 
-1. [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`.
-
-
-    
-Before enabling autojump, install firstly:
+1. [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`. Before enabling autojump, install firstly:
 
 
 ::::{tab-set}
