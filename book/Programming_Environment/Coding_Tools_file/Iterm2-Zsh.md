@@ -96,7 +96,7 @@ For example, I use [Powerlevel10k](https://github.com/romkatv/powerlevel10k) the
 $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
 # then open `~/.zshrc` and set `ZSH_THEME`:
-$ ZSH_THEME="powerlevel10k/powerlevel10k
+ZSH_THEME="powerlevel10k/powerlevel10k
 ```
 
 Run the following command to start the automatic configuration process:
