@@ -31,7 +31,7 @@ scale: 20%
 align: center
 name: ref-tag
 ---
-Here is my figure caption!
+<!-- Here is my figure caption! -->
 ```
 
 
