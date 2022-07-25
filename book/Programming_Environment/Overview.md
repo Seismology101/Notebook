@@ -47,7 +47,7 @@ Working...
 
 ## APP
 
-Complete list in my mac please check [Mac-Software.md](./Overview//Mac-Software.md) list. Here are several resources website.
+Complete list in my mac please check [Mac-Software.md](./Overview/Mac-Software.md) list. Here are several resources website.
 
 - [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
 
@@ -196,7 +196,7 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 
 - {file}`~/src` stores source code from **other institutions’ software**, such as SAC, OpenMPI, Specfem-2D...
 
-- More information please check [Seis-Software.md](./Overview//Seis-Software.md) list.
+- More information please check [Seis-Software.md](./Overview/Seis-Software.md) list.
 
 ```{note}
 Remember that after compiling, put the executable code in the {file}`~/bin` folder.
@@ -207,7 +207,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 - {file}`~/code` stores source code wrote by myself, and it's **my personal code**.
 
-- More information please check [Seis-Software.md](./Overview//Seis-Software.md) list.
+- More information please check [Seis-Software.md](./Overview/Seis-Software.md) list.
 
 ```{note}
 Remember that after compiling, put the executable code in the {file}`~/bin` folder.
