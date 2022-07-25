@@ -10,10 +10,10 @@ My terminal configuration in Mac.
 
 **Requirements:**
 - [Iterm2](https://iterm2.com/)
-- [zsh](https://www.zsh.org/)
+- [Zsh](https://www.zsh.org/)
 - [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [tmux](https://github.com/tmux/tmux)
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [Tmux](https://github.com/tmux/tmux)
 
 
 **Preview:**
