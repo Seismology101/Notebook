@@ -163,7 +163,7 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
 |     `Paste`    |  Smart clipboard history & snippets manager.   | [link](https://pasteapp.io/)  |            
-|     ``            |                     |                   |            
+|     `Bartender`            | Organize or hide menu bar icons on your Mac.     |  MacWk                 |            
 |     ``            |                     |                   | 
 
 
