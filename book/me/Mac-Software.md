@@ -33,8 +33,7 @@ table th:nth-of-type(3) {
 |     `Notability`            | Take notes                    |  AppStore                  |                      
 |     `全球学术快报`            |  Read CAJ(知网) paper                   | [link](https://cajviewer.cnki.net/download.html)                  |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
+           
 
 ---
 
@@ -72,9 +71,7 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  |   
 |     `TeamViewer`            | Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers                    |  [link](https://www.teamviewer.com/en/)                 |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
@@ -104,7 +101,7 @@ table th:nth-of-type(3) {
 |     `IINA`            | The modern video player for macOS. Based on mpv, the powerful media player project.                    |  [link](https://iina.io/)                 |            
 |     `网易云音乐`            |  Listen music in China                  |  AppStore                   |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
@@ -116,8 +113,7 @@ table th:nth-of-type(3) {
 |     `Dropbox`            | File hosting service that offers cloud storage and file synchronization with collaborative edit features.                    |  [link](https://www.dropbox.com/)                 |            
 |     `百度云`            | ...                    | [link](http://pan.baidu.com/download?from=header#pan)                  |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 ## Proxy and VPN Tools
@@ -126,8 +122,7 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  | 
 |     `Cisco AnyConnect`            |   VPN for Rice University                  |  [link](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link](https://software.cisco.com/download/home)                 |            
 |     ``            |                     |                   | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
@@ -140,8 +135,7 @@ table th:nth-of-type(3) {
 |     `Chrome`            | Chrome, developed by Google                    | [link](https://www.google.com/chrome/)                  |            
 |     `Safari`            | Native browser for Macs                    | [link](https://www.apple.com/safari/)                  |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
@@ -152,7 +146,7 @@ table th:nth-of-type(3) {
 |     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |  
 |     `有道翻译`            | ...                    |  AppStore                 |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
@@ -163,7 +157,7 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  | 
 |     `搜狗输入法`            | ...                    | [link](https://pinyin.sogou.com/mac/)                  |            
 |     ``            |                     |                   |            
-|     ``            |                     |                   | 
+
 
 
 
