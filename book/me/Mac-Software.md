@@ -188,12 +188,13 @@ table th:nth-of-type(3) {
 |     `AltTab`      | Open source window switcher with window previews | [link](https://alt-tab-macos.netlify.app/) |            
 |     `DaisyDisk `  | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk |   MacWk               |  
 |   `Tuxera NTFS `  | Full read-write compatibility with NTFS-formatted drives on a Mac |  MacWk   |            
-|  `Sound Control`  | ...                 | MacWk              |  
-|     `LetsView`    | Project iphone to Mac | MacWk            | 
+|  `Sound Control`  | ...                 | MacWk             |  
+|     `LetsView`    | Project iphone to Mac | MacWk           | 
 |     `Lunar`       | Help you adujst brightness, contrast and volumn of your external display |  MacWk   | 
-| `Macs Fan Control` | Fan control        | MacWk              | 
+| `Macs Fan Control` | Fan control        | MacWk             | 
 | `Mathpix Snipping Tool` |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology    | [link](https://mathpix.com/) | 
 |   `IRightMouse`   | Powerful right-click menu tool | AppStore | 
 |     `Caffeinated` | Prevent Mac from going to sleep | AppStore | 
 | `DisplayLink Manager` | Program expansion dock driver software for multi-screen display | [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos) | 
+| `Google Earth Pro` | Earth map          |  MacWk            | 
 |     ``            |                     |                   | 
