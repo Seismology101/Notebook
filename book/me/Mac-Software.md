@@ -31,7 +31,7 @@ table th:nth-of-type(3) {
 |     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.     | MacWk   |            
 |     `GoodNotes`            | Take notes                    |  AppStore                  |            
 |     `Notability`            | Take notes                    |  AppStore                  |                      
-|     ``            |                     |                   |            
+|     `全球学术快报`            |  Read CAJ(知网) paper                   | [link](https://cajviewer.cnki.net/download.html)                  |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
@@ -174,7 +174,7 @@ table th:nth-of-type(3) {
 |     `LetsView`            |                     |  MacWk                  | 
 |     `Lunar`            | Help you adujst brightness, contrast and volumn of your external display                    |  MacWk                 | 
 |     `Macs Fan Control`            | Fan control                    |  MacWk                 | 
-|     ``            |                     |                   | 
+|     `Mathpix Snipping Tool`            |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.                   | [link](https://mathpix.com/)                  | 
 |     ``            |                     |                   | 
 
 
