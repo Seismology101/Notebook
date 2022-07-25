@@ -3,13 +3,13 @@
 ```{tableofcontents}
 ```
 
-```{contents}
+<!-- ```{contents}
 ```
 
 ```{contents}
 :local:
 :depth: 1
-```
+``` -->
 ## 2
 
 ### 123
