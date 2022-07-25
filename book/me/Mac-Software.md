@@ -112,7 +112,7 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
 |     `Dropbox`            | File hosting service that offers cloud storage and file synchronization with collaborative edit features.                    |  [link](https://www.dropbox.com/)                 |            
-|     ``            |                     |                   |            
+|     `百度云`            | ...                    | [link](http://pan.baidu.com/download?from=header#pan)                  |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
