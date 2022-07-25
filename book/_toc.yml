@@ -10,8 +10,8 @@ parts:
     chapters:
     - file: programming_environment/Overview
     sections:
-      - file: programming_environment/Overview/Mac-Software
-      - file: programming_environment/Overview/Seis-Software
+      - file: programming_environment/Overview/MacSoftware
+      - file: programming_environment/Overview/SeisSoftware
     - file: programming_environment/Coding_Tools
       sections:
       - file: programming_environment/Coding_Tools_file/Iterm2-Zsh
