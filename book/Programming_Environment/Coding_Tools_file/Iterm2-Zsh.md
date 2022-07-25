@@ -49,6 +49,10 @@ Iterm2 is a replacement for terminal in Mac.
 
 
 ## Zsh
+```
+
+```
+
 
 :::{note}
 Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash to Zsh
