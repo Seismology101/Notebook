@@ -18,9 +18,6 @@ My terminal configuration in Mac.
 
 **Preview:**
 
-
-
-
 ```{figure} ./img/Iterm2-Zsh-1.jpg
 ---
 scale: 25%
