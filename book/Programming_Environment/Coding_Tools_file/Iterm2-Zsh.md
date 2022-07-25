@@ -27,7 +27,7 @@
 
 ```{figure} ./img/Iterm2-Zsh-1.jpg
 ---
-
+<!-- scale: 25% -->
 width: 200px
 align: center
 name: ref-tag
@@ -35,7 +35,7 @@ name: ref-tag
 <!-- Here is my figure caption! -->
 ```
 
-<!-- scale: 25% -->
+
 ss
 
 
