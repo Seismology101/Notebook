@@ -29,7 +29,7 @@
 ---
 scale: 20%
 align: left
-name: directive-fig
+name: ref-tag
 ---
 Here is my figure caption!
 ```
