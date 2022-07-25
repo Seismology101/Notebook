@@ -186,6 +186,7 @@ table th:nth-of-type(3) {
 |     `Lunar`            | Help you adujst brightness, contrast and volumn of your external display                    |  MacWk                 | 
 |     `Macs Fan Control`            | Fan control                    |  MacWk                 | 
 |     `Mathpix Snipping Tool`            |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.                   | [link](https://mathpix.com/)                  | 
+|     `IRightMouse`            |  Powerful right-click menu tool                   |   AppStore                | 
 |     ``            |                     |                   | 
 
 
@@ -193,7 +194,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   |            
+           
 |     ``            |                     |                   | 
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
