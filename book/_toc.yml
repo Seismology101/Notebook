@@ -22,7 +22,7 @@ parts:
       - file: programming_environment/Coding_Tools_file/C++
       - file: programming_environment/Coding_Tools_file/Fortran
       - file: programming_environment/Coding_Tools_file/Latex
-    - file: programming_environment/Seismic_Software
+    - file: programming_environment/Seismology_Tools
       sections:
       - file: programming_environment/Seismic_Software_file/SAC
       - file: programming_environment/Seismic_Software_file/PyGMT
