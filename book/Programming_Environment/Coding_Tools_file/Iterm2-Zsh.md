@@ -106,11 +106,12 @@ $ ZSH_THEME="powerlevel10k/powerlevel10k
 Download different plugins to `~/.oh-my-zsh/plugins` directory, and modify the plugins variable in the `~/.zshrc` configuration file as following:
 
 ```bash
-plugins=(git
-  extract
-  autojump
-  zsh-autosuggestions
-  zsh-syntax-highlighting
+plugins=(
+    git
+    extract
+    autojump
+    zsh-autosuggestions
+    zsh-syntax-highlighting
 )
 ```
 
