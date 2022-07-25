@@ -206,7 +206,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 
 **Pirated software** download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
-
+这就是 ~~删除线~~
 * 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
