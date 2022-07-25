@@ -99,6 +99,13 @@ $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:
 $ ZSH_THEME="powerlevel10k/powerlevel10k
 ```
 
+Run the following command to start the automatic configuration process:
+
+
+```bash
+p10k configure
+```
+
 
 
 ### Add plugin
