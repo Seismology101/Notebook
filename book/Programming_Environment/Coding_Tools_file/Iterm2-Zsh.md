@@ -117,6 +117,11 @@ plugins=(
 
 - [extract](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/extract): use the `x abc.zip` syntax to decompress almost all compressed files, such as `.tar.gz`, `.tar.bz2`, `.zip`, `.7z`, `.rar`.
 
+- [autojump](https://github.com/wting/autojump)
+
+
+
+
 
 Plugin:
 
