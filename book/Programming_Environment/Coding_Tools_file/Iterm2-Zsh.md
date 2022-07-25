@@ -86,14 +86,20 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/m
 This command will create the `~/.oh-my-zsh` directory, downloads oh my zsh to this directory, and generates the default Zsh configuration file `~/.zshrc`. The backup of the old configuration will be moved to a file like `~/.zshrc.pre-oh-my-zsh`.
 
 
+### Set theme
+
+
+### Add plugin
 
 
 
 
-## 2
 Plugin:
 
 - [autojump](https://github.com/wting/autojump)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [colorls](https://github.com/athityakumar/colorls)
+
+
+## Tmux
