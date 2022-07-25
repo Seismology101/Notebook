@@ -105,6 +105,16 @@ $ ZSH_THEME="powerlevel10k/powerlevel10k
 
 Download different plugins, and modify the plugins variable in the `~/.zshrc` configuration file:
 
+```bash
+plugins=(
+  sudo
+  extract
+  autojump
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+)
+```
+
 
 Plugin:
 
