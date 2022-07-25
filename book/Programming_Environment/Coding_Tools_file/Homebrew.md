@@ -16,16 +16,16 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 
 ## Install
 
-::::{tab-set}
+:::::{tab-set}
 
-:::{tab-item} Foreign
+::::{tab-item} Foreign
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-:::
+::::
 
 
-:::{tab-item} China
+::::{tab-item} China
 :::{note}
 针对国内用户的 Homebrew 安装和配置指南来自于 https://brew.idayer.com/
 :::
@@ -53,10 +53,10 @@ $ git -C "$(brew --repo homebrew/cask)" remote set-url origin https://mirrors.us
 $ echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles' >> ~/.zshrc
 $ source ~/.zshrc
 ```
-:::
-
-
 ::::
+
+
+:::::
 
 
 ## Uninstall
