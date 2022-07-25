@@ -27,7 +27,8 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 ::::{tab-item} China
 :::{note}
-针对国内用户的 Homebrew 安装和配置指南来自于 https://brew.idayer.com/
+- 针对国内用户的 Homebrew 安装和配置指南来自于 https://brew.idayer.com/.
+- Homebrew 以及通过 Homebrew 安装的所有软件包都会被安装到特定目录下, 通常是 `/usr/local/` 目录. 而在 Apple M1 芯片的 Mac 下， 这一目录为 `/opt/homebrew/`
 :::
 
 - 如果你是初次安装，这里使用中科大源:
