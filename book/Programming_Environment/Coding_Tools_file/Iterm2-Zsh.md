@@ -81,9 +81,9 @@ source $ZSH/oh-my-zsh.sh
 export PATH=/Users/yinfu/bin:${PATH}
 # >>> yinfu_code path >>>
 
-# >>> Homebrew >>>
+# >>> Homebrew mirrors >>>
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles
-# >>> Homebrew >>>
+# >>> Homebrew mirrors>>>
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
