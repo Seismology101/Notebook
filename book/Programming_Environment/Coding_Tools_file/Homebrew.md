@@ -136,7 +136,7 @@ Look through https://formulae.brew.sh/ to check useful package.
 使用 Homebrew 时会碰到很多名词。这里做简单解释，
 更详细的解释请查看[官方文档](https://docs.brew.sh/Formula-Cookbook#homebrew-terminology)。
 
-`brew`
+**brew**
 
 : Homebrew 提供的命令，用于查询、安装、卸载、升级以及管理软件包。
 
