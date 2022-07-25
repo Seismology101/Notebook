@@ -5,6 +5,11 @@
 
 ```
 
+```{tableofcontents}
+```
+
+```{contents}
+```
 
 <style>
 table th:first-of-type {
