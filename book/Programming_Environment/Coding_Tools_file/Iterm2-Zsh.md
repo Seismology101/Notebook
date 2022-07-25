@@ -71,6 +71,21 @@ $ chsh -s $(which zsh)
 
 
 
+
+
+
+## oh-my-zsh
+
+
+
+
+
+
+
+
+
+
+
 ## 2
 Plugin:
 
