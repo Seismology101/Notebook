@@ -163,11 +163,11 @@ table th:nth-of-type(3) {
 ## Developer Tools
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-| `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS |  `xcode-select --install` |   
+| `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS | `xcode-select --install` |   
 |     `VSCode`      | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
-|     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS. |                   |            
-|     `Iterm 2`  | An amazing terminal emulator for OS X     |  [link](http://www.iterm2.com/)    |            
-|     `Matlab`            | ...                    |  [kb.rice](https://kb.rice.edu/69000)                 |            
+|     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS |  MacWk  |            
+|     `Iterm 2`     | An amazing terminal emulator for OS X   |  [link](http://www.iterm2.com/) |            
+|     `Matlab`      | ...                 | [kb.rice](https://kb.rice.edu/69000)                |            
 |     ``            |                     |                   | 
 
 
