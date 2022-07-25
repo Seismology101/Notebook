@@ -29,7 +29,11 @@ Terminal preview
 **My `~/.zshrc`**
 
 
-
+::::{toggle}
+```bash
+s
+```
+::::
 
 
 
