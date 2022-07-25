@@ -192,4 +192,4 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ## Software
 
-More information please check [Mac-Software.md](../me/Mac-Software.md) list.
+Complete list please check [Mac-Software.md](../me/Mac-Software.md) list.
