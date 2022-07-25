@@ -78,10 +78,6 @@ Complete list in my mac please check [Mac-Software.md](./Overview_file/MacSoftwa
 
 
 
-
-
-
-
 ## File managment
 
 Toctree Mac finder as follows:
