@@ -120,6 +120,9 @@ $ brew upgrade xxx
 
 # 卸载某个软件
 $ brew uninstall xxx
+
+# Brew 安装列表
+$ brew list
 ```
 
 
@@ -177,6 +180,11 @@ Look through https://formulae.brew.sh/ to check useful package.
 
 - 某一软件的安装目录，如 {file}`/usr/local/Cellar/git/2.30.0`。
 :::
+
+
+
+
+
 
 
 
