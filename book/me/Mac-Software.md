@@ -81,6 +81,7 @@ table th:nth-of-type(3) {
 |     `ISlide`      |  PowerPoint add-in  | [link](https://islide-powerpoint.com/en)    | 
 |     ``            |                     |                   | 
 
+---
 
 
 ## Translation Tools
