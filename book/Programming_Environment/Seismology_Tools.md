@@ -1,2 +1,2 @@
-# Seismic Software
+# Seismology_Tools
 1
