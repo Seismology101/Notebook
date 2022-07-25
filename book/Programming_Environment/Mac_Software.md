@@ -190,7 +190,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 - {file}`/Users/yinfu` equals to {file}`~` which is the user's root path.
 
 
-## Software
+## APP
 
 Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) list. Here are several resources website.
 
