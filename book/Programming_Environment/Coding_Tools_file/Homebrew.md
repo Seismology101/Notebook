@@ -64,9 +64,16 @@ $ source ~/.zshrc
 
 
 
-::::{tab-set}
+:::::{tab-set}
 
-:::{tab-item} Foreign
+::::{tab-item} Foreign
+
+:::{note}
+More information please refer to: 
+[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ)
+[https://github.com/homebrew/install#uninstall-homebrew](https://github.com/homebrew/install#uninstall-homebrew)
+:::
+
 Uninstall script from the Homebrew/install repository
 
 ```bash
@@ -79,23 +86,20 @@ If you want to run the Homebrew uninstaller non-interactively, you can use:
 NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
 
-[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ)
-
-[https://github.com/homebrew/install#uninstall-homebrew](https://github.com/homebrew/install#uninstall-homebrew)
 
 :::
 
 
 
-:::{tab-item} China
+::::{tab-item} China
 使用官方脚本同样会遇到uninstall地址无法访问问题，可以使用下面脚本:
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/uninstall.sh)"
 ```
-:::
-
-
 ::::
+
+
+:::::
 
 
 
