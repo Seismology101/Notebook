@@ -189,7 +189,7 @@ table th:nth-of-type(3) {
 |     `DaisyDisk `  | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk |   MacWk               |  
 |   `Tuxera NTFS `  | Full read-write compatibility with NTFS-formatted drives on a Mac |  MacWk   |            
 |  `Sound Control`  | ...                 | MacWk              |  
-|     `LetsView`    |                     | MacWk              | 
+|     `LetsView`    | Project iphone to Mac | MacWk            | 
 |     `Lunar`       | Help you adujst brightness, contrast and volumn of your external display |  MacWk   | 
 | `Macs Fan Control` | Fan control        | MacWk              | 
 | `Mathpix Snipping Tool` |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology    | [link](https://mathpix.com/) | 
