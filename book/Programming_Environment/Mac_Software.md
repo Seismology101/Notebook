@@ -194,4 +194,4 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 Complete list please check [Mac-Software.md](../me/Mac-Software.md) list.
 
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
