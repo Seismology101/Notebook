@@ -40,7 +40,7 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
 |  `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS |  `xcode-select --install` |   
-|     `VSCode`            | Microsoft's free & open-source editor, TypeScript friendly                    | [link](https://code.visualstudio.com/)                  |            
+|     `VSCode`    | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
