@@ -26,6 +26,7 @@ parts:
       sections:
       - file: programming_environment/Seismology_Tools_file/SAC
       - file: programming_environment/Seismology_Tools_file/PyGMT
+    - file: programming_environment/Shortcuts
 
   - caption: Programming Manual and Scripts
     # numbered: True 
