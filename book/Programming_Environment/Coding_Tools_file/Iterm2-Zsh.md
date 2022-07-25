@@ -65,7 +65,8 @@ chsh -s $(which zsh)
 
 
 :::{note}
-Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash to Zsh
+- Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash to Zsh.
+- The configuration file of Zsh is `~/.zshrc`, and of Bash is `~/.bashrc`.
 :::
 
 
