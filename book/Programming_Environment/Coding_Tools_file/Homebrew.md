@@ -26,6 +26,10 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 
 :::{tab-item} China
+:::{note}
+针对国内用户的 Homebrew 安装和配置指南来自于 https://brew.idayer.com/。
+:::
+
 - 如果你是初次安装，这里使用中科大源:
 ```bash
 # 1.执行安装脚本
