@@ -190,6 +190,3 @@ Look through https://formulae.brew.sh/ to check useful package.
 
 
 
-## References
-
-1. [https://brew.idayer.com/](https://brew.idayer.com/)
