@@ -165,6 +165,41 @@ table th:nth-of-type(3) {
 |     `Bartender`            | Organize or hide menu bar icons on your Mac.     |  MacWk                 |            
 |     `MenubarX`    | A powerful Mac menu bar browser, pin webpage like an App   | MacWk                  | 
 |     `Xnip`            | Handy Screenshot App                    |  AppStore                 |    
+|     `The Unarchiver `            | Unarchive many different kinds of archive files         |   AppStore                 | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   |  
+|     ``            |                     |                   |            
+|     ``            |                     |                   |  
+
+
+
+## Browsers
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   | 
+
+
+## Browsers
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   |    
+
+## Browsers
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   |    
 
 
 
@@ -174,5 +209,6 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
 |     ``            |                     |                   |            
-|     ``            |                     |                   |            
 |     ``            |                     |                   | 
+|     ``            |                     |                   |            
+|     ``            |                     |                   |    
