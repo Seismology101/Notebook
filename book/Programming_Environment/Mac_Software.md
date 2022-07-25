@@ -159,6 +159,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 Remember that after compiling, put the executable code in the {file}`~/bin` folder.
 ```
 
+
 ### data
 
 - {file}`~/data` stores some common data, such as seismic waveform, fault data, earthquake catalog, etc., which can be shared by multiple different research projects.
@@ -178,9 +179,11 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 - {file}`~/project` store research project, such as {file}`~/project/MCMTpy` a earthquake source project.
 
+
 ### workspace
 
 - {file}`~/workspace` is a directory for doing occasional tests or simple experiments.
+
 
 ### yinfu
 
