@@ -166,7 +166,7 @@ table th:nth-of-type(3) {
 |     `MenubarX`    | A powerful Mac menu bar browser, pin webpage like an App   | MacWk                  | 
 |     `Xnip`            | Handy Screenshot App                    |  AppStore                 |    
 |     `The Unarchiver `            | Unarchive many different kinds of archive files         |   AppStore                 | 
-|     ``            |                     |                   |            
+|     `AltTab`    | Open source window switcher with window previews.  | [link](https://alt-tab-macos.netlify.app/)  |            
 |     ``            |                     |                   |  
 |     ``            |                     |                   |            
 |     ``            |                     |                   |  
