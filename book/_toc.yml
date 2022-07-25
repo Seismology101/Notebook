@@ -9,7 +9,7 @@ parts:
     # maxdepth: 2
     chapters:
     - file: programming_environment/Overview
-    sections:
+      sections:
       - file: programming_environment/Overview/MacSoftware
       - file: programming_environment/Overview/SeisSoftware
     - file: programming_environment/Coding_Tools
