@@ -43,6 +43,7 @@ Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash t
 
 
 ## 2
+Plugin:
 
 - [autojump](https://github.com/wting/autojump)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
