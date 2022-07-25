@@ -12,4 +12,4 @@ Homebrew is the most popular third-party package manager for macOS
 
 ## References
 
-1. [https://formulae.brew.sh/](https://formulae.brew.sh/)
+1. [https://brew.idayer.com/](https://brew.idayer.com/)
