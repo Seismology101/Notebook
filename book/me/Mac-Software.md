@@ -39,7 +39,7 @@ table th:nth-of-type(3) {
 ## Developer Tools
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     `Command Line Tools for Xcode`            |                     |                   |   
+|  `Command Line Tools for Xcode`   | Integrated Development Environment (IDE) under macOS                    |  `xcode-select --install`                 |   
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
