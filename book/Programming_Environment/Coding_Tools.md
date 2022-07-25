@@ -8,9 +8,3 @@ This section mainly records the configuration of my programming environment and 
 ```{tableofcontents}
 ```
 
-
-## 2
-
-### 123
-
-## 234
