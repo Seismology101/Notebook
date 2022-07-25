@@ -1,6 +1,6 @@
 # Mac Software
 
-## Reading and Writing Tools
+
 
 
 <style>
@@ -13,8 +13,9 @@ table th:nth-of-type(2) {
 table th:nth-of-type(3) {
     width: 10%;
 }
-
 </style>
+
+## Reading and Writing Tools
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
