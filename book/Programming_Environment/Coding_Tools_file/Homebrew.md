@@ -136,8 +136,7 @@ $ brew search wget
 # 安装 wget 软件包
 $ brew install wget
 
-# 安装 Visual Studio Code
-# 由于 Visual Studio Code 是带图形界面的软件，因而这里需要使用 --cask 选项
+# 安装 Visual Studio Code, 其是带图形界面的软件，因而这里需要使用 --cask 选项
 $ brew install --cask visual-studio-code
 
 # 升级某个软件
