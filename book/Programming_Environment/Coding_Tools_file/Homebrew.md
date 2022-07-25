@@ -138,7 +138,7 @@ Look through https://formulae.brew.sh/ to check useful package.
 
 **brew**
 
-: Homebrew 提供的命令，用于查询、安装、卸载、升级以及管理软件包。
+- Homebrew 提供的命令，用于查询、安装、卸载、升级以及管理软件包。
 
 Formula
 
