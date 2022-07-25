@@ -12,5 +12,5 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 | `homebrew-bottles`| 预编译二进制软件包     |
 
 ## References
-
+s
 1. [https://brew.idayer.com/](https://brew.idayer.com/)
