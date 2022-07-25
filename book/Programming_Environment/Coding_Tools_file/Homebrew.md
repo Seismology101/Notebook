@@ -26,6 +26,8 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 
 :::{tab-item} China
+如果你是初次安装，这里使用中科大源:
+
 ```bash
 # 1.执行安装脚本
 $ export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.ustc.edu.cn/brew.git"
