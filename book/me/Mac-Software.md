@@ -48,7 +48,7 @@ table th:nth-of-type(3) {
 
 
 
-
+---
 
 ## Communication
 
@@ -80,15 +80,15 @@ table th:nth-of-type(3) {
 
 
 
-##
+## Design and Product
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+|     `XMind`    |  The most popular mind-mapping tool on the planet. |   MacWk                |            
+|     `Xnip`            | Handy Screenshot App                    |  AppStore                 |            
+|     `Adobe Acrobat`            | Adobe PDF                    |  MacWk                 |            
+|     `Adobe Lllistrator`  | Vector graph processing software |  MacWk                  |            
+|     `PS`            |                     |                   | 
 
 
 
