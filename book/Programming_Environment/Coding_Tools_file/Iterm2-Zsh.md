@@ -1,2 +1,7 @@
 # Iterm2 & Zsh
-1
+
+- Author: *{{Fu}}*
+- Update: *July 24, 2022*
+- Reading: *10 min*
+
+---
