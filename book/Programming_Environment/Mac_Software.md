@@ -176,7 +176,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### project
 
-- {file}`~/project` store research project, such as {file}`~/project/MCMTpy` a earthquake project.
+- {file}`~/project` store research project, such as {file}`~/project/MCMTpy` a earthquake source project.
 
 ### workspace
 
