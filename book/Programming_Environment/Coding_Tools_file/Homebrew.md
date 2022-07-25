@@ -57,7 +57,7 @@ $ source ~/.zshrc
 
 ## Uninstall
 
-[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ)
+
 
 ::::{tab-set}
 
@@ -71,6 +71,9 @@ If you want to run the Homebrew uninstaller non-interactively, you can use:
 ```bash
 NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
+
+[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ)
+
 [https://github.com/homebrew/install#uninstall-homebrew](https://github.com/homebrew/install#uninstall-homebrew)
 
 :::
