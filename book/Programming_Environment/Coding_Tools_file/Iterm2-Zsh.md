@@ -12,7 +12,6 @@ My terminal configuration in Mac.
 - [Iterm2](https://iterm2.com/)
 - [Zsh](https://www.zsh.org/)
 - [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
-- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Tmux](https://github.com/tmux/tmux)
 
 
