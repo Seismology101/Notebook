@@ -20,7 +20,7 @@
 | `zsh`            | ...   |
 | `pfetch`            | ...   |
 | `neofetch`            | ...   |
-| `ncurses`            | forget...   |
+| `ncurses`            | I forget...   |
 | ``            | ...   |
 | ``            | ...   |
 | ``            | ...   |
