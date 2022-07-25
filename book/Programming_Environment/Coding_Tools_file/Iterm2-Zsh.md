@@ -19,7 +19,7 @@
 - [tmux](https://github.com/tmux/tmux)
 
 
-Preview
+**Preview:**
 ![](./Iterm2-Zsh-1.jpg)
 
 
