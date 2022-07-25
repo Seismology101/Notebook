@@ -18,6 +18,27 @@ table th:nth-of-type(3) {
 }
 </style>
 
+
+## Browsers
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+|     `Chrome`            | Chrome, developed by Google                    | [link](https://www.google.com/chrome/)                  |            
+|     `Safari`            | Native browser for Macs                    | [link](https://www.apple.com/safari/)                  |            
+|     ``            |                     |                   |            
+
+
+
+## Input Methods
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     `搜狗输入法`            | ...                    | [link](https://pinyin.sogou.com/mac/)                  |            
+|     ``            |                     |                   |            
+
+
+
+
 ## Reading and Writing Tools
 
 |        Name       |       Purpose       |        Url        | 
@@ -128,13 +149,6 @@ table th:nth-of-type(3) {
 
 
 
-## Browsers
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  |   
-|     `Chrome`            | Chrome, developed by Google                    | [link](https://www.google.com/chrome/)                  |            
-|     `Safari`            | Native browser for Macs                    | [link](https://www.apple.com/safari/)                  |            
-|     ``            |                     |                   |            
 
 
 
@@ -151,12 +165,6 @@ table th:nth-of-type(3) {
 
 
 
-## Input Methods
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `搜狗输入法`            | ...                    | [link](https://pinyin.sogou.com/mac/)                  |            
-|     ``            |                     |                   |            
 
 
 
