@@ -50,13 +50,13 @@ table th:nth-of-type(3) {
 
 
 
-##
+## Communication
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
+|     `WeChat`            | ...                    |  AppStore                   |            
+|     `QQ`            | ...                    |   AppStore                  |            
+|     `Spark`            | Fast email client. For both Mac OS and iOS    | AppStore                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
 
@@ -64,11 +64,11 @@ table th:nth-of-type(3) {
 
 
 
-##
+## Remote Login Software
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     ``            |                     |                   |            
+|     `TeamViewer`            | Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers                    |  [link](https://www.teamviewer.com/en/)                 |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
