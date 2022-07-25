@@ -65,7 +65,9 @@ $ source ~/.zshrc
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
+
 If you want to run the Homebrew uninstaller non-interactively, you can use:
+
 ```bash
 NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
