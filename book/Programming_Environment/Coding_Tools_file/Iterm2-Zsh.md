@@ -113,7 +113,7 @@ To disable the p10k configuration, you only need to delete `~/.p10k.zsh` file an
 
 ### Download font
 
-
+[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) is a project that patches developer targeted fonts with a high number of glyphs (icons).
 
 
 
