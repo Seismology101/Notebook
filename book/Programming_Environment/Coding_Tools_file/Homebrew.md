@@ -19,9 +19,11 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 :::::{tab-set}
 
 ::::{tab-item} Foreign
+
 :::{note}
 Please check [Homebrew](https://brew.sh/index_zh-cn.html) webpage for more info.
 :::
+
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
