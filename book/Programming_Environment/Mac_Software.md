@@ -140,7 +140,7 @@ such as `rdseed`. And also put executable files of large programs here, such `sp
 
 ### src
 
-- {file}`~/src` stores source code from other institutions’ software, such as SAC, OpenMPI, Specfem-2D...
+- {file}`~/src` stores source code from **other institutions’ software**, such as SAC, OpenMPI, Specfem-2D...
 
 - More information please check [Seis-Software.md](../me/Seis-Software.md) list.
 
@@ -151,7 +151,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### code
 
-- {file}`~/code` stores source code wrote by myself, and it's my personal code.
+- {file}`~/code` stores source code wrote by myself, and it's **my personal code**.
 
 - More information please check [Seis-Software.md](../me/Seis-Software.md) list.
 
