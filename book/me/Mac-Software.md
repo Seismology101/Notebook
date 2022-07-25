@@ -189,7 +189,7 @@ table th:nth-of-type(3) {
 |     `IRightMouse`            |  Powerful right-click menu tool                   |   AppStore                | 
 |     `Caffeinated`            |  Prevent Mac from going to sleep                   |   AppStore                 | 
 |     `DisplayLink Manager`            |  Program expansion dock driver software for multi-screen display                   |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | 
-
+|     ``            |                     |                   | 
 
 ## Document management
 
@@ -197,7 +197,7 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  | 
 |     `Mendeley`            | Paper management                    |  [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)                 |            
 |     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
-
+|     ``            |                     |                   | 
 
 ## System Clean
 
@@ -206,24 +206,3 @@ table th:nth-of-type(3) {
 |     `腾讯柠檬清理`            | 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品                    |  [link](https://lemon.qq.com/)                 |            
 |     ``            |                     |                   | 
    
-
-## Browsers
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   |    
-
-
-
-
-## Browsers
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   |    
