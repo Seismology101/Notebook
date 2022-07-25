@@ -1,7 +1,7 @@
 # Homebrew
 
 
-[Homebrew](https://brew.sh/index_zh-cn.html) is the most popular third-party package manager for macOS, consisted of the following four parts:
+[**Homebrew**](https://brew.sh/index_zh-cn.html) is the most popular third-party package manager for macOS, consisted of the following four parts:
 
 
 |        Name       |       Purpose       |
@@ -12,6 +12,11 @@
 | `homebrew-bottles`| 预编译二进制软件包     |
 
 ---
+
+
+
+
+
 
 
 ## Install
