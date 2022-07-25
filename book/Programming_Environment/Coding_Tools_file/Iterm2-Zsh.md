@@ -28,13 +28,13 @@
 ---
 scale: 25%
 align: center
-name: ref-tag
+name: preview
 ---
 Terminal preview
 ```
 
 
-ss
+[go](preview)
 
 
 ## 1
