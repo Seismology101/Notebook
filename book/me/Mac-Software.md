@@ -167,7 +167,7 @@ table th:nth-of-type(3) {
 |     `Xnip`            | Handy Screenshot App                    |  AppStore                 |    
 |     `The Unarchiver `            | Unarchive many different kinds of archive files         |   AppStore                 | 
 |     `AltTab`    | Open source window switcher with window previews.  | [link](https://alt-tab-macos.netlify.app/)  |            
-|     ``            |                     |                   |  
+|     `DaisyDisk `            | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.                    |   MacWk                 |  
 |     ``            |                     |                   |            
 |     ``            |                     |                   |  
 
