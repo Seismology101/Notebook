@@ -86,8 +86,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     `XMind`    |  The most popular mind-mapping tool on the planet. |   MacWk                |            
-|     `Xnip`            | Handy Screenshot App                    |  AppStore                 |            
+|     `XMind`    |  The most popular mind-mapping tool on the planet. |   MacWk                |                    
 |     `Adobe Acrobat`            | Adobe PDF                    |  MacWk                 |            
 |     `Adobe Lllistrator`  | Vector graph processing software |  MacWk                  |            
 |     `PS`            |                     |                   | 
@@ -164,7 +163,8 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  | 
 |     `Paste`    |  Smart clipboard history & snippets manager.   | [link](https://pasteapp.io/)  |            
 |     `Bartender`            | Organize or hide menu bar icons on your Mac.     |  MacWk                 |            
-|     ``            |                     |                   | 
+|     `MenubarX`    | A powerful Mac menu bar browser, pin webpage like an App   | MacWk                  | 
+|     `Xnip`            | Handy Screenshot App                    |  AppStore                 |    
 
 
 
