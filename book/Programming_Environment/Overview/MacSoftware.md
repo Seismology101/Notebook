@@ -1,10 +1,8 @@
 # Mac Software
 
-
-
-
 ```{contents}
 ```
+
 
 <style>
 table th:first-of-type {
