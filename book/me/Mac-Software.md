@@ -139,7 +139,7 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
 |     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |  
-|     ``            |                     |                   |            
+|     `有道翻译`            | ...                    |  AppStore                 |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
 
