@@ -169,8 +169,12 @@ table th:nth-of-type(3) {
 |     `AltTab`    | Open source window switcher with window previews.  | [link](https://alt-tab-macos.netlify.app/)  |            
 |     `DaisyDisk `            | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.                    |   MacWk                 |  
 |     `Tuxera NTFS `            |  Full read-write compatibility with NTFS-formatted drives on a Mac.                   |  MacWk                 |            
-|     ``            |                     |                   |  
-
+|     `Sound Control`            |  ...                   | MacWk                  |  
+|     ``            |                     |                   | 
+|     ``            |                     |                   | 
+|     ``            |                     |                   | 
+|     ``            |                     |                   | 
+|     ``            |                     |                   | 
 
 
 ## Browsers
