@@ -150,7 +150,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   |            
+|     `搜狗输入法`            | ...                    | [link](https://pinyin.sogou.com/mac/)                  |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
 
