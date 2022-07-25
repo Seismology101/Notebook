@@ -18,12 +18,21 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|   `Office 365`  | Chrome plugin to fresh html when using jupyter-book to build project |  [MacWk](https://chromedriver.chromium.org/)      |   
+|   `Microsoft 365`  | Unmistakably Office, designed for education |  (https://www.office.com/?auth=2)[    |   
 |    `rehost.py`    | Update github host IP for China region  |   me   |  
 |     `rdseed`      | from {file}`~./src` |                   |                     
 |     ``            |                     |                   |                     
-|     ``            |                     |                   |                     
-
+|     ``            |                     |     MacWk](https://chromedriver.chromium.org/)                |                     
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
+|     ``            |                     |                   |            
 
 ---
 
