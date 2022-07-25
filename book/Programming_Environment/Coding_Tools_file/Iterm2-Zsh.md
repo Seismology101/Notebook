@@ -6,7 +6,7 @@
 
 ---
 
-My terminal configuration: Iterm2+Oh-My-Zsh+p10k+Tmux in Mac.
+My terminal configuration: **Iterm2+Oh-My-Zsh+p10k+Tmux** in Mac.
 
 **Requirements:**
 - [Iterm2](https://iterm2.com/)
