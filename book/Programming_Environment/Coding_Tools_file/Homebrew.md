@@ -62,6 +62,8 @@ $ source ~/.zshrc
 ::::{tab-set}
 
 :::{tab-item} Foreign
+Uninstall script from the Homebrew/install repository
+
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
