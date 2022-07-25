@@ -81,6 +81,10 @@ source $ZSH/oh-my-zsh.sh
 export PATH=/Users/yinfu/bin:${PATH}
 # >>> yinfu_code path >>>
 
+# >>> Homebrew >>>
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles
+# >>> Homebrew >>>
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/Users/yinfu/opt/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
