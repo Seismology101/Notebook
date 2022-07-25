@@ -70,7 +70,7 @@ $ source ~/.zshrc
 
 :::{note}
 More information please refer to: 
-[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ)
+[https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ) and
 [https://github.com/homebrew/install#uninstall-homebrew](https://github.com/homebrew/install#uninstall-homebrew)
 :::
 
