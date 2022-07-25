@@ -115,9 +115,9 @@ plugins=(
 )
 ```
 
-1. [extract](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/extract): use the `x abc.zip` syntax to decompress almost all compressed files, such as `.tar.gz`, `.tar.bz2`, `.zip`, `.7z`, `.rar`.
+- [extract](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/extract): use the `x abc.zip` syntax to decompress almost all compressed files, such as `.tar.gz`, `.tar.bz2`, `.zip`, `.7z`, `.rar`.
 
-1. [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`. Before enabling autojump, install firstly:
+- [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`. Before enabling autojump, install firstly:
 
 
 ::::{tab-set}
@@ -155,13 +155,13 @@ brew install autojump
 ::::
 
 
-1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): command auto-complete plug-in, when you enter several letters of a command, it will automatically complete the command according to the historical input
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): command auto-complete plug-in, when you enter several letters of a command, it will automatically complete the command according to the historical input
 ```bash
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 ```
 
 
-1. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): highlight available Zsh commands.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): highlight available Zsh commands.
 
 ```bash
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
