@@ -28,7 +28,7 @@
 ```{figure} ./img/Iterm2-Zsh-1.jpg
 ---
 scale: 20%
-align: left
+align: center
 name: ref-tag
 ---
 Here is my figure caption!
