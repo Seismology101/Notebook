@@ -19,7 +19,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|   `Microsoft | Office 365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
+|   `Microsoft Office 365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
 |    `WPS`    | Is a cross-platform office software suite.  |   AppStore   |  
 |     `Keynote`      | Build stunning presentations |    AppStore               |                     
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
