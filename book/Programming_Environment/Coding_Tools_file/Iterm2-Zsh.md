@@ -213,4 +213,4 @@ terminal font = MesloLGS NF
 
 
 ## Tmux
-working
+working...
