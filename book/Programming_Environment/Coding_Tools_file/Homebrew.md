@@ -101,13 +101,26 @@ $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master
 
 
 ## Manual
+Once Homebrew is installed, you can use the brew commands provided by Homebrew.  Check [documentation](https://docs.brew.sh/Manpage) for detailed manual.
 
 
+```bash
+# 模糊搜索与 wget 相关的软件
+$ brew search wget
 
+# 安装 wget 软件包
+$ brew install wget
 
+# 安装 Visual Studio Code
+# 由于 Visual Studio Code 是带图形界面的软件，因而这里需要使用 --cask 选项
+$ brew install --cask visual-studio-code
 
+# 升级某个软件
+$ brew upgrade xxx
 
-
+# 卸载某个软件
+$ brew uninstall xxx
+```
 
 
 
