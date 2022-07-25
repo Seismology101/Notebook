@@ -88,7 +88,7 @@ NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Ho
 
 
 :::{tab-item} China
-- 使用官方脚本同样会遇到uninstall地址无法访问问题，可以使用下面脚本:
+使用官方脚本同样会遇到uninstall地址无法访问问题，可以使用下面脚本:
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/uninstall.sh)"
 ```
