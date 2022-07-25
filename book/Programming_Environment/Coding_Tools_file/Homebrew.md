@@ -13,6 +13,58 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 
 ---
 
+
+## Install
+
+::::{tab-set}
+
+:::{tab-item} Use
+```bash
+$ j foo
+```
+:::
+
+
+:::{tab-item} Source Code
+```bash
+# download 'autojump' to '/.oh-my-zsh/custom'
+$ git clone git://github.com/wting/autojump.git $ZSH_CUSTOM/plugins/autojump
+
+# go to 'autojump' folder
+$ cd $ZSH_CUSTOM/plugins/autojump
+
+# python install.py:
+$ ./install.py
+```
+:::
+
+
+:::{tab-item} Brew
+```bash
+$ brew install autojump
+```
+:::
+::::
+
+
+
+
+## Manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## References
 
 1. [https://brew.idayer.com/](https://brew.idayer.com/)
