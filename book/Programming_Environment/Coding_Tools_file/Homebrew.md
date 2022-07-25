@@ -140,22 +140,22 @@ Look through https://formulae.brew.sh/ to check useful package.
 
 - Homebrew 提供的命令，用于查询、安装、卸载、升级以及管理软件包。
 
-Formula
+**Formula**
 
-: 软件的描述文件，包含了软件的基本信息和编译安装方法。
+- 软件的描述文件，包含了软件的基本信息和编译安装方法。
   Homebrew 根据 Formula 提供的信息，即可编译或安装软件。
   每个软件对应一个 Formula。例如，git 对应的 Formula 是
   {file}`/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/git.rb`。
 
-Bottle
+**Bottle**
 
-: 预先编译好的二进制软件包。使用 Bottle 安装软件，
+- 预先编译好的二进制软件包。使用 Bottle 安装软件，
   比从源码编译和安装更快。如果一个软件仓库包含预编译的软件包，使用 `brew install`
   时会自动使用它。
 
-Tap
+**Tap**
 
-: 一个含有一系列软件的 git 仓库。使用
+- 一个含有一系列软件的 git 仓库。使用
   [brew tap](https://docs.brew.sh/Taps#the-brew-tap-command)
   命令查看已启用的仓库列表或启用仓库。已启用的仓库位于
   {file}`/usr/local/Homebrew/Library/Taps/homebrew/` 目录。
@@ -164,18 +164,18 @@ Tap
   其中，homebrew-core 是内置核心仓库，
   homebrew-cask 仓库则含有各种 macOS 系统下带图形界面的应用程序。
 
-Cask
+**Cask**
 
-: Homebrew 的扩展功能，用于安装 macOS 下的图形界面应用程序。
+- Homebrew 的扩展功能，用于安装 macOS 下的图形界面应用程序。
   使用 `brew list --cask` 命令可以查看已安装的 casks。
 
-Cellar
+**Cellar**
 
-: 所有软件的安装目录，即 {file}`/usr/local/Cellar`。
+- 所有软件的安装目录，即 {file}`/usr/local/Cellar`。
 
-Keg
+**Keg**
 
-: 某一软件的安装目录，如 {file}`/usr/local/Cellar/git/2.30.0`。
+- 某一软件的安装目录，如 {file}`/usr/local/Cellar/git/2.30.0`。
 :::
 
 
