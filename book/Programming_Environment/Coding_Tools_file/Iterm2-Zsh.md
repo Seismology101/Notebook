@@ -88,6 +88,10 @@ This command will create the `~/.oh-my-zsh` directory, downloads oh my zsh to th
 
 ### Set theme
 
+To use a different theme, modify the **ZSH_THEME** variable in the `~/.zshrc` configuration file.
+
+
+
 
 ### Add plugin
 
