@@ -187,7 +187,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### yinfu
 
-
+- {file}`~`
 
 
 ## Software
