@@ -195,3 +195,12 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) list. Here are several resources.
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
+
+
+Pirated software download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
+
+* App Shopper：[http://appshopper.com/](http://appshopper.com/)
+* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
+* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
+* 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
