@@ -136,7 +136,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     `TeamViewer`            | Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers                    |  [link](https://www.teamviewer.com/en/)                 |            
+|    `TeamViewer`   | Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers | [link](https://www.teamviewer.com/en/) |            
 |     ``            |                     |                   |            
 
 
