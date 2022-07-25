@@ -210,27 +210,11 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 
 *~删除线~*
 
-* 玩转苹果：[`http://www.ifunmac.com`](http://www.ifunmac.com)
-* AppKed：`http://www.macbed.com`
-* appaddict：`https://www.appaddict.org/`
-* Mac精品软件：`http://xclient.info/`
-* MacWk：`https://macwk.com/`
-* MacPeers：`https://www.macpeers.com`
-* Mac毒：`https://www.macdo.cn`
-* Macx：`https://www.macx.cn/`
-* Mac软件下载站：~~`http://www.pshezi.com`
-* MacPeers：~~`http://www.macpeers.com`
-* Mac志：~~`http://www.isofts.org`~~
-* Mac软件分享：~~`http://www.waitsun.com`~~
-* MacSky苹果软件园：~~`http://www.macsky.net/`~~
-* Softasm：~~`https://softasm.com/`~~
-* Mac破解软件：~~`https://www.macappstore.net/`~~
-* 卡卡源：~~`http://www.kkroot.com/`~~
-* 苹果软件园：~~`http://www.maczapp.com`~~
-* 马可菠萝：~~`http://www.macbl.com/`~~
-* 极致分享：~~`https://alltoshare.com/`~~
-* 未来软件园：~~`http://www.orsoon.com/`~~
-* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
-* 未来软件园：~~`http://www.orsoon.com/mac/`~~
-* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
-* MAC萌新网：~~`https://www.macxin.com`~~
+* AppKed：[`http://www.macbed.com`](http://www.macbed.com)
+* Softasm：[`https://softasm.com/`](https://softasm.com/)
+* appaddict：[`https://www.appaddict.org/`
+* Mac精品软件：[`http://xclient.info/`
+* MacWk：[`https://macwk.com/`
+* MacPeers：[`https://www.macpeers.com`
+* Mac毒：[`https://www.macdo.cn`
+* Macx：[`https://www.macx.cn/`
