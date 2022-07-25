@@ -27,7 +27,7 @@ Preview
 
 
 
-## 
+## 1
 :::{note}
 Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash to Zsh
 :::
