@@ -27,6 +27,7 @@ table th:nth-of-type(3) {
 |     `Safari`      | Native browser for Macs      | [link](https://www.apple.com/safari/)  |            
 |     ``            |                     |                   |            
 
+---
 
 
 ## Input Methods
@@ -36,7 +37,7 @@ table th:nth-of-type(3) {
 |     `搜狗输入法`    | ...                 | [link](https://pinyin.sogou.com/mac/) |            
 |     ``            |                     |                   |            
 
-
+---
 
 
 ## Reading and Writing Tools
@@ -55,8 +56,8 @@ table th:nth-of-type(3) {
 |     `全球学术快报`  | Read CAJ(知网) paper | [link](https://cajviewer.cnki.net/download.html) |            
 |     ``            |                     |                   |            
            
-
 ---
+
 
 ## Developer Tools
 |        Name       |       Purpose       |        Url        | 
