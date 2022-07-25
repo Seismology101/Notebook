@@ -123,6 +123,10 @@ plugins=(
 $ j foo
 ```
 
+Before enabling autojump, install first:
+
+
+
 Plugin:
 
 - [autojump](https://github.com/wting/autojump)
