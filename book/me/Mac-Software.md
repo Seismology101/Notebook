@@ -1,12 +1,7 @@
 # Mac Software
 
 
-```{tableofcontents}
 
-```
-
-```{tableofcontents}
-```
 
 ```{contents}
 ```
