@@ -37,7 +37,7 @@ Terminal preview
 
 
 ## Iterm2
-Iterm2 is a replacement for terminal.
+Iterm2 is a replacement for terminal in Mac.
 
 - Download [`Iterm2`](https://iterm2.com/) and install it like other App. Or you can use `brew install cask iterm2`.
 - Download [`Dracula`](https://draculatheme.com/iterm) theme for Iterm2.
