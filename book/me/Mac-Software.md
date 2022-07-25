@@ -19,7 +19,7 @@ table th:nth-of-type(3) {
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
 |   `Microsoft-365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
-|    `rehost.py`    | Update github host IP for China region  |   me   |  
+|    `WPS`    | Update github host IP for China region  |   me   |  
 |     `rdseed`      | from {file}`~./src` |                   |                     
 |     ``            |                     |                   |                     
 |     ``            |                     |     [MacWk](https://chromedriver.chromium.org/)                |                     
