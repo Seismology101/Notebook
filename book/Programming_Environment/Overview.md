@@ -37,6 +37,60 @@ Working...
 ::::
 
 
+
+
+
+
+
+
+
+
+## APP
+
+Complete list in my mac please check [Mac-Software.md](./Overview//Mac-Software.md) list. Here are several resources website.
+
+- [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
+
+
+**Genuine Software**:
+
+* App Shopper: [`http://appshopper.com/`](http://appshopper.com/)
+* MacUpdate: [`https://www.macupdate.com/`](https://www.macupdate.com/)
+* 少数派: [`http://sspai.com/tag/Mac`](http://sspai.com/tag/Mac)
+* Mac玩儿法: [`http://www.waerfa.com`](http://www.waerfa.com)
+* 腾讯柠檬精选: [`https://lemon.qq.com/lab/`](https://lemon.qq.com/lab/)
+
+
+**Pirated Software**. Refuse piracy from me. Software vendors can go to these places rights.
+
+* MacWk: [`https://macwk.com/`](https://macwk.com/)
+* AppKed: [`http://www.macbed.com`](http://www.macbed.com)
+* Softasm: [`https://softasm.com/`](https://softasm.com/)
+* Appstorrent: [`https://appstorrent.ru/`](https://appstorrent.ru/)
+* Mac精品软件: [`http://xclient.info/`](http://xclient.info/)
+* Mac毒: [`https://www.macdo.cn`](https://www.macdo.cn)
+
+
+**Rice University Software for Student**:
+
+* [`https://kb.rice.edu/69000`](https://kb.rice.edu/69000)
+
+
+**USTC Software for Student**:
+
+* [`http://zbh.ustc.edu.cn/zbh.php`](http://zbh.ustc.edu.cn/zbh.php), need USTC-VPN.
+
+
+**SUSTech Software for Student**:
+
+* [`https://lib.sustech.edu.cn/gjyrj_116/list.htm`](https://lib.sustech.edu.cn/gjyrj_116/list.htm)
+
+
+
+
+
+
+
 ## File managment
 
 Toctree Mac finder as follows:
@@ -190,42 +244,3 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 - {file}`/Users/yinfu` equals to {file}`~` which is the user's root path.
 
 
-## APP
-
-Complete list in my mac please check [Mac-Software.md](./Overview//Mac-Software.md) list. Here are several resources website.
-
-- [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
-
-
-**Genuine Software**:
-
-* App Shopper: [`http://appshopper.com/`](http://appshopper.com/)
-* MacUpdate: [`https://www.macupdate.com/`](https://www.macupdate.com/)
-* 少数派: [`http://sspai.com/tag/Mac`](http://sspai.com/tag/Mac)
-* Mac玩儿法: [`http://www.waerfa.com`](http://www.waerfa.com)
-* 腾讯柠檬精选: [`https://lemon.qq.com/lab/`](https://lemon.qq.com/lab/)
-
-
-**Pirated Software**. Refuse piracy from me. Software vendors can go to these places rights.
-
-* MacWk: [`https://macwk.com/`](https://macwk.com/)
-* AppKed: [`http://www.macbed.com`](http://www.macbed.com)
-* Softasm: [`https://softasm.com/`](https://softasm.com/)
-* Appstorrent: [`https://appstorrent.ru/`](https://appstorrent.ru/)
-* Mac精品软件: [`http://xclient.info/`](http://xclient.info/)
-* Mac毒: [`https://www.macdo.cn`](https://www.macdo.cn)
-
-
-**Rice University Software for Student**:
-
-* [`https://kb.rice.edu/69000`](https://kb.rice.edu/69000)
-
-
-**USTC Software for Student**:
-
-* [`http://zbh.ustc.edu.cn/zbh.php`](http://zbh.ustc.edu.cn/zbh.php), need USTC-VPN.
-
-
-**SUSTech Software for Student**:
-
-* [`https://lib.sustech.edu.cn/gjyrj_116/list.htm`](https://lib.sustech.edu.cn/gjyrj_116/list.htm)
