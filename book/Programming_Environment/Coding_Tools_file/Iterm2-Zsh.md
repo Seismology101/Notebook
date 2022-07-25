@@ -40,9 +40,10 @@ Terminal preview
 Iterm2 is a replacement for terminal.
 
 - Download [`Iterm2`](https://iterm2.com/) and install it like other App. Or you can use `brew install cask iterm2`.
-- Download [`Dracula`](https://draculatheme.com/iterm) theme.
+- Download [`Dracula`](https://draculatheme.com/iterm) theme for Iterm2.
 
-:::{note}
+:::{admonition} Activating Theme!
+:class: tip, dropdown
 - iTerm2 > Preferences > Profiles > Colors Tab
 - Open the Color Presets... drop-down in the bottom right corner
 - Select Import... from the list
