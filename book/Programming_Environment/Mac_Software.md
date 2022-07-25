@@ -197,7 +197,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
 
 
-
+**Genuine software**:
 
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
@@ -205,7 +205,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 
-Pirated software download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
+**Pirated software** download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
 
 * 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
