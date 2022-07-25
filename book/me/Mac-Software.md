@@ -23,8 +23,8 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     `Chrome`            | Chrome, developed by Google                    | [link](https://www.google.com/chrome/)                  |            
-|     `Safari`            | Native browser for Macs                    | [link](https://www.apple.com/safari/)                  |            
+|     `Chrome`      | Chrome, developed by Google  | [link](https://www.google.com/chrome/) |            
+|     `Safari`      | Native browser for Macs      | [link](https://www.apple.com/safari/)  |            
 |     ``            |                     |                   |            
 
 
