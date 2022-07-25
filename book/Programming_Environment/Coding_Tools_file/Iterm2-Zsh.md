@@ -111,7 +111,7 @@ After executing the command, p10k is initialized: `~/.p10k.zsh` is generated in 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 ```
-
+To disable the p10k configuration, you only need to delete `~/.p10k.zsh` and the preceding code.
 
 
 
