@@ -6,6 +6,17 @@
 
 ---
 
+**Requirements:**
+- [iterm2](https://iterm2.com/)
+- [Dracula](https://draculatheme.com/)
+- [zsh](https://www.zsh.org/)
+- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [autojump](https://github.com/wting/autojump)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [colorls](https://github.com/athityakumar/colorls)
+- [tmux(or screen)](https://github.com/tmux/tmux)
 
 
 
