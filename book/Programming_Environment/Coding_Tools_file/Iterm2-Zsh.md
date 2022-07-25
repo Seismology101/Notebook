@@ -119,7 +119,6 @@ plugins=(
 
 - [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`. Before enabling autojump, install firstly:
 
-
 ::::{tab-set}
 
 :::{tab-item} Use
@@ -130,7 +129,6 @@ $ j foo
 
 
 :::{tab-item} Source Code
-
 ```bash
 # download 'autojump' to '/.oh-my-zsh/custom'
 $ git clone git://github.com/wting/autojump.git $ZSH_CUSTOM/plugins/autojump
@@ -141,17 +139,14 @@ $ cd $ZSH_CUSTOM/plugins/autojump
 # python install.py:
 $ ./install.py
 ```
-
 :::
 
-:::{tab-item} Brew
 
+:::{tab-item} Brew
 ```bash
 brew install autojump
 ```
-
 :::
-
 ::::
 
 
