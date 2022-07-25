@@ -175,20 +175,20 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     `Paste`    |  Smart clipboard history & snippets manager.   | [link](https://pasteapp.io/)  |            
-|     `Bartender`            | Organize or hide menu bar icons on your Mac.     |  MacWk                 |            
-|     `MenubarX`    | A powerful Mac menu bar browser, pin webpage like an App   | MacWk                  | 
-|     `Xnip`            | Handy Screenshot App                    |  AppStore                 |    
-|     `The Unarchiver `            | Unarchive many different kinds of archive files         |   AppStore                 | 
-|     `AltTab`    | Open source window switcher with window previews.  | [link](https://alt-tab-macos.netlify.app/)  |            
-|     `DaisyDisk `            | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.                    |   MacWk                 |  
-|     `Tuxera NTFS `            |  Full read-write compatibility with NTFS-formatted drives on a Mac.                   |  MacWk                 |            
-|     `Sound Control`            |  ...                   | MacWk                  |  
-|     `LetsView`            |                     |  MacWk                  | 
-|     `Lunar`            | Help you adujst brightness, contrast and volumn of your external display                    |  MacWk                 | 
-|     `Macs Fan Control`            | Fan control                    |  MacWk                 | 
-|     `Mathpix Snipping Tool`            |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.                   | [link](https://mathpix.com/)                  | 
-|     `IRightMouse`            |  Powerful right-click menu tool                   |   AppStore                | 
-|     `Caffeinated`            |  Prevent Mac from going to sleep                   |   AppStore                 | 
-|     `DisplayLink Manager`            |  Program expansion dock driver software for multi-screen display                   |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | 
+|     `Paste`       | Smart clipboard history & snippets manager.  | [link](https://pasteapp.io/)  |            
+|     `Bartender`   | Organize or hide menu bar icons on your Mac. |  MacWk                        |            
+|     `MenubarX`    | A powerful Mac menu bar browser, pin webpage like an App | MacWk             | 
+|     `Xnip`        | Handy Screenshot App |  AppStore        |    
+| `The Unarchiver ` | Unarchive many different kinds of archive files |   AppStore                 | 
+|     `AltTab`      | Open source window switcher with window previews | [link](https://alt-tab-macos.netlify.app/) |            
+|     `DaisyDisk `  | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk |   MacWk               |  
+|   `Tuxera NTFS `  | Full read-write compatibility with NTFS-formatted drives on a Mac |  MacWk   |            
+|  `Sound Control`  | ...                 | MacWk              |  
+|     `LetsView`    |                     | MacWk              | 
+|     `Lunar`       | Help you adujst brightness, contrast and volumn of your external display |  MacWk   | 
+| `Macs Fan Control` | Fan control        | MacWk              | 
+| `Mathpix Snipping Tool` |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology    | [link](https://mathpix.com/) | 
+|   `IRightMouse`   | Powerful right-click menu tool | AppStore | 
+|     `Caffeinated` | Prevent Mac from going to sleep | AppStore | 
+| `DisplayLink Manager` | Program expansion dock driver software for multi-screen display | [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos) | 
 |     ``            |                     |                   | 
