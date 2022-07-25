@@ -43,16 +43,16 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|   `Microsoft Office 365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
-|    `WPS`    | Is a cross-platform office software suite.  |   AppStore   |  
-|     `Keynote`      | Build stunning presentations |    AppStore               |                     
-|     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
-|     `Pages`            | Documents that stand apart                     |  AppStore                 |            
-|     `Typora`      | Truly minimal Markdown editor featuring seamless live preview  |   MacWk      |            
-|     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.     | MacWk   |            
-|     `GoodNotes`            | Take notes                    |  AppStore                  |            
-|     `Notability`            | Take notes                    |  AppStore                  |                      
-|     `全球学术快报`            |  Read CAJ(知网) paper                   | [link](https://cajviewer.cnki.net/download.html)                  |            
+| `Microsoft Office 365` | Unmistakably Office, designed for education              | [link](https://www.office.com/?auth=2) |   
+|     `WPS`         | Is a cross-platform office software suite                     |   AppStore   |  
+|     `Keynote`     | Build stunning presentations                                  |   AppStore   |                     
+|     `Numbers`     | Create impressive spreadsheets                                |   AppStore   |                     
+|     `Pages`       | Documents that stand apart                                    |   AppStore   |            
+|     `Typora`      | Truly minimal Markdown editor featuring seamless live preview |   MacWk      |            
+|     `PDF Expert`  | Read, annotate and edit PDFs, change text and images          |   MacWk      |            
+|     `GoodNotes`   | Take notes                                                    |   AppStore   |            
+|     `Notability`  | Take notes                                                    |   AppStore   |                      
+|     `全球学术快报`  | Read CAJ(知网) paper | [link](https://cajviewer.cnki.net/download.html) |            
 |     ``            |                     |                   |            
            
 
