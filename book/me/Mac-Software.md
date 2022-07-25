@@ -4,6 +4,7 @@
 ```{tableofcontents}
 ```
 
+
 <style>
 table th:first-of-type {
     width: 25%;
