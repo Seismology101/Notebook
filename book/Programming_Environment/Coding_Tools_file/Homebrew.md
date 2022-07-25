@@ -145,7 +145,7 @@ Look through https://formulae.brew.sh/ to check useful package.
 - 软件的描述文件，包含了软件的基本信息和编译安装方法。
   Homebrew 根据 Formula 提供的信息，即可编译或安装软件。
   每个软件对应一个 Formula。例如，git 对应的 Formula 是
-  {file}`/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/git.rb`。
+  {file}`/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/git.rb`
 
 **Bottle**
 
