@@ -168,6 +168,9 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### learn
 
+- {file}`~/learn` stores
+
+
 ### project
 
 
