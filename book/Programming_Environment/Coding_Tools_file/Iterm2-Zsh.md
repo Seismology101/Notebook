@@ -125,6 +125,11 @@ $ j foo
     
 Before enabling autojump, install first:
 
+
+::::{tab-set}
+
+:::{tab-item} Source Code
+
 ```bash
 # download 'autojump' to '/.oh-my-zsh/custom'
 $ git clone git://github.com/wting/autojump.git $ZSH_CUSTOM/plugins/autojump
@@ -136,10 +141,20 @@ $ cd $ZSH_CUSTOM/plugins/autojump
 $ ./install.py
 ```
 
-or use brew:
+:::
+
+:::{tab-item} Brew
+
 ```bash
 brew install autojump
 ```
+
+:::
+
+::::
+
+
+
 
 Plugin:
 
