@@ -20,7 +20,7 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 
 :::{tab-item} Foreign
 ```bash
-$ j foo
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 :::
 
@@ -40,6 +40,9 @@ $ ./install.py
 
 
 ::::
+
+
+## Uninstall
 
 
 
