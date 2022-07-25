@@ -1,7 +1,7 @@
 # Homebrew
 
 
-Homebrew is the most popular third-party package manager for macOS, consisted of the following four parts:
+[Homebrew](https://brew.sh/index_zh-cn.html) is the most popular third-party package manager for macOS, consisted of the following four parts:
 
 
 |        Name       |       Purpose       |
