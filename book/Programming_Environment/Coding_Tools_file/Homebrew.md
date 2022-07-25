@@ -67,7 +67,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 
 :::{tab-item} China
-- 如果你是初次安装，这里使用中科大源:
+- 使用官方脚本同样会遇到uninstall地址无法访问问题，可以使用下面脚本:
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/uninstall.sh)"
 ```
