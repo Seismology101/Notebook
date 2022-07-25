@@ -120,12 +120,12 @@ table th:nth-of-type(3) {
 
 
 
-##
+## Browsers
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
+|     `Chrome`            | Chrome, developed by Google                    | [link](https://www.google.com/chrome/)                  |            
+|     `Safari`            | Native browser for Macs                    | [link](https://www.apple.com/safari/)                  |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
