@@ -35,7 +35,7 @@ Terminal preview
 
 
 ## Iterm2
-- In official [`iTerm2`](https://iterm2.com/) website, click `Download` and then install in your Mac just like other App. **_my way_**
+- In [`iTerm2`](https://iterm2.com/) official website, click `Download` and then install in your Mac just like other App. **_my way_**
 - `brew install cask iterm2`. **_recommend_**
 - Download `Dracula` theme in official website.
 
