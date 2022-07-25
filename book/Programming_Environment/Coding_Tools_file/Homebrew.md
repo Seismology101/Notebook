@@ -122,7 +122,8 @@ $ brew upgrade xxx
 $ brew uninstall xxx
 ```
 :::{tip}
-https://formulae.brew.sh/
+Look through https://formulae.brew.sh/ to check useful package.
+=
 :::
 
 
