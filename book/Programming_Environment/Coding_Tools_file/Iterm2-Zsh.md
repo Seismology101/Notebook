@@ -26,10 +26,18 @@
 :class: myclass
 
 <img src="img/Iterm2-Zsh-1.jpg" alt="fishy" class="bg-primary mb-1" width="200px">
-<img src="img/Iterm2-Zsh-1.jpg" alt="fishy" class="bg-primary mb-1" width="200px">
 
 This is a caption in **Markdown**
 :::
+
+```{figure} ./img/Iterm2-Zsh-1.jpg
+---
+scale: 50%
+align: left
+name: directive-fig
+---
+Here is my figure caption!
+```
 
 
 
