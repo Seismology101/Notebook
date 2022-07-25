@@ -16,7 +16,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [colorls](https://github.com/athityakumar/colorls)
-- [tmux(or screen)](https://github.com/tmux/tmux)
+- [tmux](https://github.com/tmux/tmux)
 
 
 
