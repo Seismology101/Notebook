@@ -23,7 +23,6 @@ table th:nth-of-type(3) {
 |    `WPS`    | Is a cross-platform office software suite.  |   AppStore   |  
 |     `Keynote`      | Build stunning presentations |    AppStore               |                     
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
-                  
 |     `Pages`            | Documents that stand apart                     |  AppStore                 |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
