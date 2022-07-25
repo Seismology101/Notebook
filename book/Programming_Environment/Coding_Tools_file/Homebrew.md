@@ -18,14 +18,14 @@ Homebrew is the most popular third-party package manager for macOS, consisted of
 
 ::::{tab-set}
 
-:::{tab-item} Use
+:::{tab-item} Foreign
 ```bash
 $ j foo
 ```
 :::
 
 
-:::{tab-item} Source Code
+:::{tab-item} China
 ```bash
 # download 'autojump' to '/.oh-my-zsh/custom'
 $ git clone git://github.com/wting/autojump.git $ZSH_CUSTOM/plugins/autojump
@@ -39,11 +39,6 @@ $ ./install.py
 :::
 
 
-:::{tab-item} Brew
-```bash
-$ brew install autojump
-```
-:::
 ::::
 
 
