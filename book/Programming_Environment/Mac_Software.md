@@ -210,7 +210,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 
 *~删除线~*
 
-* 玩转苹果：`http://www.ifunmac.com`
+* 玩转苹果：[`http://www.ifunmac.com`](http://www.ifunmac.com)
 * AppKed：`http://www.macbed.com`
 * appaddict：`https://www.appaddict.org/`
 * Mac精品软件：`http://xclient.info/`
