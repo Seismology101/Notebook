@@ -60,7 +60,7 @@ $ brew install zsh
 Run the following command to set the default Shell to Zsh:
 
 ```
-chsh -s $(which zsh)
+$ chsh -s $(which zsh)
 ```
 
 
