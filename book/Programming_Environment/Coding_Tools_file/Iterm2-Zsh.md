@@ -34,6 +34,10 @@ Terminal preview
 [go](preview)
 
 
+## Iterm2
+
+
+
 ## 1
 
 :::{note}
