@@ -191,12 +191,12 @@ table th:nth-of-type(3) {
 |     `DisplayLink Manager`            |  Program expansion dock driver software for multi-screen display                   |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | 
 
 
-## Browsers
+## Document management
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   | 
+|     `Mendeley`            | Paper management                    |  [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)                 |            
+|     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
 
 
 ## Browsers
