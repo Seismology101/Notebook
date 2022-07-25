@@ -144,7 +144,7 @@ $ ./install.py
 
 :::{tab-item} Brew
 ```bash
-brew install autojump
+$ brew install autojump
 ```
 :::
 ::::
