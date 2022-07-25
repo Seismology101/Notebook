@@ -49,8 +49,17 @@ Iterm2 is a replacement for terminal in Mac.
 
 
 ## Zsh
+
+
 ```
 $ brew install zsh
+```
+
+
+Run the following command to set the default Shell to Zsh:
+
+```
+chsh -s $(which zsh)
 ```
 
 
