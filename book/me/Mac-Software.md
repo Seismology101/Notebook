@@ -30,8 +30,7 @@ table th:nth-of-type(3) {
 |     `Typora`      | Truly minimal Markdown editor featuring seamless live preview  |   MacWk      |            
 |     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.     | MacWk   |            
 |     `GoodNotes`            | Take notes                    |  AppStore                  |            
-|     `Notability`            | Take notes                    |  AppStore                  |            
-|     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |            
+|     `Notability`            | Take notes                    |  AppStore                  |                      
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
@@ -135,10 +134,11 @@ table th:nth-of-type(3) {
 
 
 
-## Browsers
+## Translation Tools
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
+|     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |  
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
