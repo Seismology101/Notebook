@@ -32,7 +32,7 @@ This is a caption in **Markdown**
 
 ```{figure} ./img/Iterm2-Zsh-1.jpg
 ---
-scale: 100%
+scale: 10%
 align: left
 name: directive-fig
 ---
