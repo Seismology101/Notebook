@@ -210,16 +210,16 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 
 *~删除线~*
 
-* 玩转苹果：~~`http://www.ifunmac.com`~~
-* AppKed：~~`http://www.macbed.com`~~
-* appaddict：~~`https://www.appaddict.org/`~~
-* Mac精品软件：~~`http://xclient.info/`~~
-* MacWk：~~`https://macwk.com/`~~
-* MacPeers：~~`https://www.macpeers.com`~~
-* Mac毒：~~`https://www.macdo.cn`~~
-* Macx：~~`https://www.macx.cn/`~~
-* Mac软件下载站：~~`http://www.pshezi.com`~~
-* MacPeers：~~`http://www.macpeers.com`~~
+* 玩转苹果：`http://www.ifunmac.com`
+* AppKed：`http://www.macbed.com`
+* appaddict：`https://www.appaddict.org/`
+* Mac精品软件：`http://xclient.info/`
+* MacWk：`https://macwk.com/`
+* MacPeers：`https://www.macpeers.com`
+* Mac毒：`https://www.macdo.cn`
+* Macx：`https://www.macx.cn/`
+* Mac软件下载站：~~`http://www.pshezi.com`
+* MacPeers：~~`http://www.macpeers.com`
 * Mac志：~~`http://www.isofts.org`~~
 * Mac软件分享：~~`http://www.waitsun.com`~~
 * MacSky苹果软件园：~~`http://www.macsky.net/`~~
