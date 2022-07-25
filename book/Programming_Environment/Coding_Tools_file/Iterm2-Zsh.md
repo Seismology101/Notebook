@@ -107,13 +107,14 @@ Download different plugins to `~/.oh-my-zsh/plugins` directory, and modify the p
 
 ```bash
 plugins=(
-  sudo
   extract
   autojump
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
 ```
+
+- 
 
 
 Plugin:
