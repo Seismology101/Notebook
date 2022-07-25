@@ -22,7 +22,7 @@ table th:nth-of-type(3) {
 |    `rehost.py`    | Update github host IP for China region  |   me   |  
 |     `rdseed`      | from {file}`~./src` |                   |                     
 |     ``            |                     |                   |                     
-|     ``            |                     |     MacWk](https://chromedriver.chromium.org/)                |                     
+|     ``            |                     |     [MacWk](https://chromedriver.chromium.org/)                |                     
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
