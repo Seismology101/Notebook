@@ -19,7 +19,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|   `Microsoft-365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
+|   `Microsoft | Office 365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
 |    `WPS`    | Is a cross-platform office software suite.  |   AppStore   |  
 |     `Keynote`      | Build stunning presentations |    AppStore               |                     
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
@@ -43,7 +43,7 @@ table th:nth-of-type(3) {
 |     `VSCode`    | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
 |     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS. |                   |            
 |     `Iterm 2`  | An amazing terminal emulator for OS X     |  [link](http://www.iterm2.com/)    |            
-|     ``            |                     |                   |            
+|     `Matlab`            |                     |                   |            
 |     ``            |                     |                   | 
 
 
