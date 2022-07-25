@@ -142,6 +142,12 @@ $ brew uninstall xxx
 
 # Brew 安装列表
 $ brew list
+
+# 查看brew配置信息
+$ brew config
+
+# 查看安装了多少package
+$ brew info
 ```
 
 
