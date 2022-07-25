@@ -13,7 +13,7 @@
 
 ---
 
-**My brew list**
+## My brew list
 |        Name       |       Purpose       |
 |    ------------   |    -------------    |
 | `git`            | ...   |
