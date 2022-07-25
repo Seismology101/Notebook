@@ -197,10 +197,37 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
 
 
-Pirated software download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
+
 
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
+
+Pirated software download site blacklist。 Refuse piracy from me. Software vendors can go to these places rights.
+
+* 玩转苹果：~~`http://www.ifunmac.com`~~
+* AppKed：~~`http://www.macbed.com`~~
+* appaddict：~~`https://www.appaddict.org/`~~
+* Mac精品软件：~~`http://xclient.info/`~~
+* MacWk：~~`https://macwk.com/`~~
+* MacPeers：~~`https://www.macpeers.com`~~
+* Mac毒：~~`https://www.macdo.cn`~~
+* Macx：~~`https://www.macx.cn/`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* MacPeers：~~`http://www.macpeers.com`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* MacSky苹果软件园：~~`http://www.macsky.net/`~~
+* Softasm：~~`https://softasm.com/`~~
+* Mac破解软件：~~`https://www.macappstore.net/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* 马可菠萝：~~`http://www.macbl.com/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 未来软件园：~~`http://www.orsoon.com/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
+* 未来软件园：~~`http://www.orsoon.com/mac/`~~
+* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
+* MAC萌新网：~~`https://www.macxin.com`~~
