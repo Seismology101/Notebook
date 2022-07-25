@@ -31,7 +31,108 @@ Terminal preview
 
 ::::{toggle}
 ```bash
-s
+#------------------------------------------#
+#----------- <<< Fu Yin set <<<------------#
+#------------------------------------------#
+echo "\n~ Hi! you can use *neofetch* for detailed info (from Fu Yin ~/.zshrc)"
+
+# [1].source .bash_profile (activate environment variable)
+# source ~/.bash_profile
+# source ~/.bashrc
+
+
+# [2].set font and close INSTANT PROMPT
+POWERLEVEL9K_MODE="nerdfont-complete" 
+POWERLEVEL9K_INSTANT_PROMPT="off"
+
+
+# [3].pfetch and neofetch
+pfetch
+# neofetch
+
+
+# [4].plugins download by Fu Yin
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git
+	extract
+	autojump
+	zsh-autosuggestions
+	zsh-syntax-highlighting)
+
+# activate autojump
+[[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+
+
+# [5].use p10k theme
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+
+# [6].use colors
+alias lc='colorls -lA --sd'
+
+
+
+
+
+# If you come from bash you might have to change your $PATH.
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+# Path to your oh-my-zsh installation.
+export ZSH=$HOME"/.oh-my-zsh"
+
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+
+source $ZSH/oh-my-zsh.sh
+
+
+
+
+
+
+
+
+#------------------------------------------------------#
+#----------- <<< Fu Yin set -- software <<<------------#
+#------------------------------------------------------#
+# >>> yinfu_code path >>>
+export PATH=/Users/yinfu/bin:${PATH}
+# >>> yinfu_code path >>>
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/yinfu/opt/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/yinfu/opt/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/Users/yinfu/opt/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/yinfu/opt/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+# >>> sac >>>
+export SACHOME=/usr/local/sac
+export SACAUX=${SACHOME}/aux
+export PATH=${SACHOME}/bin:${PATH}
+export SAC_DISPLAY_COPYRIGHT=1
+export SAC_PPK_LARGE_CROSSHAIRS=1
+export SAC_USE_DATABASE=0
+# <<< sac <<<
+
+# >>> brew's git >>>
+export GIT=/usr/local/Cellar/git/2.37.1
+export PATH=$GIT/bin:$PATH
+# <<< brew's git <<<
+
 ```
 ::::
 
