@@ -29,7 +29,13 @@
 
 This is a caption in **Markdown**
 :::
+:::{figure-md} fig-target
+:class: myclass
 
+<img src="img/Iterm2-Zsh-1.jpg" alt="fishy" class="bg-primary mb-1" width="200px">
+
+This is a caption in **Markdown**
+:::
 
 
 
