@@ -59,15 +59,47 @@ table th:nth-of-type(3) {
 ---
 
 
-## Developer Tools
+## Paper management
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     `Mendeley`    |  Paper management   | [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)  |            
+|     `Zotero`      |  Paper management   | [link](https://www.zotero.org/) | 
+|     ``            |                     |                   | 
+
+---
+
+
+## Design and Product
+
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|  `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS |  `xcode-select --install` |   
-|     `VSCode`    | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
-|     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS. |                   |            
-|     `Iterm 2`  | An amazing terminal emulator for OS X     |  [link](http://www.iterm2.com/)    |            
-|     `Matlab`            | ...                    |  [kb.rice](https://kb.rice.edu/69000)                 |            
+|     `XMind`       | The most popular mind-mapping tool on the planet |   MacWk        |                    
+|   `Adobe Acrobat` | Adobe PDF           |  MacWk            |            
+| `Adobe Lllistrator` | Vector graph processing software      |  MacWk                  |            
+|     `PS`          | ...                 |                   | 
+|     `ISlide`      |  PowerPoint add-in  | [link](https://islide-powerpoint.com/en)    | 
 |     ``            |                     |                   | 
+
+
+
+## Translation Tools
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |  
+|     `有道翻译`            | ...                    |  AppStore                 |            
+|     ``            |                     |                   |            
+
+
+
+## Cloud Storage
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+|     `Dropbox`            | File hosting service that offers cloud storage and file synchronization with collaborative edit features.                    |  [link](https://www.dropbox.com/)                 |            
+|     `百度云`            | ...                    | [link](http://pan.baidu.com/download?from=header#pan)                  |            
+|     ``            |                     |                   |            
 
 
 
@@ -85,6 +117,14 @@ table th:nth-of-type(3) {
 |     ``            |                     |                   | 
 
 
+## Audio and Video Tools
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+|     `ScreenFlow`            | Screencasting and video editing software.   |  MacWk                 |            
+|     `IINA`            | The modern video player for macOS. Based on mpv, the powerful media player project.                    |  [link](https://iina.io/)                 |            
+|     `网易云音乐`            |  Listen music in China                  |  AppStore                   |            
+|     ``            |                     |                   |            
 
 
 ## Remote Login Software
@@ -101,40 +141,8 @@ table th:nth-of-type(3) {
 
 
 
-## Design and Product
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  |   
-|     `XMind`    |  The most popular mind-mapping tool on the planet. |   MacWk                |                    
-|     `Adobe Acrobat`            | Adobe PDF                    |  MacWk                 |            
-|     `Adobe Lllistrator`  | Vector graph processing software |  MacWk                  |            
-|     `PS`            |                     |                   | 
-|     `ISlide`            |  PowerPoint add-in                   | [link](https://islide-powerpoint.com/en)                  | 
-|     ``            |                     |                   | 
 
 
-
-
-## Audio and Video Tools
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  |   
-|     `ScreenFlow`            | Screencasting and video editing software.   |  MacWk                 |            
-|     `IINA`            | The modern video player for macOS. Based on mpv, the powerful media player project.                    |  [link](https://iina.io/)                 |            
-|     `网易云音乐`            |  Listen music in China                  |  AppStore                   |            
-|     ``            |                     |                   |            
-
-
-
-
-
-## Cloud Storage
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  |   
-|     `Dropbox`            | File hosting service that offers cloud storage and file synchronization with collaborative edit features.                    |  [link](https://www.dropbox.com/)                 |            
-|     `百度云`            | ...                    | [link](http://pan.baidu.com/download?from=header#pan)                  |            
-|     ``            |                     |                   |            
 
 
 
@@ -148,36 +156,6 @@ table th:nth-of-type(3) {
 
 
 
-
-
-
-
-
-
-## Translation Tools
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `Grammarly`            | An all-in-one writing assistant that works on your desktop and in your browser. Use it in apps, word processors, email clients, and more.       | [link](https://www.grammarly.com/desktop/mac)    |  
-|     `有道翻译`            | ...                    |  AppStore                 |            
-|     ``            |                     |                   |            
-
-
-
-
-
-
-
-
-
-## Document management
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `Mendeley`            | Paper management                    |  [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)                 |            
-|     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
-|     ``            |                     |                   | 
-
 ## System Clean
 
 |        Name       |       Purpose       |        Url        | 
@@ -186,6 +164,15 @@ table th:nth-of-type(3) {
 |     ``            |                     |                   | 
    
 
+## Developer Tools
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+| `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS |  `xcode-select --install` |   
+|     `VSCode`      | Microsoft's free & open-source editor, TypeScript friendly | [link](https://code.visualstudio.com/) |            
+|     `ForkLift`    | The most advanced dual pane file manager and file transfer client for macOS. |                   |            
+|     `Iterm 2`  | An amazing terminal emulator for OS X     |  [link](http://www.iterm2.com/)    |            
+|     `Matlab`            | ...                    |  [kb.rice](https://kb.rice.edu/69000)                 |            
+|     ``            |                     |                   | 
 
 
 ## Utilities
