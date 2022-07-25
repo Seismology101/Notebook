@@ -161,6 +161,22 @@ table th:nth-of-type(3) {
 
 
 
+## Document management
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     `Mendeley`            | Paper management                    |  [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)                 |            
+|     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
+|     ``            |                     |                   | 
+
+## System Clean
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  | 
+|     `腾讯柠檬清理`            | 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品                    |  [link](https://lemon.qq.com/)                 |            
+|     ``            |                     |                   | 
+   
+
 
 
 ## Utilities
@@ -184,19 +200,3 @@ table th:nth-of-type(3) {
 |     `Caffeinated`            |  Prevent Mac from going to sleep                   |   AppStore                 | 
 |     `DisplayLink Manager`            |  Program expansion dock driver software for multi-screen display                   |  [link](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)                 | 
 |     ``            |                     |                   | 
-
-## Document management
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `Mendeley`            | Paper management                    |  [link](https://www.mendeley.com/DOWNLOAD-DESKTOP/)                 |            
-|     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
-|     ``            |                     |                   | 
-
-## System Clean
-
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `腾讯柠檬清理`            | 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品                    |  [link](https://lemon.qq.com/)                 |            
-|     ``            |                     |                   | 
-   
