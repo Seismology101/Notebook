@@ -199,14 +199,13 @@ table th:nth-of-type(3) {
 |     `Zotero`            |  Paper management                    | [link](https://www.zotero.org/)                  | 
 
 
-## Browsers
+## System Clean
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
 |     `腾讯柠檬清理`            | 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品                    |  [link](https://lemon.qq.com/)                 |            
 |     ``            |                     |                   | 
-|     ``            |                     |                   |            
-|     ``            |                     |                   |    
+   
 
 ## Browsers
 
