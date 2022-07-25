@@ -162,8 +162,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/p
 
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): highlight available Zsh commands.
 
-```
+```bash
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+
+# This plug-in needs to be the last bit in the list of plug-ins in the configuration file ~/.zshrc
+plugins=([plugins...] zsh-syntax-highlighting)
 ```
 
 
