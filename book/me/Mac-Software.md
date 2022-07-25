@@ -24,7 +24,7 @@ table th:nth-of-type(3) {
 |     `Keynote`      | Build stunning presentations |    AppStore               |                     
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
 |     `Pages`            | Documents that stand apart                     |  AppStore                 |            
-|     `Typora`            | Truly minimal Markdown editor featuring seamless live preview                     |                   |            
+|     `Typora`            | Truly minimal Markdown editor featuring seamless live preview                     |   MacWk                |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
