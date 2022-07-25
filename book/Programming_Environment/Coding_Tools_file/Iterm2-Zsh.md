@@ -99,6 +99,8 @@ $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:
 $ ZSH_THEME="powerlevel10k/powerlevel10k
 ```
 
+
+
 ### Add plugin
 
 
