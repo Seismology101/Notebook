@@ -187,7 +187,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### yinfu
 
-- {file}`~` equals to {file}`/Users/yinfu` which is the user's root path.
+- {file}`/Users/yinfu` equals to {file}`~` which is the user's root path.
 
 
 ## Software
