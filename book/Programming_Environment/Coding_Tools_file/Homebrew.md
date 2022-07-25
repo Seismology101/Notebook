@@ -27,14 +27,14 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 :::{tab-item} China
 ```bash
-# download 'autojump' to '/.oh-my-zsh/custom'
-$ git clone git://github.com/wting/autojump.git $ZSH_CUSTOM/plugins/autojump
+# 1.执行安装脚本
+$ export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.ustc.edu.cn/brew.git"
+$ export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.ustc.edu.cn/homebrew-core.git"
+$ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/install.sh)"
 
-# go to 'autojump' folder
-$ cd $ZSH_CUSTOM/plugins/autojump
-
-# python install.py:
-$ ./install.py
+# 2.安装完成后设置
+$ echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles' >> ~/.zshrc
+$ source ~/.zshrc
 ```
 :::
 
