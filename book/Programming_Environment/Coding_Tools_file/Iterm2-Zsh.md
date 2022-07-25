@@ -26,6 +26,12 @@ name: preview
 Terminal preview
 ```
 
+**My `~/.zshrc`**
+
+
+
+
+
 
 
 ## Iterm2
@@ -47,7 +53,7 @@ Iterm2 is a replacement for terminal in Mac.
 
 ## Zsh
 
-Type `ZSH --version` in terminal. If the ZSH version is displayed, then ZSH is installed. Otherwise, you need to install Zsh.
+Type `Zsh --version` in terminal. If the ZSH version is displayed, then ZSH is installed. Otherwise, you need to install Zsh.
 
 ```bash
 $ brew install zsh
@@ -214,6 +220,10 @@ terminal font = MesloLGS NF
 
 ## Tmux
 working...
+
+
+
+
 
 
 
