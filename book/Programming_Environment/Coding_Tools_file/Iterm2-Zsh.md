@@ -103,7 +103,7 @@ $ ZSH_THEME="powerlevel10k/powerlevel10k
 
 ### Add plugin
 
-
+Download different plugins, and modify the plugins variable in the `~/.zshrc` configuration file:
 
 
 Plugin:
