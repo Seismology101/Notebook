@@ -22,8 +22,7 @@
 | `neofetch`            | ...   |
 | `ncurses`            | I forget...   |
 | ``            | ...   |
-| ``            | ...   |
-| ``            | ...   |
+
 
 
 ## Install
