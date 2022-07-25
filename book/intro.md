@@ -39,7 +39,8 @@ The main content of the notebook as follows:
 
 
 
-
+```{tableofcontents}
+```
 <!-- ```{tableofcontents}
 ```
 
