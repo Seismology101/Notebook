@@ -14,7 +14,6 @@ This tutorial supports **Monterey (12.4)**, and may also be valid for Big Sur (1
 
 ## Re-Install MacOS
 
-
 ::::{tab-set}
 
 :::{tab-item} Intel Monterey
@@ -27,7 +26,6 @@ Reinstall Monterey system as follows:
 
 :::
 
-
 :::{tab-item} M1
 
 Working...
@@ -35,13 +33,6 @@ Working...
 :::
 
 ::::
-
-
-
-
-
-
-
 
 
 
