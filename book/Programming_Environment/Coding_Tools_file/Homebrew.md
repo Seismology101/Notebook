@@ -1,5 +1,11 @@
 # Homebrew
 
+- Author: *{{Fu}}*
+- Update: *July 25, 2022*
+- Reading: *10 min*
+
+---
+
 
 [**Homebrew**](https://brew.sh/index_zh-cn.html) is the most popular third-party package manager for macOS, consisted of the following four parts:
 
