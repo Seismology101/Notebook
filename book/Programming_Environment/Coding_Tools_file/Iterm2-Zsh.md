@@ -6,6 +6,8 @@
 
 ---
 
+**Iterm2+Oh-My-Zsh+p10k+Tmux**
+
 **Requirements:**
 - [Iterm2](https://iterm2.com/)
 - [Dracula](https://draculatheme.com/)
