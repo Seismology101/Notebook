@@ -167,7 +167,16 @@ plugins=([plugins...] zsh-syntax-highlighting)
 
 
 
-- [colorls](https://github.com/athityakumar/colorls)
+- [colorls](https://github.com/athityakumar/colorls): File directory beautification plug-in
+
+```bash
+gem install colorls
+
+alias lc='colorls -lA --sd'
+
+lc
+```
+
 
 
 ## Tmux
