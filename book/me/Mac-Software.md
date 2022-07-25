@@ -142,20 +142,12 @@ table th:nth-of-type(3) {
 ---
 
 
-
-
-
-
-
-
-
-
 ## Proxy and VPN Tools
 
-|        Name       |       Purpose       |        Url        | 
-|    ------------   |    -------------    |  :-------------:  | 
-|     `Cisco AnyConnect`            |   VPN for Rice University                  |  [link](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link](https://software.cisco.com/download/home)                 |            
-|     ``            |                     |                   | 
+|        Name        |       Purpose       |        Url        | 
+|    ------------    |    -------------    |  :-------------:  | 
+| `Cisco AnyConnect` | VPN for Rice University |  [link](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link](https://software.cisco.com/download/home) |            
+|     ``             |                     |                   | 
 
 
 
