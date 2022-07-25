@@ -74,7 +74,7 @@ $ git -C "$(brew --repo)" remote set-url origin https://github.com/Homebrew/brew
 $ git -C "$(brew --repo homebrew/core)" remote set-url origin https://github.com/Homebrew/homebrew-core.git
 $ git -C "$(brew --repo homebrew/cask)" remote set-url origin https://github.com/Homebrew/homebrew-cask.git
 ```
-
+`homebrew-bottles` 配置只能手动删除，将 `~/.zshrc` 文件中的 `HOMEBREW_BOTTLE_DOMAIN=https://mirrors.xxx.com` 内容删除，并执行 `source ~/.zshrc`
 ::::
 :::::
 
