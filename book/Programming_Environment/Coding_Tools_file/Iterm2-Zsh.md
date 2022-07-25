@@ -119,14 +119,19 @@ plugins=(
 
 1. [autojump](https://github.com/wting/autojump): a faster way to navigate your filesystem. Jump to a directory that contains `foo`.
 
-```bash
-$ j foo
-```
+
     
 Before enabling autojump, install firstly:
 
 
 ::::{tab-set}
+
+:::{tab-item} Use
+```bash
+$ j foo
+```
+:::
+
 
 :::{tab-item} Source Code
 
