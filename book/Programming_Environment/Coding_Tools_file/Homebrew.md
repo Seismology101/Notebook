@@ -121,7 +121,9 @@ $ brew upgrade xxx
 # 卸载某个软件
 $ brew uninstall xxx
 ```
-
+:::{tip}
+https://formulae.brew.sh/
+:::
 
 
 
