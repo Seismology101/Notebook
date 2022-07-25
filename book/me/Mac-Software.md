@@ -24,8 +24,8 @@ table th:nth-of-type(3) {
 |     `Keynote`      | Build stunning presentations |    AppStore               |                     
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
 |     `Pages`            | Documents that stand apart                     |  AppStore                 |            
-|     `Typora`            | Truly minimal Markdown editor featuring seamless live preview                     |   MacWk                |            
-|     ``            |                     |                   |            
+|     `Typora`      | Truly minimal Markdown editor featuring seamless live preview  |   MacWk      |            
+|     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.                    | MacWk                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
