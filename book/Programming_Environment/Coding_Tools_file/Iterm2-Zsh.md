@@ -89,9 +89,15 @@ This command will create the `~/.oh-my-zsh` directory, downloads oh my zsh to th
 ### Set theme
 
 To use a different theme, modify the **ZSH_THEME** variable in the `~/.zshrc` configuration file.
+For example, I use [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme.
 
+```bash
+# install
+$ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
-
+# then open `~/.zshrc` to set `ZSH_THEME`:
+$ ZSH_THEME="powerlevel10k/powerlevel10k
+```
 
 ### Add plugin
 
