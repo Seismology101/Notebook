@@ -10,11 +10,9 @@ My terminal configuration in Mac.
 
 **Requirements:**
 - [Iterm2](https://iterm2.com/)
-- [Dracula](https://draculatheme.com/)
 - [zsh](https://www.zsh.org/)
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-
 - [tmux](https://github.com/tmux/tmux)
 
 
