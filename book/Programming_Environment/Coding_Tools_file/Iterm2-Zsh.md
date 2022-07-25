@@ -154,17 +154,17 @@ brew install autojump
 ::::
 
 
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): command auto-complete plug-in, when you enter several letters of a command, it will automatically complete the command according to the historical input
+```bash
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+```
 
 
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): highlight available Zsh commands.
 
-
-
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-
-
-
-
+```
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+```
 
 
 
