@@ -166,10 +166,6 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 - And {file}`~/data` stores my **Bachelor & Master Thesis**, **meeting report slides** (*Group/SSA/AGU/CGU...*), and some **meeting video**.
 
 
-
-
-
-
 ### learn
 
 ### project
