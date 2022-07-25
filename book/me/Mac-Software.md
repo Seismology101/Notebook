@@ -124,9 +124,9 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|     `ScreenFlow`            | Screencasting and video editing software.   |  MacWk                 |            
-|     `IINA`            | The modern video player for macOS. Based on mpv, the powerful media player project.                    |  [link](https://iina.io/)                 |            
-|     `网易云音乐`            |  Listen music in China                  |  AppStore                   |            
+|   `ScreenFlow`    | Screencasting and video editing software |  MacWk                 |            
+|     `IINA`        | The modern video player for macOS. Based on mpv, the powerful media player project | [link](https://iina.io/)|            
+|     `网易云音乐`    | Listen music in China |  AppStore       |            
 |     ``            |                     |                   |            
 
 
