@@ -122,7 +122,7 @@ plugins=(
 ```bash
 $ j foo
 ```
-Before enabling autojump, install first:
+    - Before enabling autojump, install first:
 
 
 
