@@ -106,6 +106,7 @@ Run the following command to start the automatic configuration process:
 p10k configure
 ```
 
+After executing the command, p10k is initialized: `~/.p10k.zsh` is generated in the root directory, and some code will be written at the bottom of `~/.zshrc` as following:
 
 
 ### Add plugin
