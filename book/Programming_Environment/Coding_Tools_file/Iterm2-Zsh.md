@@ -111,6 +111,11 @@ After executing the command, p10k is initialized: `~/.p10k.zsh` is generated in 
 ```
 To disable the p10k configuration, you only need to delete `~/.p10k.zsh` file and the preceding code.
 
+### Download font
+
+
+
+
 
 
 ### Add plugin
