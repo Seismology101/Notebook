@@ -197,7 +197,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 - [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) is a github collecting awesome macOS software.
 
 
-**Genuine software**:
+**Genuine Software**:
 
 * App Shopper: [`http://appshopper.com/`](http://appshopper.com/)
 * MacUpdate: [`https://www.macupdate.com/`](https://www.macupdate.com/)
@@ -205,7 +205,7 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 * Mac玩儿法: [`http://www.waerfa.com`](http://www.waerfa.com)
 * 腾讯柠檬精选: [`https://lemon.qq.com/lab/`](https://lemon.qq.com/lab/)
 
-**Pirated software**. Refuse piracy from me. Software vendors can go to these places rights.
+**Pirated Software**. Refuse piracy from me. Software vendors can go to these places rights.
 
 * MacWk: [`https://macwk.com/`](https://macwk.com/)
 * AppKed: [`http://www.macbed.com`](http://www.macbed.com)
@@ -214,3 +214,5 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 * Mac精品软件: [`http://xclient.info/`](http://xclient.info/)
 * Mac毒: [`https://www.macdo.cn`](https://www.macdo.cn)
 
+**Rice University Software for Student**:
+* [`https://kb.rice.edu/69000`](https://kb.rice.edu/69000)
