@@ -101,7 +101,6 @@ $ ZSH_THEME="powerlevel10k/powerlevel10k
 
 Run the following command to start the automatic configuration process:
 
-
 ```bash
 $ p10k configure
 ```
