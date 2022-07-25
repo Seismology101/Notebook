@@ -151,6 +151,14 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 ### code
 
+- {file}`~/code` stores
+
+- More information please check [Seis-Software.md](../me/Seis-Software.md) list.
+
+```{note}
+Remember that after compiling, put the executable code in the {file}`~/bin` folder.
+```
+
 ### data
 
 
