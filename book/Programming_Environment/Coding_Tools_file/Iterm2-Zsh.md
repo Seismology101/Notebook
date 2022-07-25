@@ -65,7 +65,6 @@ plugins=(git
 # [6].use colors
 alias lc='colorls -lA --sd'
 
-
 # [7]. If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
