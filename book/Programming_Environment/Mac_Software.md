@@ -212,9 +212,8 @@ Complete list in my mac please check [Mac-Software.md](../me/Mac-Software.md) li
 
 * AppKed：[`http://www.macbed.com`](http://www.macbed.com)
 * Softasm：[`https://softasm.com/`](https://softasm.com/)
-* appaddict：[`https://www.appaddict.org/`
-* Mac精品软件：[`http://xclient.info/`
-* MacWk：[`https://macwk.com/`
-* MacPeers：[`https://www.macpeers.com`
-* Mac毒：[`https://www.macdo.cn`
-* Macx：[`https://www.macx.cn/`
+
+* Mac精品软件：[`http://xclient.info/`]()
+* MacWk：[`https://macwk.com/`](https://macwk.com/)
+* Mac毒：[`https://www.macdo.cn`]()
+
