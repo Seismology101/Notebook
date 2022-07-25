@@ -187,7 +187,7 @@ plugins=([plugins...] zsh-syntax-highlighting)
 # install
 $ gem install colorls
 
-# set alias
+# set alias in ~/.zshrc file
 alias lc='colorls -lA --sd'
 
 # use
