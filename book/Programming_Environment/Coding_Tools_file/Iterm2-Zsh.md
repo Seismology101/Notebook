@@ -170,10 +170,11 @@ plugins=([plugins...] zsh-syntax-highlighting)
 - [colorls](https://github.com/athityakumar/colorls): File directory beautification plug-in
 
 ```bash
+# install
 gem install colorls
-
+# set alias
 alias lc='colorls -lA --sd'
-
+# use
 lc
 ```
 
