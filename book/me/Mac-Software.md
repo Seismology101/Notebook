@@ -124,7 +124,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     `Cisco AnyConnect`            |   VPN for Rice University                  |  [link-1](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link-2](https://software.cisco.com/download/home)                 |            
+|     `Cisco AnyConnect`            |   VPN for Rice University                  |  [link](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link](https://software.cisco.com/download/home)                 |            
 |     ``            |                     |                   | 
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
