@@ -163,7 +163,7 @@ Remember that after compiling, put the executable code in the {file}`~/bin` fold
 
 - {file}`~/data` stores some common data, such as seismic waveform, fault data, earthquake catalog, etc., which can be shared by multiple different research projects.
 
-- And {file}`~/data` stores my **Bachelor&Master Thesis**
+- And {file}`~/data` stores my **Bachelor & Master Thesis**
 
 
 
