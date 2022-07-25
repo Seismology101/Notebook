@@ -7,7 +7,7 @@
 ---
 
 **Requirements:**
-- [iterm2](https://iterm2.com/)
+- [Iterm2](https://iterm2.com/)
 - [Dracula](https://draculatheme.com/)
 - [zsh](https://www.zsh.org/)
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
