@@ -149,7 +149,7 @@ table th:nth-of-type(3) {
 | `Cisco AnyConnect` | VPN for Rice University |  [link](https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-a-mac/) or [link](https://software.cisco.com/download/home) |            
 |     ``             |                     |                   | 
 
-
+---
 
 
 ## System Clean
@@ -159,8 +159,11 @@ table th:nth-of-type(3) {
 |     `腾讯柠檬清理`  | 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品 | [link](https://lemon.qq.com/) |            
 |     ``            |                     |                   | 
    
+---
+
 
 ## Developer Tools
+
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
 | `Command Line Tools for Xcode` | Integrated Development Environment (IDE) under macOS | `xcode-select --install` |   
@@ -169,6 +172,8 @@ table th:nth-of-type(3) {
 |     `Iterm 2`     | An amazing terminal emulator for OS X   |  [link](http://www.iterm2.com/) |            
 |     `Matlab`      | ...                 | [kb.rice](https://kb.rice.edu/69000)                |            
 |     ``            |                     |                   | 
+
+---
 
 
 ## Utilities
