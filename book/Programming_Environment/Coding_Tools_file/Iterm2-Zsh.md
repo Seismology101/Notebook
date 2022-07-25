@@ -10,7 +10,7 @@
 - [Iterm2](https://iterm2.com/)
 - [Dracula](https://draculatheme.com/)
 - [zsh](https://www.zsh.org/)
-- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [autojump](https://github.com/wting/autojump)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
