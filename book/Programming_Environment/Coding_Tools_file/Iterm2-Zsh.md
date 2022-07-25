@@ -50,7 +50,7 @@ Iterm2 is a replacement for terminal in Mac.
 
 ## Zsh
 ```
-
+$ brew install zsh
 ```
 
 
