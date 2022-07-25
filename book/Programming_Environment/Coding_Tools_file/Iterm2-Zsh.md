@@ -172,8 +172,10 @@ plugins=([plugins...] zsh-syntax-highlighting)
 ```bash
 # install
 gem install colorls
+
 # set alias
 alias lc='colorls -lA --sd'
+
 # use
 lc
 ```
