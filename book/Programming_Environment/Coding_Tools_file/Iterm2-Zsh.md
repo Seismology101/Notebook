@@ -50,6 +50,7 @@ Iterm2 is a replacement for terminal in Mac.
 
 ## Zsh
 
+Type `ZSH --version` in terminal. If the ZSH version is displayed, then ZSH is installed. Otherwise, you need to install Zsh.
 
 ```
 $ brew install zsh
