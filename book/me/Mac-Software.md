@@ -90,7 +90,8 @@ table th:nth-of-type(3) {
 |     `Adobe Acrobat`            | Adobe PDF                    |  MacWk                 |            
 |     `Adobe Lllistrator`  | Vector graph processing software |  MacWk                  |            
 |     `PS`            |                     |                   | 
-
+|     `ISlide`            |                     | [link](https://islide-powerpoint.com/en)                  | 
+|     ``            |                     |                   | 
 
 
 
@@ -170,9 +171,9 @@ table th:nth-of-type(3) {
 |     `DaisyDisk `            | Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.                    |   MacWk                 |  
 |     `Tuxera NTFS `            |  Full read-write compatibility with NTFS-formatted drives on a Mac.                   |  MacWk                 |            
 |     `Sound Control`            |  ...                   | MacWk                  |  
-|     ``            |                     |                   | 
-|     ``            |                     |                   | 
-|     ``            |                     |                   | 
+|     `LetsView`            |                     |  MacWk                  | 
+|     `Lunar`            | Help you adujst brightness, contrast and volumn of your external display                    |  MacWk                 | 
+|     `Macs Fan Control`            | Fan control                    |  MacWk                 | 
 |     ``            |                     |                   | 
 |     ``            |                     |                   | 
 
