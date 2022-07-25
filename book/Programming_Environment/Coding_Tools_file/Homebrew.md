@@ -26,7 +26,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 
 :::{tab-item} China
-如果你是初次安装，这里使用中科大源:
+- 如果你是初次安装，这里使用中科大源:
 
 ```bash
 # 1.执行安装脚本
@@ -38,6 +38,18 @@ $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master
 $ echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles' >> ~/.zshrc
 $ source ~/.zshrc
 ```
+
+- 如果你已经安装过，需要换源:
+```bash
+git -C "$(brew --repo)" remote set-url origin https://mirrors.ustc.edu.cn/brew.git
+git -C "$(brew --repo homebrew/core)" remote set-url origin https://mirrors.ustc.edu.cn/homebrew-core.git
+git -C "$(brew --repo homebrew/cask)" remote set-url origin https://mirrors.ustc.edu.cn/homebrew-cask.git
+brew update
+
+echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles/bottles' >> ~/.zshrc
+source ~/.zshrc
+```
+
 :::
 
 
