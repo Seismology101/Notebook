@@ -182,4 +182,13 @@ lc
 
 
 
+## Terminal in VSCode
+VSCode terminal can comes with a consistent interface, that just simply sets the font in VSCode setting as:
+
+```bash
+# set in vscode setting
+terminal font = MesloLGS NF
+```
+
+
 ## Tmux
