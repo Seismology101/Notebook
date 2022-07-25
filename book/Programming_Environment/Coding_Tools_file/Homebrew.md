@@ -56,7 +56,25 @@ $ source ~/.zshrc
 
 
 ## Uninstall
+::::{tab-set}
 
+:::{tab-item} Foreign
+```bash
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+:::
+
+
+
+:::{tab-item} China
+- 如果你是初次安装，这里使用中科大源:
+```bash
+$ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/uninstall.sh)"
+```
+:::
+
+
+::::
 
 
 
