@@ -20,7 +20,7 @@
 
 
 
-
+![](./Iterm2-Zsh-1.jpg)
 
 :::{note}
 Since macOS Catalina (10.15), the default Shell of macOS has changed from Bash to Zsh
