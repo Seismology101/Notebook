@@ -83,7 +83,7 @@ Oh My Zsh is an open source, community-driven framework for managing your zsh co
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-
+This command creates the `~/.oh-my-zsh` directory, downloads oh my zsh to this directory, generates the default ZSH configuration file `~/.zshrc`, and backs up the old configuration to a file like `~/.zshrc.pre-oh-my-zsh`.
 
 
 
