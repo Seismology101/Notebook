@@ -1,7 +1,8 @@
 # Mac Software
 
 
-
+```{tableofcontents}
+```
 
 <style>
 table th:first-of-type {
