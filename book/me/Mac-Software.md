@@ -187,6 +187,7 @@ table th:nth-of-type(3) {
 |     `Macs Fan Control`            | Fan control                    |  MacWk                 | 
 |     `Mathpix Snipping Tool`            |  Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.                   | [link](https://mathpix.com/)                  | 
 |     `IRightMouse`            |  Powerful right-click menu tool                   |   AppStore                | 
+|     `Caffeinated`            |  Prevent Mac from going to sleep                   |   AppStore                 | 
 |     ``            |                     |                   | 
 
 
@@ -194,7 +195,6 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
-|     ``            |                     |                   | 
 |     ``            |                     |                   |            
 |     ``            |                     |                   | 
 
