@@ -18,7 +18,7 @@ table th:nth-of-type(3) {
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  |   
-|   `chromedriver`  | Chrome plugin to fresh html when using jupyter-book to build project |  [link](https://chromedriver.chromium.org/)      |   
+|   `chromedriver`  | Chrome plugin to fresh html when using jupyter-book to build project |  [MacWk](https://chromedriver.chromium.org/)      |   
 |    `rehost.py`    | Update github host IP for China region  |   me   |  
 |     `rdseed`      | from {file}`~./src` |                   |                     
 |     ``            |                     |                   |                     
