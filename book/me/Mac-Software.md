@@ -146,7 +146,7 @@ table th:nth-of-type(3) {
 
 
 
-## Browsers
+## Input Methods
 
 |        Name       |       Purpose       |        Url        | 
 |    ------------   |    -------------    |  :-------------:  | 
