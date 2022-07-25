@@ -150,7 +150,7 @@ $ brew install autojump
 ::::
 
 
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): command auto-complete plug-in, when you enter several letters of a command, it will automatically complete the command according to the historical input
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): command auto-complete plug-in, when you enter several letters of a command, it will automatically complete the command according to the historical input.
 ```bash
 $ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 ```
