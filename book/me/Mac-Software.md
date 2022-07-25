@@ -26,8 +26,8 @@ table th:nth-of-type(3) {
 |     `Pages`            | Documents that stand apart                     |  AppStore                 |            
 |     `Typora`      | Truly minimal Markdown editor featuring seamless live preview  |   MacWk      |            
 |     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.     | MacWk   |            
-|     `GoodNotes`            | Take notes                    |                   |            
-|     `Notability`            | Take notes                    |                   |            
+|     `GoodNotes`            | Take notes                    |  AppStore                  |            
+|     `Notability`            | Take notes                    |  AppStore                  |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
@@ -36,10 +36,64 @@ table th:nth-of-type(3) {
 
 ---
 
-
-
+## Developer Tools
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
 
 |     ``            |                     |     [MacWk](https://chromedriver.chromium.org/)                |   
 
 
+##
 
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+
+
+
+
+
+
+##
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+
+
+
+
+
+
+
+
+##
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+
+
+
+
+
+
+##
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+
+
+
+
+
+##
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
+
+
+
+
+
+##
+
+|        Name       |       Purpose       |        Url        | 
+|    ------------   |    -------------    |  :-------------:  |   
