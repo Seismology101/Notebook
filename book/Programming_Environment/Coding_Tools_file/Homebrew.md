@@ -69,9 +69,7 @@ $ source ~/.zshrc
 
 
 :::::{tab-set}
-
 ::::{tab-item} Foreign
-
 :::{note}
 More information please refer to: 
 [https://docs.brew.sh/FAQ](https://docs.brew.sh/FAQ) and
@@ -89,10 +87,7 @@ If you want to run the Homebrew uninstaller non-interactively, you can use:
 ```bash
 $ NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
 ```
-
-
 ::::
-
 
 
 ::::{tab-item} China
@@ -101,8 +96,6 @@ $ NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/
 $ /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/uninstall.sh)"
 ```
 ::::
-
-
 :::::
 
 
