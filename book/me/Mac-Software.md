@@ -25,9 +25,9 @@ table th:nth-of-type(3) {
 |     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
 |     `Pages`            | Documents that stand apart                     |  AppStore                 |            
 |     `Typora`      | Truly minimal Markdown editor featuring seamless live preview  |   MacWk      |            
-|     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.                    | MacWk                   |            
-|     ``            |                     |                   |            
-|     ``            |                     |                   |            
+|     `PDF Expert`            | Read, annotate and edit PDFs, change text and images.     | MacWk   |            
+|     `GoodNotes`            | Take notes                    |                   |            
+|     `Notability`            | Take notes                    |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
