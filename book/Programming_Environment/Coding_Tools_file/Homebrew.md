@@ -122,9 +122,12 @@ $ brew upgrade xxx
 $ brew uninstall xxx
 ```
 
+
 :::{tip}
 Look through https://formulae.brew.sh/ to check useful package.
 :::
+
+
 
 :::{dropdown} Homebrew 相关名词解释
 :color: info
