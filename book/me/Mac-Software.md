@@ -21,10 +21,10 @@ table th:nth-of-type(3) {
 |    ------------   |    -------------    |  :-------------:  |   
 |   `Microsoft-365`  | Unmistakably Office, designed for education |  [link](https://www.office.com/?auth=2)    |   
 |    `WPS`    | Is a cross-platform office software suite.  |   AppStore   |  
-|     `rdseed`      | from {file}`~./src` |                   |                     
-|     ``            |                     |                   |                     
-|     ``            |                     |     [MacWk](https://chromedriver.chromium.org/)                |                     
-|     ``            |                     |                   |            
+|     `Keynote`      | Build stunning presentations |    AppStore               |                     
+|     `Numbers`            | Create impressive spreadsheets                    |  AppStore                 |                     
+                  
+|     `Pages`            | Documents that stand apart                     |  AppStore                 |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
 |     ``            |                     |                   |            
@@ -36,4 +36,11 @@ table th:nth-of-type(3) {
 |     ``            |                     |                   |            
 
 ---
+
+
+
+
+|     ``            |                     |     [MacWk](https://chromedriver.chromium.org/)                |   
+
+
 
