@@ -1,5 +1,7 @@
 # Seismology Software
 
+```{contents}
+```
 
 
 ## {file}`~./bin`
