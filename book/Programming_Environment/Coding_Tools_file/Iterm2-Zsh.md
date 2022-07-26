@@ -175,7 +175,7 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/m
 This command will create the `~/.oh-my-zsh` directory, downloads oh my zsh to this directory, and generates the default Zsh configuration file `~/.zshrc`. The backup of the old configuration will be moved to a file like `~/.zshrc.pre-oh-my-zsh`.
 
 
-### Set theme
+### set theme
 
 To use a different theme, modify the **ZSH_THEME** variable in the `~/.zshrc` configuration file.
 For example, I use [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme.
@@ -202,7 +202,7 @@ After executing the command, p10k is initialized: `~/.p10k.zsh` is generated in 
 ```
 To disable the p10k configuration, you only need to delete `~/.p10k.zsh` file and the preceding code.
 
-### Download font
+### download font
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) is a project that patches developer targeted fonts with a high number of glyphs (icons). You can use brew to install, but it's too large. So you can just download serveal file as following:
 open [https://github.com/ryanoasis/nerd-fonts/releases](https://github.com/ryanoasis/nerd-fonts/releases), and find `Hack.zip` in **Assets** part. 
@@ -214,7 +214,7 @@ POWERLEVEL9K_MODE="nerdfont-complete"
 ```
 
 
-### Add plugin
+### add plugin
 
 Download different plugins to `~/.oh-my-zsh/plugins` directory, and modify the plugins variable in the `~/.zshrc` configuration file as following:
 
