@@ -47,7 +47,7 @@ OpenSSH specifies that the user public key is stored in the `~/.ssh/authorized_k
 
 :::::{tab-set}
 ::::{tab-item} Manually Uploading a Public Key
-
+User can edit the `authorized_keys` file manually and paste the public key into it, or can run the following command on the local computer.
 
 ```bash
 $ cat ~/.ssh/id_rsa.pub | ssh user@host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
@@ -56,6 +56,9 @@ $ chmod 644 ~/.ssh/authorized_keys
 ::::
 
 ::::{tab-item} ssh-copy-id
+OpenSSH comes with the ssh-copy-id command to automatically copy the public key to the ~/. SSH /authorized_keys file on the remote server. If the ~/.ssh/authorized_keys file does not exist, the ssh-copy-id command automatically creates the file.
+ 
+
 ```bash
 $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 ```
