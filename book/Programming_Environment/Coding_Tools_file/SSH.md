@@ -86,7 +86,7 @@ $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 - `Host`: the alias name.
 - `HostName`: specifies the domain name or IP address.
 - `Port`: indicates the SSH server Port that the specified client connects to.
-
+- `IdentityFile`: specifies the private key file.
 
 
 My `~/.ssh/config` configuration
