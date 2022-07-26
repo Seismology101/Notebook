@@ -5,9 +5,9 @@ ssh-keygen asks a series of questions and then writes a private key and a matchi
 SSH keys are by default kept in the ~/.ssh directory. If you do not have a ~/.ssh directory, the ssh-keygen command creates it for you with the correct permissions.
 
 ::::{margin} About Passphrase
-:::{note}
+
 One of the questions is about **_"Enter passphrase (empty for no passphrase)"_**, and I chosse empty.
-:::
+
 ::::
 
 
