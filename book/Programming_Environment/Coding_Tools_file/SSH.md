@@ -84,6 +84,9 @@ $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 
 ## Configure SSH config file
 
+Some main configuration commands of the SSH config file
+
+
 - `Host`: the alias name.
 - `HostName`: specifies the domain name or IP address.
 - `User`: specify the account name for remote login.
