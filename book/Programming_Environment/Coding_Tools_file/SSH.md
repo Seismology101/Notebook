@@ -217,16 +217,16 @@ Host seislab2
 
 ## SSHFS
 
-SSHFS is Secure Shell FileSystem, and it depends on FUSE on Mac. The [macFUSE](https://osxfuse.github.io/) allows you to extend macOS's native file handling capabilities via third-party file systems.
+SSHFS is Secure Shell FileSystem, and it can mount a remote hard disk to the local Mac. SSHFS depends on FUSE on Mac. The [macFUSE](https://osxfuse.github.io/) allows you to extend macOS's native file handling capabilities via third-party file systems.
 
 - Download macFUSE firstly, click _macfuse-x.x.x.dmg_ to install.
 - Download SSHFS, click the _X.dmg_ to install.
 
-Mount a remote hard disk to the local Mac
 
+It can be used after the installation is complete
 
 ```bash
-$ sshfs -o follow_symlinks -p 1012 yinf@222.195.74.184:/ /Users/yf/share2/
+$ sshfs -o follow_symlinks -p 1012 yinf@222.195.74.184:/ /Users/yf/share1/
 ```
 
 ## Reference
