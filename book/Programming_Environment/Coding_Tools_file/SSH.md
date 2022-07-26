@@ -63,7 +63,7 @@ OpenSSH comes with the `ssh-copy-id` command to automatically copy the public ke
 $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 ```
 :::{note}
-Ssh-copy-id adds the public key directly to the end of the authorized_keys file. If the end of the authorized_keys file is not a newline character, the new public key will be added to the end of the previous public key, and the two public keys will be linked together, making neither of them valid. Therefore, if the authorized_keys file already exists, make sure that the authorized_keys file ends with a newline character before using the ssh-copy-id command (assuming the file already exists).
+`ssh-copy-id` adds the public key directly to the end of the `authorized_keys` file. If the end of the `authorized_keys` file is not a newline character, the new public key will be added to the end of the previous public key, and the two public keys will be linked together, making neither of them valid. Therefore, if the `authorized_keys` file already exists, make sure that the `authorized_keys` file ends with a newline character before using the `ssh-copy-id` command (assuming the file already exists).
 :::
 
 
