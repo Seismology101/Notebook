@@ -16,7 +16,8 @@ One of the questions is about **_"Enter passphrase (empty for no passphrase)"_**
 ::::
 
 
-The following ssh-keygen command generates 4096-bit SSH RSA public and private key files by default in the ~/.ssh directory. If an SSH key pair exists in the current location, those files are overwritten.
+The following ssh-keygen command generates SSH RSA public and private key files by default in the `~/.ssh` directory.
+
 ```bash
 ssh-keygen -t rsa -C "fy21@rice.edu"
 ```
