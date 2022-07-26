@@ -93,7 +93,7 @@ Some main configuration commands of the SSH config file
 - `Port`: indicates the SSH server Port that the specified client connects to.
 
 
-My `~/.ssh/config` configuration
+My `~/.ssh/config` configuration file
 
 ::::{toggle}
 ```bash
