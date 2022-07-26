@@ -206,10 +206,9 @@ To disable the p10k configuration, you only need to delete `~/.p10k.zsh` file an
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) is a project that patches developer targeted fonts with a high number of glyphs (icons). You can use brew to install, but it's too large. So you can just download serveal file as following:
 open [https://github.com/ryanoasis/nerd-fonts/releases](https://github.com/ryanoasis/nerd-fonts/releases), and find `Hack.zip` in **Assets** part. 
-- Double click to install those `ttf` file in your Mac, or you can download in  [Github](./fonts). 
+- Double click to install those `ttf` file in your Mac, or you can <a href="./fonts.zip" download>download</a> here.
 And set the font option in `~/.zshrc` as following.
-<a href="https://vuejs.org/images/logo.png" download>下载 vue 的 LOGO</a>
-<a href="./fonts.zip" download>附件1</a>
+
 ```bash
 POWERLEVEL9K_MODE="nerdfont-complete"
 ```
