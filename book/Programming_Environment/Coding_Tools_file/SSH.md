@@ -44,16 +44,21 @@ total 32
 
 OpenSSH specifies that the user public key is stored in the `~/.ssh/authorized_keys` file on the server. Each public key occupies a line. If the file does not exist, you can manually create it. The permission of the `authorized_keys` file must be set to `644`, that is, only the file owner can write.
 
-Manually Uploading a Public Key
+
+:::::{tab-set}
+::::{tab-item} Manually Uploading a Public Key
+
 
 ```bash
 $ cat ~/.ssh/id_rsa.pub | ssh user@host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 $ chmod 644 ~/.ssh/authorized_keys
 ```
+::::
 
-
-
-
+::::{tab-item} ssh-copy-id
+```bash
+$ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
+```
 
 
 
