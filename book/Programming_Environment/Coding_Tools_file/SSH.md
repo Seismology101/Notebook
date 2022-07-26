@@ -5,8 +5,7 @@
 
 
 ## Create SSH keys
-To create the keys, a preferred command is `ssh-keygen`.
-`ssh-keygen` asks a series of questions and then writes **_a private key_** and **_a matching public key_**.
+To create the keys, a preferred command is `ssh-keygen`. `ssh-keygen` asks a series of questions and then writes **_a private key_** and **_a matching public key_**.
 SSH keys are by default kept in the `~/.ssh` directory. If you do not have a `~/.ssh` directory, the ssh-keygen command creates it for you with the correct permissions. If an SSH key pair exists in the current location, those files are overwritten.
 
 ::::{margin} About Passphrase:
