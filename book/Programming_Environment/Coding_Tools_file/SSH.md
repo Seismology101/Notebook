@@ -26,7 +26,7 @@ ssh-keygen -t rsa -C "fy21@rice.edu"
 
 - `-t rsa`: type of key to create, in this case in the RSA format
 
-- `-C "azureuser@myserver"`: a comment appended to the end of the public key file to easily identify it. Normally an email address is used as the comment, but use whatever works best for your infrastructure.
+- `-C "fy21@rice.edu"`: a comment appended to the end of the public key file to easily identify it. Normally an email address is used as the comment, but use whatever works best for your infrastructure.
 
 ```bash
 $ ls -l ~/.ssh
