@@ -26,13 +26,16 @@ $ ssh -p 22 -X user@hostname
 ## Create SSH keys
 To create the keys, a preferred command is `ssh-keygen`. And `ssh-keygen` asks a series of questions and then writes **_a private key_** and **_a matching public key_**.
 
-SSH keys are by default kept in the `~/.ssh` directory. If you do not have a `~/.ssh` directory, the `ssh-keygen` command creates it for you with the correct permissions. If an SSH key pair exists in the current location, those files are overwritten.
-
 ::::{margin} About Passphrase:
 :::{toggle}
 One of the questions is about **_"Enter passphrase (empty for no passphrase)"_**, and I chosse empty.
 :::
 ::::
+
+
+SSH keys are by default kept in the `~/.ssh` directory. If you do not have a `~/.ssh` directory, the `ssh-keygen` command creates it for you with the correct permissions. If an SSH key pair exists in the current location, those files are overwritten.
+
+
 
 
 The following ssh-keygen command generates SSH RSA public and private key files by default in the `~/.ssh` directory.
