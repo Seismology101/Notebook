@@ -6,14 +6,14 @@
 The following commands are used to log in to the server over SSH
 
 ```bash
-ssh user@hostname
+$ ssh user@hostname
 ```
 
 By default, SSH connects to port `22` of the server
 
 
 ```bash
-ssh -p 22 -X user@hostname
+$ ssh -p 22 -X user@hostname
 ```
 
 - `-p`: specifies the server port that the SSH client connects to
