@@ -83,10 +83,12 @@ $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 
 
 ## Configure SSH config file
+
 - `Host`: the alias name.
 - `HostName`: specifies the domain name or IP address.
-- `Port`: indicates the SSH server Port that the specified client connects to.
+- `User`: specify the account name for remote login.
 - `IdentityFile`: specifies the private key file.
+- `Port`: indicates the SSH server Port that the specified client connects to.
 
 
 My `~/.ssh/config` configuration
