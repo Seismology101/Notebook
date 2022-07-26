@@ -1,6 +1,10 @@
 # SSH
 
 
+SSH (Secure Shell) is a network protocol that encrypts communication between two computers and supports various authentication mechanisms.
+
+In practice, it is mainly used to ensure the security of remote login and remote communication. Any network service can be encrypted with this protocol.
+
 ## Basic usage
 
 Use the `-V` parameter to check the version number
