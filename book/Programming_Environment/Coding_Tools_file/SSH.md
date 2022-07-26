@@ -3,13 +3,13 @@
 
 ## Basic usage
 
-The following commands are used to log in to the server over SSH
+The following commands are used to log in to the server over `SSH`
 
 ```bash
 $ ssh user@hostname
 ```
 
-By default, SSH connects to port `22` of the server
+By default, `SSH` connects to port `22` of the server
 
 
 ```bash
