@@ -1,7 +1,11 @@
 # SSH
 
 
-## 2
+## Basic usage
+
+
+
+ssh user@hostname
 
 
 ## Create SSH keys
@@ -20,7 +24,7 @@ The following ssh-keygen command generates SSH RSA public and private key files 
 
 
 ```bash
-ssh-keygen -t rsa -C "fy21@rice.edu"
+$ ssh-keygen -t rsa -C "fy21@rice.edu"
 ```
 
 - `ssh-keygen`: the program used to create the keys
