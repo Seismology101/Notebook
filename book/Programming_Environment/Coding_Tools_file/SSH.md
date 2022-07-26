@@ -217,11 +217,9 @@ Host seislab2
 
 ## SSHFS
 
-Installing **SSHFS** on MAC requires installing FUSE and the SSHFS installation package. SSHFS depends on FUSE
+SSHFS is Secure Shell FileSystem, and it depends on FUSE on Mac. The [macFUSE](https://osxfuse.github.io/) allows you to extend macOS's native file handling capabilities via third-party file systems.
 
-[macFUSE](https://osxfuse.github.io/) allows you to extend macOS's native file handling capabilities via third-party file systems.
 
-Secure Shell FileSystem
 Mount a remote hard disk to the local Mac
 
 
