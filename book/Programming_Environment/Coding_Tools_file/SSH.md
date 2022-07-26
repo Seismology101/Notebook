@@ -62,8 +62,8 @@ OpenSSH comes with the ssh-copy-id command to automatically copy the public key 
 ```bash
 $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 ```
-
-
+::::
+:::::
 
 
 
