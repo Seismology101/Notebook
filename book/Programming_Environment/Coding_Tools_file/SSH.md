@@ -23,8 +23,6 @@ Host li
   Port 22
 
 
-
-
 #####################################
 # USTC -- Prof. Baoshan Wang's group
 #####################################
@@ -75,8 +73,6 @@ Host crust
   User yinf
   IdentityFile /Users/yinfu/.ssh/id_rsa
   Port 1015
-
-
 
 
 ########################################
