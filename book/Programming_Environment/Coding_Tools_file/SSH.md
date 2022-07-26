@@ -208,5 +208,5 @@ Host seislab2
 
 1. [地震"学"](https://seismo-learn.org/seismology101/best-practices/vscode/)
 1. [Wang doc](https://wangdoc.com/ssh/key.html)
-1. [Microsoft ssh manual](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-keys-detailed)
 1. [Liam blog](https://liam.page/2017/09/12/rescue-your-life-with-SSH-config-file/)
+1. [Microsoft ssh manual](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-keys-detailed)
