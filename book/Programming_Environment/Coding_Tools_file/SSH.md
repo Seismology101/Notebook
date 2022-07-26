@@ -4,8 +4,13 @@
 ## Basic usage
 
 
-
+```bash
 ssh user@hostname
+```
+
+
+
+
 
 
 ## Create SSH keys
