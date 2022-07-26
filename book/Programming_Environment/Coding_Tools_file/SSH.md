@@ -20,7 +20,7 @@ ssh-keygen = the program used to create the keys
 -t rsa = type of key to create, in this case in the RSA format
 -C "azureuser@myserver" = a comment appended to the end of the public key file to easily identify it. Normally an email address is used as the comment, but use whatever works best for your infrastructure.
 
-```vim
+```bash
 $ ls -l ~/.ssh
 total 32
 -rw-r--r--@ 1 yinfu  staff  1479 Jul 26 16:23 config
