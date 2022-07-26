@@ -17,7 +17,7 @@ One of the questions is about **_"Enter passphrase (empty for no passphrase)"_**
 
 
 The following ssh-keygen command generates SSH RSA public and private key files by default in the `~/.ssh` directory.
-The **public key** by default is `~/.ssh/id_rsa.pub`, and **private key** is `~/.ssh/id_rsa`
+
 
 ```bash
 ssh-keygen -t rsa -C "fy21@rice.edu"
@@ -39,6 +39,11 @@ total 32
 -rw-r--r--  1 yinfu  staff   567 Jul 20 22:53 id_rsa.pub
 -rw-------  1 yinfu  staff   749 Jul 20 23:02 known_hosts
 ```
+- config: the configuration file
+- id_rsa: the private key
+- id_rsa.pub: the public key
+- known_hosts: the public key's fingerprint of existing SSH servers
+
 
 ## Upload SSH keys
 
