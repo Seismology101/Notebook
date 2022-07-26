@@ -3,6 +3,14 @@
 
 ssh-keygen asks a series of questions and then writes a private key and a matching public key.
 SSH keys are by default kept in the ~/.ssh directory. If you do not have a ~/.ssh directory, the ssh-keygen command creates it for you with the correct permissions.
+
+```{margin} About Passphrase
+:::{note}
+Enter passphrase (empty for no passphrase)
+:::
+```
+
+
 The following ssh-keygen command generates 4096-bit SSH RSA public and private key files by default in the ~/.ssh directory. If an SSH key pair exists in the current location, those files are overwritten.
 ```bash
 ssh-keygen -t rsa -C "fy21@rice.edu"
