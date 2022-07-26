@@ -2,9 +2,9 @@
 1
 
 
-
-
-
+```bash
+ssh-keygen -t rsa -C "fy21@rice.edu"
+```
 
 
 **My `~/.ssh/config` configuration**
