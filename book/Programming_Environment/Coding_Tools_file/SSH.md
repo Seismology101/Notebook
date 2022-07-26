@@ -6,7 +6,7 @@ SSH keys are by default kept in the ~/.ssh directory. If you do not have a ~/.ss
 
 ::::{margin} About Passphrase
 :::{note}
-Enter passphrase (empty for no passphrase)
+One of the questions is about "Enter passphrase (empty for no passphrase)"
 :::
 ::::
 
