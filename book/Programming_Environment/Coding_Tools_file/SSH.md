@@ -223,7 +223,7 @@ SSHFS is Secure Shell FileSystem, and it can mount a remote hard disk to the loc
 - Download SSHFS, click the _X.dmg_ to install.
 
 
-It can be used after the installation is complete
+It can be used after the installation is complete, for example:
 
 ```bash
 $ sshfs -o follow_symlinks -p 1012 yinf@222.195.74.184:/ /Users/yf/share1/
