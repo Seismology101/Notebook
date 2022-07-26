@@ -39,6 +39,7 @@ total 32
 -rw-r--r--  1 yinfu  staff   567 Jul 20 22:53 id_rsa.pub
 -rw-------  1 yinfu  staff   749 Jul 20 23:02 known_hosts
 ```
+
 - config: the configuration file
 - id_rsa: the private key
 - id_rsa.pub: the public key
