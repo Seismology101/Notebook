@@ -40,10 +40,10 @@ total 32
 -rw-------  1 yinfu  staff   749 Jul 20 23:02 known_hosts
 ```
 
-- config: the configuration file
-- id_rsa: the private key
-- id_rsa.pub: the public key
-- known_hosts: the public key's fingerprint of existing SSH servers
+- `config`: the configuration file
+- `id_rsa`: the private key
+- `id_rsa.pub`: the public key
+- `known_hosts`: the public key's fingerprint of existing SSH servers
 
 
 ## Upload SSH keys
