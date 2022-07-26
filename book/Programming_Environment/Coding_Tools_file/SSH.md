@@ -1,5 +1,10 @@
 # SSH
-1
+
+
+
+
+
+## Create SSH keys
 
 ssh-keygen asks a series of questions and then writes a private key and a matching public key.
 SSH keys are by default kept in the ~/.ssh directory. If you do not have a ~/.ssh directory, the ssh-keygen command creates it for you with the correct permissions.
@@ -28,6 +33,12 @@ total 32
 -rw-r--r--  1 yinfu  staff   567 Jul 20 22:53 id_rsa.pub
 -rw-------  1 yinfu  staff   749 Jul 20 23:02 known_hosts
 ```
+
+
+
+
+
+## Configure SSH config file
 
 **My `~/.ssh/config` configuration**
 
