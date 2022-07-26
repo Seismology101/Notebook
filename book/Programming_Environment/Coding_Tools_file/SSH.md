@@ -42,7 +42,9 @@ total 32
 
 ## Upload SSH keys
 
-The user public key is stored in the `~/.ssh/authorized_keys` file on the server. Each public key occupies a line. If the file does not exist, you can manually create it. The permission of the `authorized_keys` file must be set to `644`, that is, only the file owner can write.
+The user public key is stored in the `~/.ssh/authorized_keys` file on the server. Each public key occupies a line. If the file does not exist, you can manually create it. 
+
+The permission of the `authorized_keys` file must be set to `644`, that is, only the file owner can write.
 
 
 :::::{tab-set}
