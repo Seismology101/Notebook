@@ -17,7 +17,7 @@ One of the questions is about **_"Enter passphrase (empty for no passphrase)"_**
 
 
 The following ssh-keygen command generates SSH RSA public and private key files by default in the `~/.ssh` directory.
-The public key by default is `~/.ssh/id_rsa.pub`, and private key is `~/.ssh/id_rsa`
+The **public key** by default is `~/.ssh/id_rsa.pub`, and **private key** is `~/.ssh/id_rsa`
 
 ```bash
 ssh-keygen -t rsa -C "fy21@rice.edu"
@@ -42,7 +42,7 @@ total 32
 
 ## Upload SSH keys
 
-
+OpenSSH specifies that the user public key is stored in the ~/.ssh/authorized_keys file on the server. The key must be stored in the ~/.ssh/authorized_keys file in the user's home directory as the user you want to log into the server. Adding the public key to this file is equivalent to uploading the public key to the server. Each public key occupies a line. If the file does not exist, you can manually create it
 
 
 
