@@ -84,7 +84,7 @@ $ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
 
 ## Configure SSH config file
 
-**My `~/.ssh/config` configuration**
+My `~/.ssh/config` configuration
 
 ::::{toggle}
 ```bash
