@@ -42,10 +42,11 @@ total 32
 
 ## Upload SSH keys
 
-OpenSSH specifies that the user public key is stored in the `~/.ssh/authorized_keys` file on the server. Adding the public key to this file is equivalent to uploading the public key to the server. Each public key occupies a line. If the file does not exist, you can manually create it.
+OpenSSH specifies that the user public key is stored in the `~/.ssh/authorized_keys` file on the server. Adding the public key to this file is equivalent to uploading the public key to the server. Each public key occupies a line. If the file does not exist, you can manually create it. The permission of the `authorized_keys` file must be set to `644`, that is, only the file owner can write.
 
 ```bash
 $ cat ~/.ssh/id_rsa.pub | ssh user@host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+$ chmod 644 ~/.ssh/authorized_keys
 ```
 
 
