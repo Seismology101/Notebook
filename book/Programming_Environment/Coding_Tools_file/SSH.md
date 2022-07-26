@@ -29,6 +29,8 @@ ssh-keygen -t rsa -C "fy21@rice.edu"
 
 - `-C "fy21@rice.edu"`: a comment appended to the end of the public key file to easily identify it. Normally an email address is used as the comment, but use whatever works best for your infrastructure.
 
+The `~/.ssh` directory has some personal key files and other files.
+
 ```bash
 $ ls -l ~/.ssh
 total 32
