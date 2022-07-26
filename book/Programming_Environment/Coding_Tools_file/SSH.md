@@ -214,6 +214,12 @@ Host seislab2
 ::::
 
 
+
+## SSHFS
+
+
+
+
 ## Reference
 
 1. [地震"学"](https://seismo-learn.org/seismology101/best-practices/vscode/)
