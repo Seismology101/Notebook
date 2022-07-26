@@ -217,8 +217,12 @@ Host seislab2
 
 ## SSHFS
 
+Mount a remote hard disk to the local Mac
 
 
+```bash
+sshfs -o follow_symlinks -p 1012 yinf@222.195.74.184:/ /Users/yf/share2/
+```
 
 ## Reference
 
