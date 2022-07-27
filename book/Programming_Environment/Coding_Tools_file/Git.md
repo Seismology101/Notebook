@@ -160,8 +160,8 @@ $ ssh -T git@github.com
 
 We can update the IP address manually or automatically
 
-:::::{tab-set}
-::::{tab-item} Manually update IP
+::::::{tab-set}
+:::::{tab-item} Manually update IP
 
 **Query the latest IP address of GitHub**
 
@@ -203,11 +203,11 @@ $ sudo killall -HUP mDNSResponder
 The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
 ```
 
-::::
+:::::
 
 
 
-::::{tab-item} Automatically update IP
+:::::{tab-item} Automatically update IP
 
 ::::{toggle}
 ```bash
@@ -275,8 +275,8 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 ```
 ::::
 
-::::
 :::::
+::::::
 
 
 ## Manual
