@@ -54,7 +54,7 @@ $ source ~/.zshrc
 $ git --version
 ```
 
-
+After the successful installation , we need to configure git.
 
 
 
