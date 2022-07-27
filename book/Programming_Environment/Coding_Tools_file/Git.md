@@ -391,7 +391,6 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 :color: info
 :icon: info
 
-
 The following error may occur when use `git push` with using an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
 
 ```bash
@@ -419,6 +418,11 @@ $ git config --global --unset http.proxy
 ### Getting a Git repository
 
 **Init Locally**
+
+:::{dropdown} Why git push with error? OpenSSL SSL_connect...
+:color: info
+:icon: info
+
 - Initializes a local repository and make some commit as following:
 
 ```bash
@@ -447,6 +451,8 @@ $ git remote -v
 # if you want to remove the current repository address 
 $ git remote rm origin
 ```
+:::
+
 
 **Init Remotely**
 
