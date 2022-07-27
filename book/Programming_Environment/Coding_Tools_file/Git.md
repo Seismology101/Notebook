@@ -543,7 +543,6 @@ $ git switch main   # or: git checkout main
 
 
 - Delete a branch
-
 ```bash
 # delete a local branch
 $ git branch -d <branch-name>
@@ -552,10 +551,16 @@ $ git branch -d <branch-name>
 $ git push origin --delete <branch-name>
 ```
 
-- 
-
+- Compare 2 branches
 ```bash
+# show a file list with difference between 2 branches
+$ git diff branch1 branch2 --stat
 
+# show detailed differences for the specified file
+$ git diff branch1 branch2 /path/to/file
+
+# 显示出所有有差异的文件的详细差异
+$ git diff branch1 branch2
 ```
 
 - 
