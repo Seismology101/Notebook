@@ -172,6 +172,7 @@ usually query the following four domain names in [ipaddress](https://ipaddress.c
 > assets-cdn.github.com
 > codeload.github.com
 ```
+
 Or you can connect the IP address with the ipaddress website to query directly:
 
 - [github.global.ssl.fastly.net.ipaddress.com/](http://github.global.ssl.fastly.net.ipaddress.com/)
