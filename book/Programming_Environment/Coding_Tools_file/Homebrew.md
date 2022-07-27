@@ -19,15 +19,6 @@
 
 ---
 
-## My brew list
-|        Name       |       Purpose       |
-|    ------------   |    -------------    |
-| `git`            | ...   |
-| `zsh`            | ...   |
-| `pfetch`            | ...   |
-| `neofetch`            | ...   |
-| `ncurses`            | I forget...   |
-| ``            | ...   |
 
 
 
@@ -213,6 +204,15 @@ Look through https://formulae.brew.sh/ to check useful package.
 
 
 
+## My brew list
+|        Name       |       Purpose       |
+|    ------------   |    -------------    |
+| `git`            | ...   |
+| `zsh`            | ...   |
+| `pfetch`            | ...   |
+| `neofetch`            | ...   |
+| `ncurses`            | I forget...   |
+| ``            | ...   |
 
 
 
