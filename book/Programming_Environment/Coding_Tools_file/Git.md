@@ -696,7 +696,7 @@ $ git add .gitignore
 $ git commit -m '.DS_Store banished!'
 ```
 
-- Clean the files recorded in .gitignore
+- Clean the files recorded in `.gitignore`
 ```bash
 $ git clean -X -f
 ```
