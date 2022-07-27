@@ -64,7 +64,6 @@ After the successful installation , we need to configure git.
 The Git configuration file for each repository is stored in `.git/config` file in each repository. But the current user's Git configuration file is stored in `~/.gitconfig` file. When configuring Git, add `--global` to apply to the current user, and if not, it applies only to the current repository.
 :::
 
-
 **`username and email`**
 
 ```bash
