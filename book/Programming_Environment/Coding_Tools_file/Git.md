@@ -591,7 +591,7 @@ $ git pull
 `git pull` = `git fetch` + `git merge`, and `git fetch` will only pull remote code to local repo and do not merge it.
 :::
 
-### Add a Tag
+### tag
 
 - 
 
@@ -600,7 +600,7 @@ $ git pull
 ```
 
 
-### Git Log
+### log
 
 - 
 
@@ -608,7 +608,7 @@ $ git pull
 
 ```
 
-### Delete Files
+### delete files
 
 
 - 
