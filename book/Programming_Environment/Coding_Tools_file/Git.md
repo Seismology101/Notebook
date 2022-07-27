@@ -654,7 +654,7 @@ $ git commit -m "remove test.txt"
 
 
 
-- 
+- delete untracked files from `.gitignore` 
 
 ```bash
 
