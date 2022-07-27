@@ -311,7 +311,7 @@ if __name__ == '__main__':
 `sudo` permission is required to modify `/etc/hosts`. Make sure to back up the original `/etc/hosts`. The script will update the content between the line from `# GitHub520 Host Start` to `# GitHub520 Host End`, without deleting or modifying anything else.
 :::
 
-The following is an example of modifying the `/etc/hosts` file:
+The following is an example of a modified `/etc/hosts` file:
 
 ::::{toggle}
 ```bash
