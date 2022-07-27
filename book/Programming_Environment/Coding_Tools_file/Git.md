@@ -706,6 +706,19 @@ $ git clean -X -f
 
 ::::
 
+### figure
+- Link from [git-tips](https://github.com/521xueweihan/git-tips) project.
+
+![](https://github.com/521xueweihan/git-tips/blob/master/assets/git.png?raw=true)
+
+
+
+
 
 
 ## Reference
+1. [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600/900375748016320) **_推荐_**
+1. [Git 奇技淫巧](https://github.com/521xueweihan/git-tipss)  **_推荐_**
+1. [Git 菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
+1. [Git 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
+1. [Git 简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
