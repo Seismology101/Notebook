@@ -181,7 +181,7 @@ Or you can connect the IP address with the ipaddress website to query directly:
 - [codeload.github.com.ipaddress.com/](http://codeload.github.com.ipaddress.com/)
 
 
-**Change the local hosts file**
+**Change the `/etc/hosts` file**
 
 After querying the IP, map the IP with the website address, and add the mapping relationship to the `/etc/hosts` file with `sudo` permission. For example:
 ```bash
@@ -193,7 +193,11 @@ $ vim /etc/hosts
 140.82.114.9 codeload.Github.com
 ```
 
+**Refresh the `/etc/hosts` file**
 
+```bash
+$ sudo killall -HUP mDNSResponder
+```
 ::::
 
 
