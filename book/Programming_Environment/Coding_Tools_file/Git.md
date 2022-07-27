@@ -163,7 +163,12 @@ We can update the IP address manually or automatically
 :::::{tab-set}
 ::::{tab-item} Manually update IP
 
-1
+
+
+
+
+
+
 ::::
 
 
