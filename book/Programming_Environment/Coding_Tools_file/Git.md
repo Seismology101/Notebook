@@ -167,7 +167,7 @@ We can update the IP address manually or automatically
 
 s
 
-
+**Change the local hosts file**
 
 ::::
 
