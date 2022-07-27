@@ -11,7 +11,9 @@
 
 **Linus** created open source system Linux in 1991. In 2005, **Linus** spent two weeks writing a distributed version control system in C language to manage the Linux system's source code. **Github** was founded in April 2008 by Chris Wanstrath, PJ Hyett, and Tom Preston-Werner to host versions based on Git. 
 
-And now, paying users can build private repositories, free users can only use public repositories (or private repositories with up to 3 developers). Git consists of three parts: `Working Directory`(工作区), `Index`(暂存区) and `Repository`(版本库):
+And now, paying users can build private repositories, free users can only use public repositories (or private repositories with up to 3 developers). 
+
+Git consists of three parts: `Working Directory`(工作区), `Index`(暂存区) and `Repository`(版本库):
 
 - `Working Directory`: the directory that you can see on your computer
 - `Index`: also called `Stage`, it is usually stored in the `.git/index` file.
