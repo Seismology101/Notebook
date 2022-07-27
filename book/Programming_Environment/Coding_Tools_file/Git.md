@@ -531,8 +531,14 @@ $ git remote add origin <server>
 - Create a new branch and switch to it
 
 ```bash
-$ git switch -c feature_x
-# or: git checkout -b feature_x   
+# new branch's name is feature
+$ git switch -c feature_x   # or: git checkout -b feature_x 
+ 
+# create the dev branch of the remote origin to the local
+$ git checkout -b dev origin/dev
+
+# switch to main branch
+$ git switch main   # or: git checkout main
 ```
 
 
