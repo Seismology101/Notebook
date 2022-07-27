@@ -549,7 +549,7 @@ $ git switch main   # or: git checkout main
 $ git branch -d <branch-name>
 
 # delete a remote branch
-$ git push origin --delete <branch>
+$ git push origin --delete <branch-name>
 ```
 
 - 
