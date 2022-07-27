@@ -510,6 +510,20 @@ $ git add .
 $ git commit -m "your comment"
 ```
 
+- Push the last changes in `Repository` to the `Remote Repository` in github.
+
+
+```bash
+$ git push origin main
+```
+
+If you need to connect your local repository to a remote repository, use the following command
+
+```bash
+$ git remote add origin <server>
+```
+
+
 
 ### Branch and Merge
 
