@@ -56,7 +56,7 @@ $ git --version
 
 After the successful installation , we need to configure git.
 
-**`username`** and **`email`**
+**`username and email`**
 
 
 **`color ui`**
