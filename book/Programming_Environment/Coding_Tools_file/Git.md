@@ -511,7 +511,7 @@ $ git add .
 $ git commit -m "your comment"
 ```
 
-- Push the last changes in the local `Repository` to the `Remote Repository` in github.
+- Push the last changes in the `Local Repository` to the `Remote Repository` in github.
 
 
 ```bash
