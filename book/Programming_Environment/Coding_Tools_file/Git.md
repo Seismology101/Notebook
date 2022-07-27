@@ -466,9 +466,10 @@ $ git clone git@github.com:your_Github_name/reop_name.git
 
 If your code needs to use other package, which is located on GitHub. You need to use `git` to initialize and update. `git submodule init xxx` will download those code provided by `.gitmodules` file to fill `.git/config`.
 
+::::{toggle}
 For example a `.gitmodules` file contains three submodules to use:
 
-
+::::
 
 
 ### Add and Commit
