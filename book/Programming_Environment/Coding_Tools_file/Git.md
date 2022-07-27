@@ -419,7 +419,7 @@ $ git config --global --unset http.proxy
 
 **Init Locally**
 
-:::{dropdown} Init locally is not recommended.
+:::{dropdown} Check that init locally is not recommended.
 :color: info
 :icon: info
 
