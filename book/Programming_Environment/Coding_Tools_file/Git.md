@@ -24,7 +24,7 @@ Git consists of three parts: `Working Directory`(工作区), `Index`(暂存区) 
 - `Repository`: the workspace has a hidden directory, the `.git`, which is the repository. It usually consists of a `branch` and `Head`, with the `Head` pointing to the result of your last submission.
 
 
-**GitHub** is the single largest host for **Git** repositories, and we can host Git repositories on GitHub. The interaction between Git and Github is showing [figure](git-1) below:
+**GitHub** is the single largest host for **Git** repositories, and we can host Git repositories on GitHub. The interaction between Git and Github is showing in [figure](git-1) below:
 
 ```{figure} ./img/Git-Github-1.jpeg
 ---
