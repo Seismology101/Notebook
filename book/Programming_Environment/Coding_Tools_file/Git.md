@@ -593,8 +593,6 @@ $ git pull
 
 ### tag
 
-- 
-
 ```bash
 # tag the current branch with v1.0
 $ git tag v1.0
