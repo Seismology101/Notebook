@@ -665,6 +665,11 @@ $ git clean -fd
 
 # ? cautious
 $ git clean -xfd
+
+# it is highly recommended to add the '-n' parameter to see which files will be deleted first to prevent the deletion of important files by mistake
+$ git clean -nxfd
+$ git clean -nf
+$ git clean -nfd
 ```
 
 
