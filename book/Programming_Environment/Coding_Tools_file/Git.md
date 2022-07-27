@@ -628,8 +628,6 @@ $ git push origin :refs/tags/v0.9
 
 ### log
 
-- 
-
 ```bash
 $ git log --graph --pretty=oneline --abbrev-commit
 $ git log --pretty=oneline --abbrev-commit
@@ -641,18 +639,17 @@ $ git log -1
 
 ### delete files
 
-- 
+- delete one file
 
 ```bash
-# 要从版本库中删除该文件，那就用命令 'git rm' 删掉，并且 'git commit'
+# delete test.txt from repo and commit
 $ git rm test.txt
 $ git commit -m "remove test.txt"
 
-# 还可以直接删除，然后 'git add' 和 'git commit'
+# use 'rm' delete，then 'git add' and 'git commit'
 $ rm text.txt
 $ git add .
 $ git commit -m "remove test.txt"
-
 ```
 
 
