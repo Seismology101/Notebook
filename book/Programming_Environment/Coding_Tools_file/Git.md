@@ -79,7 +79,7 @@ $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Cre
 ```
 
 **`master to main`**
-:::{dropdown} Do you know why change master to main ?
+:::{dropdown} Why change master to main ?
 :color: info
 :icon: info
 After 2020-10-01, the default branch of the GitHub repository will change to main (a neutral word) instead of master (because master is associated with master hierarchy and slavery), but will not affect all existing repositories. But notice that Git's default branch is still the master. So be careful to keep the default branch names the same. It is recommended to change the local Git's default branch from master to main. 
