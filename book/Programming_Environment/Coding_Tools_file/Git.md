@@ -20,7 +20,7 @@ And now, paying users can build private repositories, free users can only use pu
 Git consists of three parts: `Working Directory`(工作区), `Index`(暂存区) and `Repository`(版本库):
 
 - `Working Directory`: the directory that you can see on your computer
-- `Index`: also called `Stage`, it is usually stored in the `.git/index` file.
+- `Index`: also called the `Stage`, it is usually stored in the `.git/index` file.
 - `Repository`: the workspace has a hidden directory, the `.git`, which is the repository. It usually consists of a `branch` and `Head`, with the `Head` pointing to the result of your last submission.
 
 
