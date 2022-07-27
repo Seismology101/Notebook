@@ -426,7 +426,11 @@ $ git init
 $ git add .
 $ git commit -m 'first commit'
 ```
+Add a remote repository to keep synchronization with the local repository. Firstly create an empty repository in GitHub, then associate the remote repository with the local repository as following, `origin` is the name of the remote repository, can be replaced arbitrarily:
 
+```bash
+$ git remote add origin git@github.com:your_Github_name/reop_name.git
+```
 
 
 
