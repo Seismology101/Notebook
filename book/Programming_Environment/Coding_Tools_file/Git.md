@@ -587,7 +587,9 @@ $ git branch --set-upstream-to=origin/dev dev
 # pull code
 $ git pull
 ```
-
+:::{note}
+`git pull` = `git fetch` + `git merge`, and `git fetch` will only pull remote code to local repo and do not merge it.
+:::
 
 ### Add a Tag
 
