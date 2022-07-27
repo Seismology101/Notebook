@@ -387,7 +387,7 @@ The following is an example of a modified `/etc/hosts` file:
 The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
 ```
 
-:::{dropdown} Why git push with error? Push failed... OpenSSL SSL_connect...
+:::{dropdown} Why git push with error? OpenSSL SSL_connect...
 :color: info
 :icon: info
 
