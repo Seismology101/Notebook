@@ -419,7 +419,7 @@ $ git config --global --unset http.proxy
 
 **Init Locally**
 
-:::{dropdown} Why git push with error? OpenSSL SSL_connect...
+:::{dropdown} Init locally is not recommended.
 :color: info
 :icon: info
 
