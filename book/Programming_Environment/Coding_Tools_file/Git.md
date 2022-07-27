@@ -87,6 +87,7 @@ $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Cre
 ```bash
 $ git config --global init.defaultBranch main
 ```
+
 :::{dropdown} Why change master to main ?
 :color: info
 :icon: info
