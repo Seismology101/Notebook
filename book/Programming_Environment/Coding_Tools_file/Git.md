@@ -468,7 +468,20 @@ If your code needs to use other package, which is located on GitHub. You need to
 
 ::::{toggle}
 For example a `.gitmodules` file contains three submodules to use:
-
+```bash
+[submodule "pygments-style-algforopt"]
+    path = style
+    url = https://github.com/sisl/pygments-style-algforopt.git
+    branch = master
+[submodule "pygments-julia"]
+    path = lexer
+    url = https://github.com/sisl/pygments-julia.git
+    branch = master
+[submodule "juliaplots.sty"]
+    path = juliaplots.sty
+    url = https://github.com/sisl/juliaplots.sty.git
+    branch = master
+```
 ::::
 
 
