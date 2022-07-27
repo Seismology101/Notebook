@@ -497,7 +497,7 @@ $ git submodule update
 ::::
 
 
-### Add and Commit
+### Add Commit and Push
 - Add changes to the local repository.
  
 ```bash
