@@ -507,6 +507,9 @@ $ git add <filename>
 # Add all changes at once
 $ git add .
 
+# check status
+$ git status
+
 # Add the changes from Index to local Repository
 $ git commit -m "your comment"
 ```
