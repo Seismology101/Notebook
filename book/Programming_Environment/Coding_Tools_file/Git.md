@@ -54,6 +54,8 @@ $ source ~/.zshrc
 $ git --version
 ```
 
+---
+
 After the successful installation , we need to configure git.
 
 :::{dropdown} Do you know the meaning of _git config --global_ ?
@@ -104,6 +106,7 @@ $ git push -u origin main
 ```
 :::
 
+---
 
 My complete `~/.gitconfig` file showing below:
 ::::{toggle}
