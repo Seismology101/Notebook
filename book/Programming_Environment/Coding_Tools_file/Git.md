@@ -164,9 +164,13 @@ We can update the IP address manually or automatically
 ::::{tab-item} Manually update IP address
 
 1
+::::
+
+
 
 ::::{tab-item} Automatically update IP address
 q
+::::
 :::::
 
 
