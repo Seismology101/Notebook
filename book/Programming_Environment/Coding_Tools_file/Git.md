@@ -87,7 +87,6 @@ After 2020-10-01, the default branch of the GitHub repository will change to mai
 
 - Manually modify the ~/.gitconfig file and set defaultBranch = main. Or use the git config command, git version &gt; V2.28:
 
-
 ```bash
 $ git config --global init.defaultBranch main
 ```
