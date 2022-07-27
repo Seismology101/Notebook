@@ -498,7 +498,8 @@ $ git submodule update
 
 
 ### Add and Commit
-
+- Add changes to the local repository.
+ 
 ```bash
 # Add the changes to the Index
 $ git add <filename>
