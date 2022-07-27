@@ -65,12 +65,18 @@ The Git configuration file for each repository is stored in `.git/config` file i
 
 **`username and email`**
 
+```bash
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+```
+**`color ui and git log`**
+```bash
+# let Git show different colors
+$ git config --global color.ui true
 
-**`color ui`**
-
-
-**`git log`**
-
+# configure log command --> git lg
+$ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
 
 **`master to main`**
 
