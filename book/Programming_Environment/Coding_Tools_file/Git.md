@@ -419,6 +419,16 @@ $ git config --global --unset http.proxy
 ### Getting a Git repository
 
 **Init Locally**
+Creating a local repository
+
+```bash
+$ git init
+$ git add .
+$ git commit -m 'first commit'
+```
+
+
+
 
 
 **Init Remotely**
