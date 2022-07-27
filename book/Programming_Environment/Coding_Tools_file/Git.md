@@ -160,6 +160,14 @@ $ ssh -T git@github.com
 
 
 
+:::::{tab-set}
+::::{tab-item} Manually update IP address
+
+1
+
+::::{tab-item}
+q
+:::::
 
 
 ## Manual
