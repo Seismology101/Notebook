@@ -436,7 +436,7 @@ $ git remote add origin git@github.com:your_github_name/repo_name.git
 git push -u origin main
 ```
 
-Now the following commands can be used:
+- Now the following commands can be used:
 ```bash
 # git push
 $ git push origin main 
