@@ -95,7 +95,7 @@ $ git config --global init.defaultBranch main
 # With the '-m' option, you can change the branch name without affecting the git commit history from master to main.
 $ git branch -m master main
 
-# 但上述变更只是本地的，需要同步到远端。
+# the above changes are only local and need to be synchronized to the remote.
 $ git push -u origin main
 ```
 
