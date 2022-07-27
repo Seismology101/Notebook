@@ -416,5 +416,30 @@ $ git config --global --unset http.proxy
 
 
 
+### Getting a Git repository
+
+
+### Add and Commit
+
+
+
+
+### Branch and Merge
+
+
+
+
+### Push to Remote
+
+
+### Add a Tag
+
+
+### Git Log
+
+
+
+### Delete Files
+
 
 ## Reference
