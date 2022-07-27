@@ -562,10 +562,13 @@ $ git diff branch1 branch2 /path/to/file
 $ git diff branch1 branch2
 ```
 
-- 
-
+- Merge 2 branches
 ```bash
+# merge the contents of the dev branch under the main branch
+$ git merge dev
 
+# the '--no-ff' option disables fast-forward mode, and '-m' records the merge as a commit
+$ git merge --no-ff -m "merge dev --add new blog-1" dev
 ```
 
 
