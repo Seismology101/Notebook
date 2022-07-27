@@ -433,7 +433,7 @@ $ git remote add origin git@github.com:your_github_name/repo_name.git
 ```
 - Since the remote library is empty, the first time we push the `main` branch, we should add the `-u` parameter. Git will not only push the contents of the local main branch to the new remote main branch, but also associate the local main branch with the remote main branch, which can simplify the command in the future when use `git push` or `git pull`
 ```bash
-git push -u origin main
+$ git push -u origin main
 ```
 
 - Now the following commands can be used:
