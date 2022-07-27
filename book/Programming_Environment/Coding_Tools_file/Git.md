@@ -80,6 +80,7 @@ $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Cre
 
 **`master to main`**
 
+After 2020-10-01, the default branch of the GitHub library will change to main(neutral word) instead of master(because master is associated with master hierarchy and slavery), but will not affect all existing libraries. But notice that Git's default branch is still the master. So be careful to keep the default branch names the same. It is recommended to change the local Git master to main. Manually modify the ~/.gitconfig file and set defaultBranch = main. Or use the git config command, git version &gt; V2.28:
 
 
 ## Github IP in China
