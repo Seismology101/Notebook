@@ -209,12 +209,17 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 
 :::::{tab-item} Automatically update IP
 
+
+
+
+
+
 ::::{toggle}
 ```python
 """
 Created on Tue Feb 22 20:51:03 2022
 
-@author: yf
+@author: yinfu
 """
 
 """
