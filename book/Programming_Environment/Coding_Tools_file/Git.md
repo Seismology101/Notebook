@@ -578,7 +578,7 @@ $ git merge --no-ff -m "merge dev --add new blog-1" dev
 
 ### pull = fetch + merge
 
-- If the team is developing on the Dev branch and a teammate commits a new commit on dev, we need to pull the commit from GitHub to our local dev branch before developing
+- If the team is developing on the `dev branch` and a teammate commits a new commit to `dev`, we need to `pull` the commit from GitHub to our local `dev branch` before developing
 
 ```bash
 
