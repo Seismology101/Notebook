@@ -11,9 +11,9 @@
 :::{dropdown} Do you know git history?
 :color: info
 :icon: info
-**Linus** created open source system Linux in 1991. In 2005, **Linus** spent two weeks writing a distributed version control system in C language to manage the Linux system's source code. **Github** was founded in April 2008 by Chris Wanstrath, PJ Hyett, and Tom Preston-Werner to host versions based on Git. 
+**Linus** created open source system Linux in 1991. In 2005, **Linus** spent two weeks writing a distributed version control system in C language to manage the Linux system's source code. **Github** was founded in April 2008 by Chris Wanstrath, PJ Hyett, and Tom Preston-Werner to host versions based on **Git**. 
 
-And now, paying users can build private repositories, free users can only use public repositories (or private repositories with up to 3 developers). 
+And now, **paying users** can build private repositories, **free users** can only use public repositories (or private repositories with up to 3 developers). 
 :::
 
 
