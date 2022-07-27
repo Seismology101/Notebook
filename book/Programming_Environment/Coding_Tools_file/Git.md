@@ -677,7 +677,7 @@ $ git clean -nfd
 
 
 
-### Remove all '.DS_Store' files
+### remove all '.DS_Store' files
 - We need to remove those `.DS_Store` files from the directory which already added to git. Use the following command which will go through all the folders in your directory, and remove those files from git.
 
 ```bash
