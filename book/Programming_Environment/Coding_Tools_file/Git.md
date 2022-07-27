@@ -183,7 +183,7 @@ Or you can connect the IP address with the ipaddress website to query directly:
 
 **Change the local hosts file**
 
-After querying the IP, map the IP with the website address, write the mapping relationship to the `/etc/hosts` file with `sudo` permission. For example:
+After querying the IP, map the IP with the website address, and write the mapping relationship to the `/etc/hosts` file with `sudo` permission. For example:
 ```bash
 $ vim /etc/hosts
 # mapping format:  [ip] [domainName]
