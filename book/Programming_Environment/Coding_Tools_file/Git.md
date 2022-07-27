@@ -418,6 +418,14 @@ $ git config --global --unset http.proxy
 
 ### Getting a Git repository
 
+**Init Locally**
+
+
+**Init Remotely**
+
+
+**Init Submodule**
+
 
 ### Add and Commit
 
