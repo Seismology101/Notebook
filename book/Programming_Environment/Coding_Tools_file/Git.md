@@ -149,12 +149,14 @@ $ ssh -T git@github.com
 ## Github IP in China
 
 
-:::{dropdown} Why is it so hard to access GitHub webpage in China ?
+:::{dropdown} Why is it so hard to access GitHub domain in China ?
 :color: info
 :icon: info
-- 
+- `Github` is not blocked in China, but due to the contamination of `DNS resolution`, the access to Github domain is unusually slow in China. If domain name resolution points directly to the `IP address of GitHub`, so the DNS resolution is bypassed, therefore the access to GitHub is accelerated.
 
-- 
+- Therefore, there is some organization specialized in analyzing and maintaining the IP address of GitHub. You can query the IPaddress of the website by viewing the IP address of GitHub in real time. Add the obtained IP address to the /etc/hosts file and refresh source ~/.zshrc.
+
+
 
 
 :::
