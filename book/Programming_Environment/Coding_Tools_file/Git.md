@@ -57,7 +57,7 @@ $ git --version
 After the successful installation , we need to configure git.
 
 :::{note}
-
+The Git configuration file for each repository is stored in `.git/config` file in each repository. But the current user's Git configuration file is stored in `~/.gitconfig` file.
 :::
 
 
