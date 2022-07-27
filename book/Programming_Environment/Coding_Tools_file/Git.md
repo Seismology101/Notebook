@@ -182,7 +182,7 @@ Or you can connect the IP address with the ipaddress website to query directly:
 
 
 **Change the local hosts file**
-After querying the IP, map the IP with the website address, write the mapping relationship to the `/etc/hosts` file
+After querying the IP, map the IP with the website address, write the mapping relationship to the `/etc/hosts` file with `sudo` permission.
 
 
 
