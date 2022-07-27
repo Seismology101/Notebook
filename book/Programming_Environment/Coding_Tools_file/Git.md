@@ -517,7 +517,7 @@ $ git commit -m "your comment"
 $ git push origin main
 ```
 
-If you need to connect your local repository to a remote repository, use the following command
+- If you need to connect your local repository to a remote repository, use the following command
 
 ```bash
 $ git remote add origin <server>
