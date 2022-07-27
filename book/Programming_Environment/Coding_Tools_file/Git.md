@@ -675,4 +675,11 @@ $ git clean -nf
 $ git clean -nfd
 ```
 
+
+
+- remove all '.DS_Store' files
+```bash
+
+```
+
 ## Reference
