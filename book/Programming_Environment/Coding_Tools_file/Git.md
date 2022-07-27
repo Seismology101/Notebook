@@ -450,7 +450,7 @@ $ git remote rm origin
 
 **Init Remotely**
 
-Assuming you have created a remote repository on GitHub, you can use `ssh` (`ssh` is fast in China, but `https` is also available) to `git clone`
+- Assuming you have created a remote repository on GitHub, you can use `ssh` (`ssh` is fast in China, but `https` is also available) to `git clone`
 
 ```bash
 $ git clone git@github.com:your_Github_name/reop_name.git
