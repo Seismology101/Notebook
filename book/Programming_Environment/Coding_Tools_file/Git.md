@@ -394,6 +394,7 @@ Push failed: Failed with error: unable to access 'https://github.com/weidongcao/
 OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
 ```
 
+Git supports three network protocols: `git://...`, `ssh://...`, and `http://...`. The SSH tunnel is supposed to be used for push. However, if the HTTP proxy is set, the HTTP proxy is used. Therefore, the above error occurs. The solution is to cancel the HTTP proxy and type in the Github project in the local root directory:
 
 ## Manual
 
