@@ -641,6 +641,29 @@ $ git log -1
 
 ### delete files
 
+- 
+
+```bash
+# 要从版本库中删除该文件，那就用命令 'git rm' 删掉，并且 'git commit'
+$ git rm test.txt
+$ git commit -m "remove test.txt"
+
+# 还可以直接删除，然后 'git add' 和 'git commit'
+$ rm text.txt
+$ git add .
+$ git commit -m "remove test.txt"
+
+```
+
+
+
+- 
+
+```bash
+
+```
+
+
 
 - 
 
