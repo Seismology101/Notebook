@@ -307,6 +307,7 @@ if __name__ == '__main__':
 ```
 ::::
 
+The following is an example of modifying the `/etc/hosts` file:
 
 ::::{toggle}
 ```bash
