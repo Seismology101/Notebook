@@ -38,7 +38,7 @@ Project and Github
 
 ## Install
 
-MacOS uses Xcode's `Command Line Tools` to install Git in `/usr/bin/git` directory. However, Xcode usually comes with a lower version of Git, so you need brew to upgrade.
+MacOS uses **Xcode's** `Command Line Tools` to install Git in `/usr/bin/git` directory. However, Xcode usually comes with a lower version of Git, so you need **brew** to upgrade.
 
 
 
