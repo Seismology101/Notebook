@@ -105,6 +105,22 @@ $ git push -u origin main
 :::
 
 
+My complete `~/.gitconfig` file showing below:
+::::{toggle}
+```bash
+[user]
+	name = OUCyf
+	email = fy21@rice.edu
+[color]
+	ui = true
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[init]
+	defaultBranch = main
+```
+::::
+
+
 ## SSH keys for Github
 
 Imagine the scenario that you have a remote repository on GitHub, and one computer at home and one computer at the office all be needed to submit codes using SSH keys, and both the SSH public keys are needed to be stored in the `GitHub Setting`.
