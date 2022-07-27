@@ -415,7 +415,7 @@ $ git config --global --unset http.proxy
 
 
 
-### Getting a Git repository
+### creating a repository
 
 **Init Locally**
 
@@ -497,7 +497,7 @@ $ git submodule update
 ::::
 
 
-### Add Commit and Push
+### add, commit and push
 - Add changes to the local repository.
  
 ```bash
@@ -526,7 +526,7 @@ $ git remote add origin <server>
 
 
 
-### Branch and Merge
+### branch, merge and diff
 
 - Create a new branch and switch to it
 ```bash
