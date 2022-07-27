@@ -506,9 +506,8 @@ $ git add <filename>
 # Add all changes at once
 $ git add .
 
-# 这是 git 基本工作流程的第一步；使用如下命令以实际提交改动：
-$ git commit -m "代码提交信息"
-# 现在，你的改动已经提交到了 HEAD，但是还没提交到你的远端仓库
+# Add the changes from Index to local Repository
+$ git commit -m "comment"
 ```
 
 
