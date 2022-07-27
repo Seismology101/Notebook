@@ -199,9 +199,7 @@ $ vim /etc/hosts
 $ sudo killall -HUP mDNSResponder
 ```
 
-```{note}
-The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
-```
+
 
 :::::
 
@@ -382,6 +380,12 @@ The following is an example of a modified `/etc/hosts` file:
 :::::
 ::::::
 
+
+
+
+```{note}
+The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
+```
 
 The following error may occur when Git Push is set with an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
 
