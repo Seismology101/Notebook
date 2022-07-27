@@ -165,7 +165,10 @@ We can update the IP address manually or automatically
 
 **Query the latest IP address of GitHub**
 
-s
+usually query the following four domain names in ipaddress website.
+
+
+
 
 **Change the local hosts file**
 
