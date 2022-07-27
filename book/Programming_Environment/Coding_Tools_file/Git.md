@@ -38,6 +38,14 @@ Project and Github
 
 ## Install
 
+MacOS uses Xcode's `Command Line Tools` to install Git in `/usr/bin/git` directory.
+
+
+
+
+
+
+
 
 
 ## Github IP in China
