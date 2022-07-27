@@ -109,7 +109,14 @@ $ git push -u origin main
 
 Imagine the scenario that you have a remote repository on GitHub, and one computer at home and one computer at the office all be needed to submit codes using SSH keys, and both the SSH public keys need to be stored in the GitHub Setting.
 
-
+```{figure} ./img/Git-Github-2.jpeg
+---
+scale: 100%
+align: center
+name: git-1
+---
+Project and Github
+```
 
 ## Github IP in China
 
