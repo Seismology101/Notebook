@@ -166,9 +166,12 @@ We can update the IP address manually or automatically
 **Query the latest IP address of GitHub**
 
 usually query the following four domain names in [ipaddress](https://ipaddress.com/website/www.github.com) website.
-
-
-
+```bash
+> github.com
+> github.global.ssl.fastly.net
+> assets-cdn.github.com
+> codeload.github.com
+```
 
 **Change the local hosts file**
 
