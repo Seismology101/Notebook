@@ -706,6 +706,56 @@ $ git clean -X -f
 
 ::::
 
+
+
+
+
+
+
+
+### 版本回退 (working...)
+
+:::{warning}
+最新版本的git已经使用git restore 代替了原来的reset和checkout命令了
+:::
+
+在 Git 中，用`HEAD`表示当前版本, 上一个版本是`HEAD^`，上上一个版本是`HEAD^^`，往上100个版本`HEAD~100`。但推荐使用`commit id`来退回版本：
+
+```bash
+# 退回到上一个版本
+$ git reset --hard HEAD^
+
+# 首先查看历史 commit 的 id
+$ git log
+
+# 例如发现 id 是 1094a，退回到该版本
+$ git reset --hard 1094a
+```
+
+
+:::{note}
+Git的版本回退速度非常快，因为Git在内部有个指向当前版本的HEAD指针，当你回退版本的时候，Git仅仅是把HEAD从指向append GPL
+:::
+
+现在退回到过去的版本了，想回到未来的版本：
+```bash
+# 要重返未来，用'git reflog'查看命令历史，以便确定要回到未来的哪个版本
+$ git reflog
+
+# 例如发现未来的 id 是 1094a，退回到该版本
+$ git reset --hard 1094a
+```
+
+### 撤销修改 (working...)
+:::{warning}
+需要替换成最新版本的 `git restore`
+:::
+
+```bash
+$ git checkout -- xx.txt 
+```
+
+
 ### figure
 - Link from [git-tips](https://github.com/521xueweihan/git-tips) project.
 
