@@ -419,19 +419,19 @@ $ git config --global --unset http.proxy
 ### Getting a Git repository
 
 **Init Locally**
-Initializes a local repository and make some commit as following:
+- Initializes a local repository and make some commit as following:
 
 ```bash
 $ git init
 $ git add .
 $ git commit -m 'first commit'
 ```
-Add a remote repository to keep synchronization with the local repository. Firstly create an empty repository in GitHub, then associate the remote repository with the local repository as following, `origin` is the name of the remote repository, can be replaced arbitrarily:
+- Create an empty repository in GitHub, then associate the remote repository with the local repository to keep synchronization as following, `origin` is the name of the remote repository, can be replaced arbitrarily:
 
 ```bash
-$ git remote add origin git@github.com:your_Github_name/reop_name.git
+$ git remote add origin git@github.com:your_github_name/repo_name.git
 ```
-
+Since the remote library is empty, the first time we push the main branch, we add the -u parameter. Git will not only push the contents of the local main branch to the new remote main branch, but also associate the local main branch with the remote main branch, which can simplify the command in the future push or pull
 
 
 
