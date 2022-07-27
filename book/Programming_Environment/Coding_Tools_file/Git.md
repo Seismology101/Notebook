@@ -90,10 +90,14 @@ After 2020-10-01, the default branch of the GitHub repository will change to mai
 ```bash
 $ git config --global init.defaultBranch main
 ```
+- It is not recommended  to change the default branch name for past projects. If you want to change the default branch name, you can rename it under the master default branch:
+```bash
+# With the '-m' option, you can change the branch name without affecting the git commit history from master to main.
+$ git branch -m master main
 
-
-
-
+# 但上述变更只是本地的，需要同步到远端。
+$ git push -u origin main
+```
 
 ## Github IP in China
 
