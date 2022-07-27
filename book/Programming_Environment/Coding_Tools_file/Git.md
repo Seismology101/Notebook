@@ -15,7 +15,7 @@ And now, paying users can build private repositories, free users can only use pu
 
 - `Working Directory`: the directory that you can see on your computer
 - `Index`: also called `Stage`, it is usually stored in the `.git/index` file.
-- `Repository`:
+- `Repository`: the workspace has a hidden directory, the `.git`, which is the repository. It usually consists of a `branch` and `Head`, with the `Head` pointing to the result of your last submission.
 
 
 
