@@ -464,7 +464,7 @@ $ git clone git@github.com:your_Github_name/reop_name.git
 
 **Init Submodule**
 
-- If your code needs to use other package, which is located on GitHub. You need to use `git` to initialize and update. `git submodule init xxx` will download some info provided by `.gitmodules` file to fill `.git/config`. Then use `git update` to clone those code. Here is an example.
+- If your code needs to use other package, which is located on GitHub. You need to use `git` to initialize and update. `git submodule init xxx` will download some info provided by `.gitmodules` file to fill `.git/config`. Then use `git update` to clone those code. Here is an example refer to [https://www.codenong.com/44366417/](https://www.codenong.com/44366417/).
 
 ::::{toggle}
 - For example a `.gitmodules` file contains three submodules to use:
@@ -492,6 +492,8 @@ $ git submodule init pygments-julia juliaplots.sty
 ```bash
 $ git submodule update
 ```
+
+
 ::::
 
 
