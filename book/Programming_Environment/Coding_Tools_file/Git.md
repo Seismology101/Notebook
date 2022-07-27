@@ -392,7 +392,7 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 :icon: info
 
 
-The following error may occur when git push is set with an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
+The following error may occur when use `git push` with using an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
 
 ```bash
 Push failed: Failed with error: unable to access 'https://github.com/weidongcao/bigdata/': 
