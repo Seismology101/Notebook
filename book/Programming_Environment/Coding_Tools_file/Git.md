@@ -111,7 +111,7 @@ Imagine the scenario that you have a remote repository on GitHub, and one comput
 
 ```{figure} ./img/Git-Github-2.jpg
 ---
-scale: 50%
+scale: 40%
 align: center
 name: git-1
 ---
