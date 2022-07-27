@@ -80,8 +80,6 @@ $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Cre
 
 **`master to main`**
 
-
-
 - Manually modify the `~/.gitconfig` file and set `defaultBranch = main`. Or use the `git config` command for git version &gt; v2.28:
 
 ```bash
