@@ -528,10 +528,10 @@ $ git remote add origin <server>
 
 ### Branch and Merge
 
-- Create a new branch
+- Create a new branch and switch to it
 
 ```bash
-
+git switch -c feature_x   # or: git checkout -b feature_x
 ```
 
 
