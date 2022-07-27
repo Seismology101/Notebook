@@ -161,14 +161,14 @@ $ ssh -T git@github.com
 We can update the IP address manually or automatically
 
 :::::{tab-set}
-::::{tab-item} Manually update IP address
+::::{tab-item} Manually update IP
 
 1
 ::::
 
 
 
-::::{tab-item} Automatically update IP address
+::::{tab-item} Automatically update IP
 q
 ::::
 :::::
