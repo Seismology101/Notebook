@@ -194,9 +194,9 @@ $ vim /etc/hosts
 ```
 
 **Refresh the `/etc/hosts` file**
-
+```{note}
 Note that the IP address of the Github changes frequently, and you should update the mapping information when it slows down again.
-
+```
 ```bash
 $ sudo killall -HUP mDNSResponder
 ```
