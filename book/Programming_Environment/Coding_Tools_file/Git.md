@@ -200,7 +200,7 @@ $ sudo killall -HUP mDNSResponder
 ```
 
 ```{note}
-The IP address of the Github changes frequently, and we should update `/etc/hosts` when it slows down again.
+The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
 ```
 
 ::::
