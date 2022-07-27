@@ -489,7 +489,7 @@ $ git submodule init pygments-julia juliaplots.sty
 ```
 Then run the following command to clone and check them
 ```bash
-git submodule update
+$ git submodule update
 ```
 ::::
 
