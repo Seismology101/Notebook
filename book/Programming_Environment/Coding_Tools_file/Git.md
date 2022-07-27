@@ -581,7 +581,11 @@ $ git merge --no-ff -m "merge dev --add new blog-1" dev
 - If the team is developing on the `dev branch` and a teammate commits a new commit to `dev`, we need to `pull` the commit from GitHub to our local `dev branch` before developing
 
 ```bash
+# specify the link between the local dev branch and the remote origin's dev branch
+$ git branch --set-upstream-to=origin/dev dev
 
+# pull code
+$ git pull
 ```
 
 
