@@ -115,7 +115,7 @@ scale: 50%
 align: center
 name: git-1
 ---
-Project and Github
+SSH keys in Github
 ```
 
 ## Github IP in China
