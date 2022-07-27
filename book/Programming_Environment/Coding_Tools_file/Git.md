@@ -119,6 +119,13 @@ SSH keys in Github
 ```
 ::::
 
+```bash
+# check git ssh status 
+$ ssh -T git@github.com
+```
+
+
+
 
 ## Github IP in China
 
