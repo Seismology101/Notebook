@@ -507,7 +507,7 @@ $ git add <filename>
 $ git add .
 
 # Add the changes from Index to local Repository
-$ git commit -m "comment"
+$ git commit -m "your comment"
 ```
 
 
