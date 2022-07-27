@@ -628,7 +628,12 @@ $ git push origin :refs/tags/v0.9
 - 
 
 ```bash
+$ git log --graph --pretty=oneline --abbrev-commit
+$ git log --pretty=oneline --abbrev-commit
+$ git log --pretty=oneline
 
+# check the latest commit
+$ git log -1
 ```
 
 ### delete files
