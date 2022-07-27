@@ -387,7 +387,9 @@ The following is an example of a modified `/etc/hosts` file:
 The IP address of the Github changes frequently, and we should update `/etc/hosts` file when it slows down again.
 ```
 
-
+:::{dropdown} Why change master to main ?
+:color: info
+:icon: info
 Push failed:... OpenSSL SSL_connect:
 
 The following error may occur when Git Push is set with an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
@@ -407,6 +409,8 @@ The SSH tunnel is supposed to be used when use `git push` command. However, if t
 ```bash
 $ git config --global --unset http.proxy
 ```
+:::
+
 
 ## Manual
 
