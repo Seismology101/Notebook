@@ -401,8 +401,6 @@ Git supports three network protocols:
 
 The SSH tunnel is supposed to be used when use `git push` command. However, if the `http` proxy is set, the `http` proxy will be used. Therefore, the above error occurs. The solution is to cancel the `http` proxy.
 
-Type in the Github project in the local root directory:
-
 ```bash
 $ git config --global --unset http.proxy
 ```
