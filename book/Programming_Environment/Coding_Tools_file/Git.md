@@ -399,7 +399,7 @@ Push failed: Failed with error: unable to access 'https://github.com/weidongcao/
 OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
 ```
 
-Git supports three network protocols: 
+Git supports 3 network protocols: 
 - `git://...`
 - `ssh://...`
 - `http://...`
