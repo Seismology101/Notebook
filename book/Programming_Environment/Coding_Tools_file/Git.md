@@ -172,6 +172,13 @@ usually query the following four domain names in [ipaddress](https://ipaddress.c
 > assets-cdn.github.com
 > codeload.github.com
 ```
+Or you can connect the IP address with the ipaddress website to query directly:
+
+- [github.global.ssl.fastly.net.ipaddress.com/](http://github.global.ssl.fastly.net.ipaddress.com/)\\
+- [github.com.ipaddress.com/](http://github.com.ipaddress.com/)\\
+- [assets-cdn.github.com.ipaddress.com/](http://assets-cdn.github.com.ipaddress.com/)\\
+- [codeload.github.com.ipaddress.com/](http://codeload.github.com.ipaddress.com/)\\
+
 
 **Change the local hosts file**
 
