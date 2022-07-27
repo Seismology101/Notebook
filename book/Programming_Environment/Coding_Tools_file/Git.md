@@ -209,10 +209,7 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 
 :::::{tab-item} Automatically update IP
 
-[GitHub520](https://github.com/521xueweihan/GitHub520) is a project that can real-time update the IP resolution of GitHub domain, project server website HelloGitHub mirror station. By referring to the Python automation script provided by Zhihu users, the IP address provided by GitHub520 is obtained in real time, and the /etc/hosts file is automatically modified. The code is as follows:
-
-
-
+[GitHub520](https://github.com/521xueweihan/GitHub520) is a project that can real-time update the IP resolution of GitHub domain, the project server's mirror website is [HelloGitHub 镜像站](https://raw.hellogithub.com/). By referring to the Python automation script provided by Zhihu users, the IP provided by GitHub520 is obtained in real time, and the `/etc/hosts` file is automatically modified. The code is as follows:
 
 ::::{toggle}
 ```python
