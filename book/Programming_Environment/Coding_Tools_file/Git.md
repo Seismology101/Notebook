@@ -79,17 +79,18 @@ $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Cre
 ```
 
 **`master to main`**
-:::{dropdown} Why change master to main ?
-:color: info
-:icon: info
-After 2020-10-01, the default branch of the GitHub repository will change to main (a neutral word) instead of master (because master is associated with master hierarchy and slavery), but will not affect all existing repositories. But notice that Git's default branch is still the master. So be careful to keep the default branch names the same. It is recommended to change the local Git's default branch from master to main. 
-:::
+
+
 
 - Manually modify the `~/.gitconfig` file and set `defaultBranch = main`. Or use the `git config` command for git version &gt; v2.28:
 
 ```bash
 $ git config --global init.defaultBranch main
 ```
+:::{dropdown} Why change master to main ?
+:color: info
+:icon: info
+After 2020-10-01, the default branch of the GitHub repository will change to main (a neutral word) instead of master (because master is associated with master hierarchy and slavery), but will not affect all existing repositories. But notice that Git's default branch is still the master. So be careful to keep the default branch names the same. It is recommended to change the local Git's default branch from master to main. 
 - It is not recommended  to change the default branch name for past projects. If you want to change the default branch name, you can rename it under the master default branch:
 ```bash
 # With the '-m' option, you can change the branch name without affecting the git commit history from master to main.
@@ -98,6 +99,7 @@ $ git branch -m master main
 # the above changes are only local and need to be synchronized to the remote.
 $ git push -u origin main
 ```
+:::
 
 ## Github IP in China
 
