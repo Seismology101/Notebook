@@ -119,8 +119,9 @@ SSH keys in Github
 ```
 ::::
 
+Then check git ssh status 
+
 ```bash
-# check git ssh status 
 $ ssh -T git@github.com
 ```
 
