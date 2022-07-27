@@ -208,7 +208,73 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 
 
 ::::{tab-item} Automatically update IP
-q
+
+
+```bash
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+# MacWk.com Hosts Start
+# Macs Fan Control
+127.0.0.1 crystalidea.com
+127.0.0.1 www.crystalidea.com
+127.0.0.1 v3pro.crystalidea.com
+# MacWk.com Hosts End
+# GitHub520 Host Start
+140.82.113.4                  alive.github.com
+140.82.113.4                  live.github.com
+18.232.140.192                github.githubassets.com
+140.82.113.4                  central.github.com
+44.201.249.207                desktop.githubusercontent.com
+140.82.113.4                  assets-cdn.github.com
+44.206.232.135                camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.113.4                  gist.github.com
+185.199.108.153               github.io
+140.82.113.4                  github.com
+192.0.66.2                    github.blog
+140.82.113.4                  api.github.com
+18.204.44.248                 raw.githubusercontent.com
+54.163.208.41                 user-images.githubusercontent.com
+44.204.67.163                 favicons.githubusercontent.com
+44.192.65.19                  avatars5.githubusercontent.com
+18.208.135.184                avatars4.githubusercontent.com
+54.175.3.163                  avatars3.githubusercontent.com
+3.239.50.191                  avatars2.githubusercontent.com
+54.87.18.202                  avatars1.githubusercontent.com
+54.197.52.125                 avatars0.githubusercontent.com
+3.236.14.33                   avatars.githubusercontent.com
+140.82.113.4                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+64.71.144.211                 github.community
+23.100.27.125                 github.dev
+140.82.113.4                  collector.github.com
+184.72.161.117                pipelines.actions.githubusercontent.com
+44.193.198.252                media.githubusercontent.com
+54.196.61.168                 cloud.githubusercontent.com
+3.236.14.33                   objects.githubusercontent.com
+13.107.213.51                 vscode.dev
+
+
+# Update time: 2022-07-15T22:10:03+08:00
+# Update url: https://raw.hellogithub.com/hosts
+# Star me: https://github.com/521xueweihan/GitHub520
+# GitHub520 Host End
+```
+
+
 ::::
 :::::
 
