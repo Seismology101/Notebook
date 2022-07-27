@@ -16,7 +16,7 @@ In practice, it is mainly used to ensure the security of remote login and remote
 Use the `-V` parameter to check the version number
 
 ```bash
-ssh -V
+$ ssh -V
 ```
 
 The following commands are used to log in to the server over `SSH`
