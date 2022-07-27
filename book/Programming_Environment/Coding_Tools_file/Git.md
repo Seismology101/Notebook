@@ -681,7 +681,28 @@ $ git clean -nfd
 - We need to remove those `.DS_Store` files from the directory which already added to git. Use the following command which will go through all the folders in your directory, and remove those files from git.
 
 ```bash
-
+$ find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
 ```
+
+- Add `.DS_Store` to the file `.gitignore`, which can be found at the top level of your repository (or create the file if it isn't there already). You can do this easily with this command in the top directory:
+```bash
+$ echo .DS_Store >> .gitignore
+```
+
+- Last step, we need to actually commit the `.gitignore` file.
+```bash
+$ git status
+$ git add .gitignore
+$ git commit -m '.DS_Store banished!'
+```
+
+- Clean the files recorded in .gitignore
+```bash
+$ git clean -X -f
+```
+
+
+
+
 
 ## Reference
