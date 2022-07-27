@@ -542,10 +542,10 @@ $ git switch main   # or: git checkout main
 ```
 
 
-- 
+- Delete a branch
 
 ```bash
-
+$ git branch -d <branch-name>
 ```
 
 - 
