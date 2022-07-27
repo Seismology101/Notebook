@@ -655,7 +655,6 @@ $ git commit -m "remove test.txt"
 
 
 - delete untracked files from `.gitignore`
-
 ```bash
 # delete untracked files
 $ git clean -f
@@ -665,8 +664,6 @@ $ git clean -fd
 
 # ? cautious
 $ git clean -xfd
-
-
 ```
 
 
