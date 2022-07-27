@@ -596,7 +596,32 @@ $ git pull
 - 
 
 ```bash
+# tag the current branch with v1.0
+$ git tag v1.0
 
+# show all the tags
+$ git tag
+
+# show the tag v0.9's information
+$ git show v0.9
+
+# tag a previous commit，f52c633 is the 'commit id'
+$ git tag v0.9 f52c633
+
+# create a tag with instructions，'-a' add tga  ，'-m' add instructions
+$ git tag -a v0.1 -m "version 0.1 released" 1094adb
+
+# delete a tag
+$ git tag -d v0.1
+
+# push the tag to remote
+$ git push origin v1.0
+
+# Push all local tags that have not been pushed to the remote at one time
+$ git push origin --tags
+
+# delete a remote tag (make sure that you have deleted the local tag before)
+$ git push origin :refs/tags/v0.9
 ```
 
 
