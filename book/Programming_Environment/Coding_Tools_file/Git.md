@@ -383,6 +383,14 @@ The following is an example of a modified `/etc/hosts` file:
 ::::::
 
 
+The following error may occur when Git Push is set with an agent refer to [SSL_connect: SSL_ERROR_SYSCALL...:443](https://blog.csdn.net/daerzei/article/details/79528153)
+
+```bash
+Push failed: Failed with error: unable to access 'https://github.com/weidongcao/bigdata/': 
+OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+```
+
+
 ## Manual
 
 
