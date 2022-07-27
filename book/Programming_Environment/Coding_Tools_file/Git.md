@@ -209,7 +209,7 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 
 ::::{tab-item} Automatically update IP
 
-
+::::{toggle}
 ```bash
 ##
 # Host Database
@@ -273,7 +273,7 @@ The IP address of the Github changes frequently, and we should update `/etc/host
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 ```
-
+::::
 
 ::::
 :::::
