@@ -545,7 +545,11 @@ $ git switch main   # or: git checkout main
 - Delete a branch
 
 ```bash
+# delete a local branch
 $ git branch -d <branch-name>
+
+# delete a remote branch
+$ git push origin --delete <branch>
 ```
 
 - 
