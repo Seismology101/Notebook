@@ -56,6 +56,11 @@ $ git --version
 
 After the successful installation , we need to configure git.
 
+:::{note}
+
+:::
+
+
 **`username and email`**
 
 
