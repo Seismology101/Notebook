@@ -419,7 +419,7 @@ $ git config --global --unset http.proxy
 ### Getting a Git repository
 
 **Init Locally**
-Creating a local repository
+Initializes a local repository and make some commit as following:
 
 ```bash
 $ git init
