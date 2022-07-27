@@ -29,7 +29,7 @@ The interaction between Git and Github is showing below
 
 ```{figure} ./img/Git-Github-1.jpeg
 ---
-scale: 25%
+scale: 100%
 align: center
 name: preview
 ---
