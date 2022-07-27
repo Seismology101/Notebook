@@ -431,7 +431,7 @@ $ git commit -m 'first commit'
 ```bash
 $ git remote add origin git@github.com:your_github_name/repo_name.git
 ```
-Since the remote library is empty, the first time we push the main branch, we add the -u parameter. Git will not only push the contents of the local main branch to the new remote main branch, but also associate the local main branch with the remote main branch, which can simplify the command in the future push or pull
+- Since the remote library is empty, the first time we push the main branch, we add the -u parameter. Git will not only push the contents of the local main branch to the new remote main branch, but also associate the local main branch with the remote main branch, which can simplify the command in the future push or pull
 
 
 
