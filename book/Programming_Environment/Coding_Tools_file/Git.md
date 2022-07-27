@@ -27,6 +27,15 @@ Git consists of three parts: `Working Directory`(工作区), `Index`(暂存区) 
 GitHub is the single largest host for Git repositories, and we can host Git repositories on GitHub.  
 The interaction between Git and Github is showing below
 
+```{figure} ./img/Git-Github-1.jepg
+---
+scale: 25%
+align: center
+name: preview
+---
+Terminal preview
+```
+
 
 ## Install
 
