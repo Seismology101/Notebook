@@ -559,7 +559,7 @@ $ git diff branch1 branch2 --stat
 # show detailed differences for the specified file
 $ git diff branch1 branch2 /path/to/file
 
-# 显示出所有有差异的文件的详细差异
+# show the detailed differences of all the different files between 2 branches
 $ git diff branch1 branch2
 ```
 
