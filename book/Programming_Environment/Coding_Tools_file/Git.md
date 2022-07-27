@@ -528,8 +528,44 @@ $ git remote add origin <server>
 
 ### Branch and Merge
 
+- Create a new branch
+
+```bash
+
+```
 
 
+- 
+
+```bash
+
+```
+
+- 
+
+```bash
+
+```
+
+- 
+
+```bash
+
+```
+
+
+- 
+
+```bash
+
+```
+
+
+- 
+
+```bash
+
+```
 
 ### Push to Remote
 
