@@ -1,4 +1,4 @@
-# Git
+# Git & Github
 
 - Author: *{{Fu}}*
 - Update: *July 27, 2022*
