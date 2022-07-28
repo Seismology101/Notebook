@@ -12,7 +12,7 @@ Force Quit Application: ESC+Option+Command
 
 
 ## VSCode
-命令面板快捷键: command + shift + P
+Universal shortcut key: command + shift + P
 
 ## Paste
 
