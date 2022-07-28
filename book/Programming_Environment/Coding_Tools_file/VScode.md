@@ -20,7 +20,7 @@ Recommend to use Microsoft account to sign in, and Github account is not worked 
 
 ## Plugin
 
-Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. 
+**Universal shortcut key**: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. 
 
 - It's a command line-like interface, which will be automatically open with an `>` symbol. 
 
