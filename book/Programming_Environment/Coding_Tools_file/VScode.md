@@ -31,7 +31,7 @@ table th:nth-of-type(2) {
 |     `Python`            | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests...                    |
 |     `Jupyter`            | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more  |
 |     `Live Preview`            | Hosts a local server in your workspace for you to preview your webpages on.                    |
-|     ``            |                     |
+|     `Code Runner`            | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScri...                    |
 |     ``            |                     |
 |     ``            |                     |
 |     ``            |                     |
