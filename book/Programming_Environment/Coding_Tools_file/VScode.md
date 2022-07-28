@@ -29,7 +29,7 @@ Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`.
 
 ```{figure} ./img/VSCode-1.jpg
 ---
-scale: 25%
+scale: 100%
 align: center
 name: preview
 ---
