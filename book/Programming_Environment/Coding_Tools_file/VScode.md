@@ -19,7 +19,7 @@ Recommend to use `Microsoft` account to sign in, and `Github` account is not wor
 
 ```{figure} ./img/VSCode-2.jpg
 ---
-scale: 70%
+scale: 100%
 align: center
 name: vscode-account
 ---
