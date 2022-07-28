@@ -46,8 +46,7 @@ table th:nth-of-type(2) {
 After configuring the `SSH key`, use `Remote-SSH` plugin.
 
 :::{tip}
-如果远程计算机使用的 Shell 是 Bash，本地计算机是 Zsh，可能遇到无法启动
-VS Code 的终端的问题。此时，需要修改一下配置文件以正确启动终端。
+If the Shell used by the remote is `Bash`, and the local machine is `Zsh`, you may experience failure to boot VSCode terminal problem. In this case, you need to modify the configuration file of VSCode to start the terminal correctly.
 
 打开命令面板，输入 Remote-SSH: Settings，搜索 terminal.integrated.shell.linux，
 将 "/bin/zsh" 改为 "/bin/bash" 即可。详情请参考
