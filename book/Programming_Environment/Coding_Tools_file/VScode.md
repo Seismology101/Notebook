@@ -55,6 +55,11 @@ Open the command panel, input the `Remote-SSH: Settings`, search `terminal.integ
 ### Python
 
 
+### Latex
+
+
+
+
 
 
 
