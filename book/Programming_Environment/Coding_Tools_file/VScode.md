@@ -55,7 +55,7 @@ name: vscode-shortcut
 ```
 
 **My plugins list**
-
+:::{toggle}
 <style>
 table th:first-of-type {
     width: 30%;
@@ -78,7 +78,7 @@ table th:nth-of-type(2) {
 |   `vscode-icons`  | Icons for Visual Studio Code |
 |   `CMake`         | CMake langage support for Visual Studio Code |
 |     ``            |                     |
-
+:::
 
 
 
