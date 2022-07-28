@@ -17,16 +17,10 @@ Download [VSCode](https://code.visualstudio.com/download) (Visual Studio Code) a
 
 <style>
 table th:first-of-type {
-    width: 25%;
+    width: 30%;
 }
 table th:nth-of-type(2) {
-    width: 45%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 20%;
+    width: 70%;
 }
 </style>
 
