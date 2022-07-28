@@ -15,7 +15,7 @@ Download [VSCode](https://code.visualstudio.com/download) (Visual Studio Code) a
 
 ## Sign-in and Sync
 
-Recommend to use Microsoft account to sign in,
+Recommend to use Microsoft account to sign in, and Github account is not worked now (until July 28, 2022).
 
 
 ## Plugin
