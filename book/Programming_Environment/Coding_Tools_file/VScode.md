@@ -34,7 +34,7 @@ table th:nth-of-type(2) {
 |     `Code Runner`            | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScri...                    |
 |     `reStructuredText`            | reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)                    |
 |     `vscode-pdf`            | Display pdf file in VSCode.                    |
-|     ``            |                     |
+|     `vscode-icons`            | Icons for Visual Studio Code                    |
 |     ``            |                     |
 |     ``            |                     |
 
