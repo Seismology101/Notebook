@@ -30,7 +30,7 @@ table th:nth-of-type(2) {
 |     `MyST-Markdown`            | The official Markdown syntax extension for MyST (Markedly Structured Text)                    |
 |     `Python`            | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests...                    |
 |     `Jupyter`            | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more  |
-|     ``            |                     |
+|     `Live Preview`            | Hosts a local server in your workspace for you to preview your webpages on.                    |
 |     ``            |                     |
 |     ``            |                     |
 |     ``            |                     |
