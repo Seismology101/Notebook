@@ -36,7 +36,8 @@ name: vscode-shortcut
 {kbd}`Command` + {kbd}`Shift` + {kbd}`P`
 ```
 
-### My plugins
+**My plugins**
+
 <style>
 table th:first-of-type {
     width: 30%;
