@@ -31,9 +31,9 @@ Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`.
 ---
 scale: 70%
 align: center
-name: preview
+name: vscode-shortcut
 ---
-Terminal preview
+{kbd}`Command` + {kbd}`Shift` + {kbd}`P`
 ```
 
 ### My plugins
