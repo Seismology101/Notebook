@@ -1,4 +1,4 @@
-# VScode
+# VSCode
 
 - Author: *{{Fu}}*
 - Update: *July 28, 2022*
@@ -10,7 +10,7 @@
 ## Install
 
 
-
+Download [VSCode](https://code.visualstudio.com/download) (Visual Studio Code) and install directly.
 
 
 ## Plugin
