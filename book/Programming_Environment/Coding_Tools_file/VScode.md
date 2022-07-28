@@ -20,9 +20,11 @@ Recommend to use Microsoft account to sign in, and Github account is not worked 
 
 ## Plugin
 
-Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. It's a command line-like interface, which will be automatically open with an `>` symbol. 
+Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. 
 
-We can input various plugins command to check their options and settings. If you delete `>` symbol, you can search file's location.
+- It's a command line-like interface, which will be automatically open with an `>` symbol. 
+
+- We can input various plugins command to check their options and settings. If you delete `>` symbol, you can search file's location.
 
 
 ```{figure} ./img/VSCode-1.jpg
