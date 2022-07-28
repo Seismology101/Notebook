@@ -43,7 +43,14 @@ table th:nth-of-type(2) {
 
 ### Remote-SSH
 
+:::{tip}
+如果远程计算机使用的 Shell 是 Bash，本地计算机是 Zsh，可能遇到无法启动
+VS Code 的终端的问题。此时，需要修改一下配置文件以正确启动终端。
 
+打开命令面板，输入 Remote-SSH: Settings，搜索 terminal.integrated.shell.linux，
+将 "/bin/zsh" 改为 "/bin/bash" 即可。详情请参考
+[microsoft/vscode-remote-release issues #38](https://github.com/microsoft/vscode-remote-release/issues/38)
+:::
 
 ### 
 
