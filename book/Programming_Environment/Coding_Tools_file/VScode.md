@@ -1,7 +1,7 @@
 # VScode
 
 - Author: *{{Fu}}*
-- Update: *July 25, 2022*
+- Update: *July 28, 2022*
 - Reading: *10 min*
 
 ---
