@@ -33,6 +33,9 @@ Refer to [Microsoft sync docs](https://code.visualstudio.com/docs/editor/setting
 My color theme: `Monokai`
 
 My file icon theme: `VSCode icons`
+
+
+
 ## Plugin
 
 **Universal shortcut key**: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. 
