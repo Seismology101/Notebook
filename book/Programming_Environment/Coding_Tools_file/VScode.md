@@ -19,8 +19,10 @@ Recommend to use Microsoft account to sign in, and Github account is not worked 
 
 
 ## Plugin
-Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`
-You will see a command line-like interface automatically open with an &gt; Symbols. This symbol is followed by commands that can be entered into various plug-ins. If I delete this &gt; Symbol for searchable file locations.
+
+Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`.
+
+It's a command line-like interface, which will be automatically open with an &gt; Symbols. This symbol is followed by commands that can be entered into various plug-ins. If I delete this &gt; Symbol for searchable file locations.
 
 
 ### My plugins
