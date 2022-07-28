@@ -32,7 +32,7 @@ Refer to [Microsoft sync docs](https://code.visualstudio.com/docs/editor/setting
 ## Theme
 My color theme: `Monokai`
 
-File icon theme: `VSCode icons`
+My file icon theme: `VSCode icons`
 ## Plugin
 
 **Universal shortcut key**: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. 
