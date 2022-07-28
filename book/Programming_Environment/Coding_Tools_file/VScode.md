@@ -25,7 +25,7 @@ Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`. It's a command
 We can input various plugins command to check their options and settings. If you delete `>` symbol, you can search file's location.
 
 
-```{figure} ./img/VSCode-1.jpeg
+```{figure} ./img/VSCode-1.jpg
 ---
 scale: 25%
 align: center
