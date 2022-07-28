@@ -29,6 +29,9 @@ My `Microsoft` account to sign in VSCode
 Refer to [Microsoft sync docs](https://code.visualstudio.com/docs/editor/settings-sync) before use `sync` function.
 
 
+## Theme
+
+
 
 
 ## Plugin
