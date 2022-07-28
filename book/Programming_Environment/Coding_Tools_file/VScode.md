@@ -52,7 +52,10 @@ Open the command panel, input the `Remote-SSH: Settings`, search `terminal.integ
 [microsoft/vscode-remote-release issues #38](https://github.com/microsoft/vscode-remote-release/issues/38)
 :::
 
-### 
+### Python
+
+
+
 
 
 
