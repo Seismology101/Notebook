@@ -26,16 +26,16 @@ table th:nth-of-type(2) {
 
 |        Name       |       Purpose       |      
 |    ------------   |    -------------    |  
-|   `Remote-SSH`  | Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set |  
-|     `MyST-Markdown`            | The official Markdown syntax extension for MyST (Markedly Structured Text)                    |
-|     `Python`            | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests...                    |
-|     `Jupyter`            | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more  |
-|     `Live Preview`            | Hosts a local server in your workspace for you to preview your webpages on.                    |
-|     `Code Runner`            | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScri...                    |
-|     `reStructuredText`            | reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)                    |
-|     `vscode-pdf`            | Display pdf file in VSCode.                    |
-|     `vscode-icons`            | Icons for Visual Studio Code                    |
-|     `CMake`            | CMake langage support for Visual Studio Code                    |
+|   `Remote-SSH`    | Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set |  
+|   `MyST-Markdown` | The official Markdown syntax extension for MyST (Markedly Structured Text) |
+|   `Python`        | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests... |
+|   `Jupyter`       | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more |
+|   `Live Preview`  | Hosts a local server in your workspace for you to preview your webpages on |
+|   `Code Runner`   | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScri... |
+| `reStructuredText`| reStructuredText language support (RST/ReST linter, preview, IntelliSense and more) |
+|   `vscode-pdf`    | Display pdf file in VSCode |
+|   `vscode-icons`  | Icons for Visual Studio Code |
+|   `CMake`         | CMake langage support for Visual Studio Code |
 |     ``            |                     |
 
 
