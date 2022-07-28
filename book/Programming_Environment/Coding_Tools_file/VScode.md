@@ -22,7 +22,7 @@ Recommend to use Microsoft account to sign in, and Github account is not worked 
 
 Universal shortcut key: {kbd}`Command` + {kbd}`Shift` + {kbd}`P`.
 
-It's a command line-like interface, which will be automatically open with an `>` symbols. This symbol is followed by commands that can be entered into various plug-ins. If I delete this &gt; Symbol for searchable file locations.
+It's a command line-like interface, which will be automatically open with an `>` symbol. This symbol is followed by commands that can be entered into various plug-ins. If I delete this &gt; Symbol for searchable file locations.
 
 
 ### My plugins
