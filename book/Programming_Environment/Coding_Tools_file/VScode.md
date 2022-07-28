@@ -27,7 +27,7 @@ table th:nth-of-type(2) {
 |        Name       |       Purpose       |      
 |    ------------   |    -------------    |  
 |   `Remote-SSH`  | Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set |  
-|     ``            |                     |
+|     `MyST-Markdown`            | The official Markdown syntax extension for MyST (Markedly Structured Text)                    |
 |     ``            |                     |
 |     ``            |                     |
 |     ``            |                     |
