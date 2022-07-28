@@ -30,9 +30,9 @@ Refer to [Microsoft sync docs](https://code.visualstudio.com/docs/editor/setting
 
 
 ## Theme
-My color theme: `Monokai`
+- My color theme: `Monokai`
 
-My file icon theme: `VSCode icons`
+- My file icon theme: `VSCode icons`
 
 
 
