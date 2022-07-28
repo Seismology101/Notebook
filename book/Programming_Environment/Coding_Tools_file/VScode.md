@@ -15,8 +15,7 @@ Download [VSCode](https://code.visualstudio.com/download) (Visual Studio Code) a
 
 ## Sign-in and Sync
 
-
-
+Recommend to use Microsoft account to sign in,
 
 
 ## Plugin
