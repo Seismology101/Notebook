@@ -43,6 +43,7 @@ table th:nth-of-type(2) {
 
 
 ### Remote-SSH
+After configuring the `SSH key`, use `Remote-SSH` plugin.
 
 :::{tip}
 如果远程计算机使用的 Shell 是 Bash，本地计算机是 Zsh，可能遇到无法启动
