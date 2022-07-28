@@ -78,6 +78,7 @@ table th:nth-of-type(2) {
 |   `vscode-icons`  | Icons for Visual Studio Code |
 |   `CMake`         | CMake langage support for Visual Studio Code |
 |   ``              |                     |
+|   ``              |                     |
 :::
 
 
