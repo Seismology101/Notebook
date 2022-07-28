@@ -32,7 +32,7 @@ table th:nth-of-type(4) {
 
 |        Name       |       Purpose       |      
 |    ------------   |    -------------    |  
-|   `Remote-SSH`  | Chrome plugin to fresh html when using jupyter-book to build project |  
+|   `Remote-SSH`  | Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set |  
 |     ``            |                     |
 |     ``            |                     |
 |     ``            |                     |
