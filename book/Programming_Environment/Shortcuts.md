@@ -1,5 +1,13 @@
 # Shortcuts
 
+
+
+## Mac
+
+Force Quit Application: ESC+Option+Command
+
+
+
 ## Iterm2
 
 
