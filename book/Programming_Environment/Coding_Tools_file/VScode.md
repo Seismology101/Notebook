@@ -36,7 +36,7 @@ name: vscode-shortcut
 {kbd}`Command` + {kbd}`Shift` + {kbd}`P`
 ```
 
-**My plugins**
+**My plugins list**
 
 <style>
 table th:first-of-type {
