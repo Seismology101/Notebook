@@ -35,7 +35,7 @@ table th:nth-of-type(2) {
 |     `reStructuredText`            | reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)                    |
 |     `vscode-pdf`            | Display pdf file in VSCode.                    |
 |     `vscode-icons`            | Icons for Visual Studio Code                    |
-|     ``            |                     |
+|     `CMake`            | CMake langage support for Visual Studio Code                    |
 |     ``            |                     |
 
 
