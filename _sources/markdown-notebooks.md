@@ -23,8 +23,32 @@ This page shows off a notebook written in MyST Markdown.
 
 With MyST Markdown, you can define code cells with a directive like so:
 
-```{code-cell}
+```{code-cell} ipython3
 print(2 + 2)
+```
+
+```{code-cell} ipython3
+import numpy as np
+import matplotlib.pyplot as plt
+plt.ion()
+
+x = np.arange(500)
+y = np.random.randn(500)
+
+fig, ax = plt.subplots()
+ax.scatter(x, y, c=y, s=x)
+```
+
+```{code-cell}
+import numpy as np
+import matplotlib.pyplot as plt
+plt.ion()
+
+x = np.arange(500)
+y = np.random.randn(500)
+
+fig, ax = plt.subplots()
+ax.scatter(x, y, c=y, s=x)
 ```
 
 When your book is built, the contents of any `{code-cell}` blocks will be

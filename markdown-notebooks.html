@@ -430,6 +430,48 @@ This page shows off a notebook written in MyST Markdown.</p>
 </div>
 </div>
 </div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>import numpy as np
+import matplotlib.pyplot as plt
+plt.ion()
+
+x = np.arange(500)
+y = np.random.randn(500)
+
+fig, ax = plt.subplots()
+ax.scatter(x, y, c=y, s=x)
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;matplotlib.collections.PathCollection at 0x7f9fdcefe040&gt;
+</pre></div>
+</div>
+<img alt="_images/markdown-notebooks_2_1.png" src="_images/markdown-notebooks_2_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>import numpy as np
+import matplotlib.pyplot as plt
+plt.ion()
+
+x = np.arange(500)
+y = np.random.randn(500)
+
+fig, ax = plt.subplots()
+ax.scatter(x, y, c=y, s=x)
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;matplotlib.collections.PathCollection at 0x7f9fdce239a0&gt;
+</pre></div>
+</div>
+<img alt="_images/markdown-notebooks_3_1.png" src="_images/markdown-notebooks_3_1.png" />
+</div>
+</div>
 <p>When your book is built, the contents of any <code class="docutils literal notranslate"><span class="pre">{code-cell}</span></code> blocks will be
 executed with your default Jupyter kernel, and their outputs will be displayed
 in-line with the rest of your content.</p>
